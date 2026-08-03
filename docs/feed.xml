@@ -4,15 +4,69 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-03T14:31:39Z</updated>
+  <updated>2026-08-03T15:32:15Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Watch Jordan Henderson's first interview since signing for Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/watch-jordan-hendersons-first-interview-since-signing-for-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785754510/restricted/2026/Jordan%20Henderson/henderson-wt-2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7bijueZz8QZezjXKzATk2L</id>
+    <published>2026-08-03T10:55:10Z</published>
+    <updated>2026-08-03T15:32:15Z</updated>
+    <summary>Article / Transfer news / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Gallery: Jordan Henderson takes a tour around Cobham!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-jordan-henderson-takes-a-tour-around-cobham"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785764873/restricted/2026/Jordan%20Henderson/CL1_0733_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4KDrz1WoL2slZR8SkPYTUe</id>
+    <published>2026-08-03T13:47:53Z</published>
+    <updated>2026-08-03T15:32:15Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Jordan Henderson joins Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/jordan-henderson-joins-chelsea-transfer"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785763475/restricted/2026/Jordan%20Henderson/jordan-henderson-signing-story.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6Zl3jFypXE0YthmEXRZA5n</id>
+    <published>2026-08-03T13:24:35Z</published>
+    <updated>2026-08-03T15:32:15Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Jordan Henderson | First Interview 🎙️</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/jordan-henderson-walk-talk-v2-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785767769/video/2026/08/03/16x9_Henderson_first_interview_v5.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3t87Bswir06zQ7JcHwui8H</id>
+    <published>2026-08-03T00:00:00Z</published>
+    <updated>2026-08-03T15:32:15Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>He's joining the pride 🦁</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/henderson-hero-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785750133/video/2026/08/02/henderson_hero_thumbnail_16x9.jpg"/>
+    <id>tag:chelseafc.com,2026:news:eFDFKCRF2Bw03NpPHNSDf</id>
+    <published>2026-08-02T00:00:00Z</published>
+    <updated>2026-08-03T15:32:15Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Premier League ticket news: Fulham away</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-ticket-news-fulham-away-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1673471878/editorial/news/2023/01/11/Craven_Cottage_aerial_view.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7nQ6u1iNRZxF1Jiup2gZ6E</id>
+    <published>2023-01-11T00:00:00Z</published>
+    <updated>2026-08-03T15:32:15Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Six players join Chelsea squad on pre-season tour </title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/six-players-join-chelsea-squad-pre-season-tour"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785761701/editorial/news/2026/08/03/Player_arrival_version_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:2OmoWxoRmgqIkweV9VcDh1</id>
     <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
+    <updated>2026-08-03T15:32:15Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1784888118/editorial/news/2026/07/24/Estevao_Willian_Joao_Pedro_team_flight.jpg"/>
     <id>tag:chelseafc.com,2026:news:3x9YdI4en8QYX9tgRxp5V7</id>
     <published>2026-07-24T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
+    <updated>2026-08-03T15:32:15Z</updated>
     <summary>Article / Pre-season Tour 2026 / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,8 +84,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785754117/video/2026/08/03/Screenshot_2026-08-03_at_11.45.20.png"/>
     <id>tag:chelseafc.com,2026:news:69tOnkuQpBByj8zSDGFWDC</id>
     <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
+    <updated>2026-08-03T15:32:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Secure your seat or VIP pass now for Chelsea’s big match in Hong Kong </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/secure-your-seat-or-vip-pass-now-for-chelseas-big-match-in-hong-kong"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785533133/editorial/news/2026/07/31/GettyImages-2287985498.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6VjhIbko2YjFk7rGysGuOk</id>
+    <published>2026-07-31T00:00:00Z</published>
+    <updated>2026-08-03T15:32:15Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Gallery: Chelsea Women set off for New Zealand!</title>
@@ -39,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785747837/editorial/news/2026/08/03/Gallery_7.jpg"/>
     <id>tag:chelseafc.com,2026:news:krEgEamZU6J4u252CPj0o</id>
     <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
+    <updated>2026-08-03T15:32:15Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,70 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1759142375/editorial/Stamford%20Bridge%20general%20shots/stamford_Bridge_view_-_night_-_pitch_level.jpg"/>
     <id>tag:chelseafc.com,2026:news:2egjU71ShG4kb6HdkxfpRx</id>
     <published>2025-09-29T10:39:35Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
+    <updated>2026-08-03T15:32:15Z</updated>
     <summary>Article / Club / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Women travelling squad for New Zealand and Australia pre-season tour</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/travelling-chelsea-women-squad-confirmed-for-new-zealand-and-australia-pre"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785744315/editorial/news/2026/08/03/nusken-travel-auckland.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6AdZbFlmQ7wOy5YTTPed5F</id>
-    <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>My First Tour: Reggie Walsh listening and learning</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/my-first-tour-reggie-walsh-listening-and-learning"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785729458/video/2026/08/01/GettyImages-2287186405.jpg"/>
-    <id>tag:chelseafc.com,2026:news:47GUKiHZLVsTW4oNIpZuoq</id>
-    <published>2026-08-01T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
-    <summary>Article / Pre-season Tour 2026 / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Gallery: Chelsea head to Hong Kong</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-chelsea-head-to-hong-kong"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785686546/editorial/news/2026/08/02/DAR_4007.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7sV3IKvxJOs40wodXXqs6W</id>
-    <published>2026-08-02T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Welcome to Chelsea, Valentin! 🔵</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/barco-hero-16x9-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785685697/editorial/news/2026/08/02/GettyImages-2269306245.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5k1ARajrVzMTWTx7Mz40U3</id>
-    <published>2026-08-02T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Valentin Barco signs for Chelsea!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/valentin-barco-signs-for-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785685695/editorial/news/2026/08/02/GettyImages-2243511487.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2dNuci5wWZZv7lApjz9uYd</id>
-    <published>2026-08-02T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Five things you may not know about Valentin Barco</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/five-things-you-may-not-know-about-valentin-barco"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1784209858/editorial/news/2026/07/16/barco-argentina.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7jAZYYz7vegZ2c5bGJYIpk</id>
-    <published>2026-07-16T00:00:00Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Career in pictures: Valentin Barco</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/career-in-pictures-valentin-barco-chelsea-signing"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1784122888/restricted/2026/Valentin%20Barco/GettyImages-2266915778.jpg"/>
-    <id>tag:chelseafc.com,2026:news:L1z9GT28dlXwRTffHLr0V</id>
-    <published>2026-07-15T13:41:28Z</published>
-    <updated>2026-08-03T14:31:39Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
