@@ -8,6 +8,21 @@ so it may change without notice).
 
 API: https://www.chelseafc.com/en/api/news/listing/7rJyiGvKIDGe6kNF0jRwJ5
 
+IMPORTANT LIMITATIONS (verified against live API response):
+- The API returns only: id, title, type, category, url, thumbnail. There is
+  NO article body/snippet/description field. <summary> is therefore limited
+  to "type / category" - there is no richer content available from this
+  endpoint without fetching each article page individually.
+- The API returns NO publish-date field. This script derives a best-effort
+  <published> date from (in order of preference):
+    1. A YYYY/MM/DD date embedded in the thumbnail asset path
+       (e.g. ".../editorial/news/2026/08/02/...")
+    2. The Cloudinary asset version number in the thumbnail URL
+       (e.g. "v1785686546"), which is a Unix timestamp of when the image
+       was uploaded - usually same-day as publish, but not guaranteed.
+    3. Fallback: current time (script run time), same as <updated>.
+  This is NOT a verified article-publish timestamp. Treat it as an estimate.
+
 Usage:
     python3 chelsea_rss.py                 # writes feed.xml (Atom 1.0)
     python3 chelsea_rss.py --out feed.xml
@@ -16,6 +31,7 @@ Usage:
 
 import argparse
 import hashlib
+import re
 import sys
 from datetime import datetime, timezone
 from xml.sax.saxutils import escape
@@ -25,7 +41,6 @@ import requests
 API_URL = "https://www.chelseafc.com/en/api/news/listing/7rJyiGvKIDGe6kNF0jRwJ5"
 SITE_BASE = "https://www.chelseafc.com"
 FEED_TITLE = "Chelsea FC - Latest News"
-FEED_SELF_LINK_PLACEHOLDER = "FEED_SELF_URL"  # replaced by --self-url at build time
 FEED_ALT_LINK = "https://www.chelseafc.com/en/news/latest-news"
 FEED_SUBTITLE = "Unofficial Atom feed generated from Chelsea FC's news listing API."
 FEED_ID = "tag:chelseafc.com,2026:latest-news"
@@ -37,6 +52,11 @@ HEADERS = {
     ),
     "Accept": "application/json",
 }
+
+# Matches .../2026/08/02/... in an asset path
+DATE_PATH_RE = re.compile(r"/(\d{4})/(\d{2})/(\d{2})/")
+# Matches Cloudinary version prefix like v1785686546
+CLOUDINARY_VERSION_RE = re.compile(r"/v(\d{9,13})/")
 
 
 def fetch_items(limit: int) -> list[dict]:
@@ -61,7 +81,49 @@ def fetch_items(limit: int) -> list[dict]:
     return items[:limit]
 
 
-def normalise(item: dict) -> dict:
+def extract_published(item: dict, now_str: str) -> tuple[str, str]:
+    """
+    Best-effort published date for an item.
+    Returns (rfc3339_string, method) where method is one of:
+      "path-date", "cloudinary-version", "fallback-now"
+    """
+    thumb_id = ""
+    thumb_url = ""
+    try:
+        thumb_id = item["thumbnail"]["id"] or ""
+    except (KeyError, TypeError):
+        pass
+    try:
+        thumb_url = item["thumbnail"]["file"]["url"] or ""
+    except (KeyError, TypeError):
+        pass
+
+    # 1. Date embedded in asset path, e.g. editorial/news/2026/08/02/...
+    for source in (thumb_id, thumb_url):
+        m = DATE_PATH_RE.search(source)
+        if m:
+            year, month, day = (int(x) for x in m.groups())
+            try:
+                dt = datetime(year, month, day, tzinfo=timezone.utc)
+                return dt.strftime("%Y-%m-%dT%H:%M:%SZ"), "path-date"
+            except ValueError:
+                pass  # bad date components, fall through
+
+    # 2. Cloudinary version number = unix timestamp of upload
+    m = CLOUDINARY_VERSION_RE.search(thumb_url)
+    if m:
+        try:
+            ts = int(m.group(1))
+            dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+            return dt.strftime("%Y-%m-%dT%H:%M:%SZ"), "cloudinary-version"
+        except (ValueError, OSError, OverflowError):
+            pass
+
+    # 3. Fallback - same logic as <updated>
+    return now_str, "fallback-now"
+
+
+def normalise(item: dict, now_str: str) -> dict:
     """Map a Chelsea API item to standard feed fields."""
     rel_url = item.get("url", "")
     link = rel_url if rel_url.startswith("http") else SITE_BASE + rel_url
@@ -80,6 +142,8 @@ def normalise(item: dict) -> dict:
 
     item_id = item.get("id") or hashlib.sha1(link.encode()).hexdigest()
 
+    published, method = extract_published(item, now_str)
+
     return {
         "id": item_id,
         "title": item.get("title", "Untitled"),
@@ -87,6 +151,8 @@ def normalise(item: dict) -> dict:
         "category": category,
         "type": item.get("type", ""),
         "thumbnail": thumb,
+        "published": published,
+        "date_method": method,
     }
 
 
@@ -95,8 +161,8 @@ def build_atom(items: list[dict], self_url: str) -> str:
 
     entries = []
     for it in items:
-        n = normalise(it)
-        summary_bits = [n["type"], n["category"]]
+        n = normalise(it, now)
+        summary_bits = [n["type"], n["category"], f"date-source:{n['date_method']}"]
         summary = " / ".join(b for b in summary_bits if b)
         thumb_link = (
             f'<link rel="enclosure" type="image/jpeg" href="{escape(n["thumbnail"])}"/>'
@@ -109,6 +175,7 @@ def build_atom(items: list[dict], self_url: str) -> str:
     <link rel="alternate" href="{escape(n['link'])}"/>
     {thumb_link}
     <id>tag:chelseafc.com,2026:news:{escape(n['id'])}</id>
+    <published>{n['published']}</published>
     <updated>{now}</updated>
     <summary>{escape(summary)}</summary>
   </entry>""")
