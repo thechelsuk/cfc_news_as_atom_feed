@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-04T13:47:47Z</updated>
+  <updated>2026-08-04T14:41:40Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>CFC Unlocked | Joao Pedro 🔓</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfc-unlocked-or-episode-ten-or-joao-pedro-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785847392/video/2026/08/04/cfc_unlocked_joao_pedro_thumbnail.jpg"/>
+    <id>tag:chelseafc.com,2026:news:C0EfVedmIuMwSUV9DHCgn</id>
+    <published>2026-08-04T00:00:00Z</published>
+    <updated>2026-08-04T14:41:40Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Joao Pedro discusses his impressive first season in latest CFC Unlocked</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/joao-pedro-discusses-his-impressive-first-season-in-latest-cfc-unlocked"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785851243/editorial/news/2026/08/04/GettyImages-2288571744.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1CN6hgYg8PfMV31MRyHJKJ</id>
+    <published>2026-08-04T00:00:00Z</published>
+    <updated>2026-08-04T14:41:40Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Alonso on Mudryk and Welbeck tour involvement and Henderson plan</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-mudryk-welbeck-tour-involvement-and-henderson-plan"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785846801/editorial/news/2026/08/03/Xabi_Alonso_Chelsea_training.jpg"/>
     <id>tag:chelseafc.com,2026:news:1DSB2Fesed5n4EiGwTH7rI</id>
     <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785846991/video/2026/08/04/16x9_Alonso_pre-Juventus_Hong_Kong__Pre-Season_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:xLWvfAQPVRksgjKNuszqQ</id>
     <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785849277/video/2026/08/04/16x9_Caicedo_pre-Juventus_Hong_Kong__Pre-Season_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:lPCtzZqSQ8q3Kf4m8XE8D</id>
     <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,16 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785839667/editorial/news/2026/08/04/GettyImages-2288569537.jpg"/>
     <id>tag:chelseafc.com,2026:news:6IGiAwFpdC5kWS9UBqnOzQ</id>
     <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Watch the Blues train in Hong Kong!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/watch-the-blues-train-in-hong-kong"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785838341/editorial/news/2026/08/03/Kai_Tak_Sports_Park_general.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4K5NTjDkrfMVvDaE97hntz</id>
-    <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785835819/GettyImages-2287488551_1_k5sqmv.jpg"/>
     <id>tag:chelseafc.com,2026:news:5ppXrR0BCLo12ebn236XPT</id>
     <published>2026-08-04T09:30:19Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785840023/video/2026/08/04/HL3_3093_2HHY59th.jpg"/>
     <id>tag:chelseafc.com,2026:news:26Aro29ieupcZT19jUjNfd</id>
     <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785759799/editorial/news/2026/08/03/asia-trophy-2011-pennant.jpg"/>
     <id>tag:chelseafc.com,2026:news:2TmVDsyqYROIJ53brXgtL2</id>
     <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Article / Pre-season Tour 2026 / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,16 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785827592/video/2026/08/01/GettyImages-2287038562.jpg"/>
     <id>tag:chelseafc.com,2026:news:6qZKjG4R3YoVH3SOOWySJW</id>
     <published>2026-08-01T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Watch the Blues train in Hong Kong!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/watch-the-blues-train-in-hong-kong"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785838341/editorial/news/2026/08/03/Kai_Tak_Sports_Park_general.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4K5NTjDkrfMVvDaE97hntz</id>
+    <published>2026-08-03T00:00:00Z</published>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785697632/editorial/news/2026/08/02/00.GettyImages-1446920467.jpg"/>
     <id>tag:chelseafc.com,2026:news:3dShHhSuyVPErCgsvdiuBF</id>
     <published>2026-08-02T00:00:00Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
+    <updated>2026-08-04T14:41:40Z</updated>
     <summary>Article / Transfer news / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>10 facts you might not know about Jordan Henderson</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/10-facts-you-might-not-know-about-jordan-henderson"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785682977/restricted/2026/Jordan%20Henderson/CL1_0618.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5DrwNiaZQ9S3zIxqsJk35m</id>
-    <published>2026-08-02T15:02:57Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: Settling into Hong Kong</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-settling-into-hong-kong"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785771588/DAR_6043_unnmhw.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1rCzElC9TWlPT6Y23E2pvh</id>
-    <published>2026-08-03T15:39:48Z</published>
-    <updated>2026-08-04T13:47:47Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
