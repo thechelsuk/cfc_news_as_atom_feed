@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-05T09:49:09Z</updated>
+  <updated>2026-08-05T11:47:48Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Chelsea squad numbers for 2026 pre-season tour</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-2026-pre-season-tour-confirmed"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1784888118/editorial/news/2026/07/24/Estevao_Willian_Joao_Pedro_team_flight.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3x9YdI4en8QYX9tgRxp5V7</id>
+    <published>2026-07-24T00:00:00Z</published>
+    <updated>2026-08-05T11:47:48Z</updated>
+    <summary>Article / Pre-season Tour 2026 / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Confirmed Chelsea line up vs Juventus</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-juventus-pre-season"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785925776/editorial/news/2026/08/05/Chelsea_dressing_room.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1GdMTP8vdqIEZbL7o8Y2tL</id>
+    <published>2026-08-05T00:00:00Z</published>
+    <updated>2026-08-05T11:47:48Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Women receive traditional Maori welcome ceremony</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-receive-traditional-maori-welcome-ceremony"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785922332/editorial/news/2026/08/05/bompastor-hongi.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2cp5XfK7Qi995CaVzuXrv8</id>
+    <published>2026-08-05T00:00:00Z</published>
+    <updated>2026-08-05T11:47:48Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Lola Brown excited for first pre-season tour</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lola-brown-excited-for-first-pre-season-tour"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785925085/editorial/news/2026/08/05/GettyImages-2287348070.jpg"/>
+    <id>tag:chelseafc.com,2026:news:raYFPkABRY7DdjIvVjQXn</id>
+    <published>2026-08-05T00:00:00Z</published>
+    <updated>2026-08-05T11:47:48Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Nicoll-Jazuli on his Chelsea journey</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/mahdi-exclusive-iv-16x9-08-2026"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785541878/video/2026/07/31/GettyImages-2287189818.jpg"/>
     <id>tag:chelseafc.com,2026:news:1U2LsUb2jPcTN8V2uQEJiV</id>
     <published>2026-07-31T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
+    <updated>2026-08-05T11:47:48Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785855663/video/2026/08/01/DTW_9547.jpg"/>
     <id>tag:chelseafc.com,2026:news:542QhKzvL3oU5hpV5GXpKs</id>
     <published>2026-08-01T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
+    <updated>2026-08-05T11:47:48Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785855050/video/2026/08/01/GettyImages-2288238669.jpg"/>
     <id>tag:chelseafc.com,2026:news:3BukbOW8BcbPOWA0sX8ERy</id>
     <published>2026-08-01T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
+    <updated>2026-08-05T11:47:48Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785847333/editorial/news/2026/08/04/GettyImages-146830693.jpg"/>
     <id>tag:chelseafc.com,2026:news:2al4uZMZpOOlvYdyA2gVtx</id>
     <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
+    <updated>2026-08-05T11:47:48Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785850435/editorial/news/2026/08/04/james-malard.jpg"/>
     <id>tag:chelseafc.com,2026:news:7si2fWzuB8Ls2dQGKKJenz</id>
     <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
+    <updated>2026-08-05T11:47:48Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785855313/editorial/news/2026/08/03/Estevao_Chelsea_training_Hong_Kong.jpg"/>
     <id>tag:chelseafc.com,2026:news:6Awg4s88dKh5deqBkjaWLX</id>
     <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
+    <updated>2026-08-05T11:47:48Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785855059/editorial/news/2026/08/03/DAR_6660.jpg"/>
     <id>tag:chelseafc.com,2026:news:5qaGJQtEZBDDUi1NnxM50L</id>
     <published>2026-08-03T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
+    <updated>2026-08-05T11:47:48Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785850435/editorial/news/2026/08/04/james-malard.jpg"/>
     <id>tag:chelseafc.com,2026:news:7I8kyvxZ1nc7XKMwL9LdcE</id>
     <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
+    <updated>2026-08-05T11:47:48Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>What kit are Chelsea wearing against Juventus?</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/what-kit-are-chelsea-wearing-against-juventus"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785852222/GettyImages-2201125533_gytjeo.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2zuaOiySKUFgy7gYh5Bsxo</id>
-    <published>2026-08-04T14:03:42Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Moises Caicedo 'so excited' to reunite with Danny Welbeck at Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/caicedo-so-excited-to-reunite-with-welbeck"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785844805/video/2026/08/01/DTW_9528-3292627.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5rzBGNYb8WFnmJdY38H5Wx</id>
-    <published>2026-08-01T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>CFC Unlocked | Joao Pedro 🔓</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfc-unlocked-or-episode-ten-or-joao-pedro-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785847392/video/2026/08/04/cfc_unlocked_joao_pedro_thumbnail.jpg"/>
-    <id>tag:chelseafc.com,2026:news:C0EfVedmIuMwSUV9DHCgn</id>
-    <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Joao Pedro discusses his impressive first season in latest CFC Unlocked</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/joao-pedro-discusses-his-impressive-first-season-in-latest-cfc-unlocked"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785851243/editorial/news/2026/08/04/GettyImages-2288571744.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1CN6hgYg8PfMV31MRyHJKJ</id>
-    <published>2026-08-04T00:00:00Z</published>
-    <updated>2026-08-05T09:49:09Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
