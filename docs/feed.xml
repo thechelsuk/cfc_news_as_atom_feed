@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-06T09:49:48Z</updated>
+  <updated>2026-08-06T11:53:12Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Mahdi Nicoll-Jazuli on going back to the beginning for his debut</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/mahdi-nicoll-jazuli-on-going-back-to-the-beginning-for-his-debut"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786012868/editorial/news/2026/08/06/GettyImages-2288571776.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7rotiOKwxyS9p5nnnWziEb</id>
+    <published>2026-08-06T00:00:00Z</published>
+    <updated>2026-08-06T11:53:12Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Jamie Gittens interview: 'I’m feeling better every day'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/jamie-gittens-interview-im-feeling-better-every-day-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786012063/restricted/2026/Pep%20Chavarria/GettyImages-2288357808.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5Ga90ZHzwZ2NJbk96yz1wU</id>
+    <published>2026-08-06T10:27:43Z</published>
+    <updated>2026-08-06T11:53:12Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>CFCW on tour: The Blues set sail in New Zealand</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cfcw-on-tour-the-blues-set-sail-in-new-zealand"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786006437/editorial/women%27s-team/AUS%20NZ%20Tour/6%20Aug/Sailing_trip_Auckland_5.jpg"/>
+    <id>tag:chelseafc.com,2026:news:0LAu5cKKbGE2Knuf4jpWS</id>
+    <published>2026-08-06T08:53:57Z</published>
+    <updated>2026-08-06T11:53:12Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Gittens Pre-Season Exclusive</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/gittens-tour-exclusive-16x9"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785945224/video/2026/08/05/GettyImages-2288575628.jpg"/>
     <id>tag:chelseafc.com,2026:news:5yBlBQV0No56GthCvZEBu3</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785985168/editorial/news/2026/08/06/ABJ_cropped.jpg"/>
     <id>tag:chelseafc.com,2026:news:1A5lhGCtZkux6BsauxdOO7</id>
     <published>2026-08-06T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785972429/editorial/women%27s-team/AUS%20NZ%20Tour/6%20Aug/NZ_tour_training_6_Aug_11.jpg"/>
     <id>tag:chelseafc.com,2026:news:5JYw1LUfeDodYHXgIcvVJI</id>
     <published>2026-08-05T23:27:09Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1673471878/editorial/news/2023/01/11/Craven_Cottage_aerial_view.jpg"/>
     <id>tag:chelseafc.com,2026:news:7nQ6u1iNRZxF1Jiup2gZ6E</id>
     <published>2023-01-11T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785985515/editorial/news/2026/08/05/Ryan_Kavuma-McQueen_Chelsea.jpg"/>
     <id>tag:chelseafc.com,2026:news:51AuYBHq1HOWh54kjD22y0</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785945054/editorial/news/2026/08/05/Joao_Pedro_and_Danny_Welbeck_Chelsea_training.jpg"/>
     <id>tag:chelseafc.com,2026:news:7CBGR6ZCmzdeeFi5aJVsu7</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785947664/editorial/news/2026/08/05/Mahdi_Nicoll-Jazuili_vs_Juventus.jpg"/>
     <id>tag:chelseafc.com,2026:news:2aVCfeuYVojsEHB6TyPvUu</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785937189/video/2026/08/05/full_match_vs_juventus_thumbnail_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:6kYUcePFhsp5tsPYnejTd4</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785931405/editorial/match-reports/2026-27/Juventus%20%28Pre-season%29/Danny_Welbeck_Chelsea_Juventus.jpg"/>
     <id>tag:chelseafc.com,2026:news:1dKAxSBhC2Eui8rToOOxLg</id>
     <published>2026-08-05T12:03:25Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Chelsea vs Auckland preview: TV channel, kick-off time and how to watch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-auckland-preview-tv-channel-kick-off-time-and-how-to-watch"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785936733/editorial/news/2026/08/05/HL3_5367_vqFlD4xF.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5NkDw4XAGlZ4IeYqTAIFzw</id>
-    <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Extended: Chelsea 0-1 Juventus</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pre-season-tour-2026-extended-chelsea-0-1-juventus"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785937306/video/2026/08/05/extended_vs_juventus_thumbnail_pst.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5ZAQ2afULqiNbBtZRdeSpo</id>
-    <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso on 'emotional' Mudryk return and Palmer and Colwill absences</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-emotional-mudryk-return-and-palmer-and-colwill-absences"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785941095/editorial/match-reports/2026-27/Juventus%20%28Pre-season%29/GettyImages-2289181745.jpg"/>
-    <id>tag:chelseafc.com,2026:news:46VZHlYcenyxeiNTKf0H8P</id>
-    <published>2026-08-05T14:44:55Z</published>
-    <updated>2026-08-06T09:49:48Z</updated>
+    <updated>2026-08-06T11:53:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
