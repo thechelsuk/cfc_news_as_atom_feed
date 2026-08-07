@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-07T15:03:16Z</updated>
+  <updated>2026-08-07T16:04:35Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Alonso: Ask Me Anything</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/xabi-alonso-ask-me-anything-or-pre-season-tour-2026-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786094033/video/2026/08/07/xabi_ama.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7ggV9Jxd5Z3LYni21JDhZ8</id>
+    <published>2026-08-07T00:00:00Z</published>
+    <updated>2026-08-07T16:04:35Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>What kit are Chelsea wearing against AC Milan?</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/what-kit-are-chelsea-wearing-against-ac-milan"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786104900/GettyImages-2150194918_ps2fni.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2zudFKutGZCyn9XfjEueyN</id>
+    <published>2026-08-07T12:15:00Z</published>
+    <updated>2026-08-07T16:04:35Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Xabi Alonso on building a Chelsea side 'that can compete anywhere' </title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-building-a-chelsea-side-that-can-compete-anywhere"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786111091/editorial/news/2026/08/07/DAZ_9145-3298422.jpg"/>
     <id>tag:chelseafc.com,2026:news:6kgRPY8uSndkEsgVcKICZ4</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786104769/editorial/news/2026/08/07/press-training-144.jpg"/>
     <id>tag:chelseafc.com,2026:news:73fKqrToulo8OeuYQY5vi1</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786109393/App%20Redesign%20July%2026/DTW_2981-3298088.jpg"/>
     <id>tag:chelseafc.com,2026:news:6835LGRBoYuhUdcBe8avF3</id>
     <published>2026-08-07T13:29:53Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,25 +57,25 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786084111/editorial/women%27s-team/AUS%20NZ%20Tour/7%20Aug/CFCW_mural_Eden_Park.jpg"/>
     <id>tag:chelseafc.com,2026:news:57t0GvKDJOHKct4wYCkZgZ</id>
     <published>2026-08-07T06:28:31Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>Alonso Press Conference 🎙️</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/xabi-alonso-pre-season-tour-presser-vs-ac-milan-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786108049/video/2026/08/07/alonso_presser_vs_ac_milan.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786116542/video/2026/08/07/alonso_presser_vs_ac_milan.jpg"/>
     <id>tag:chelseafc.com,2026:news:5vTGo0DNxKhvkbXEqH2vJ</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Palestra Press Conference 🎙️</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/palestra-pre-season-tour-presser-vs-ac-milan-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786107913/video/2026/08/07/palestra_presser_thumbnail.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786116362/video/2026/08/07/palestra_presser_thumbnail.jpg"/>
     <id>tag:chelseafc.com,2026:news:1ruomiytbxB9mtXHbytF2Q</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786101791/video/2026/08/07/GettyImages-2288607357.jpg"/>
     <id>tag:chelseafc.com,2026:news:6yj1jCwzw3BTr0HDK0m8Bj</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786098268/editorial/news/2026/08/07/GettyImages-2288364741.jpg"/>
     <id>tag:chelseafc.com,2026:news:7KvP4D6EI6CLYLLdc2amUf</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786096321/DAR_8644_1_ulms3m.jpg"/>
     <id>tag:chelseafc.com,2026:news:EJUUNx1mKn3NGT7iEsqe0</id>
     <published>2026-08-07T09:52:01Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786095382/video/2026/08/07/ocean_park_visit.jpg"/>
     <id>tag:chelseafc.com,2026:news:1N4rxDUcJvJy6oc9YVxyYP</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
+    <updated>2026-08-07T16:04:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Colwill &amp; Delap's penguin visit 🐧</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/ocean-park-levi-x-liam-1.1-4x5"/>
-    
-    <id>tag:chelseafc.com,2026:news:55Z2NC92Li37ynt5vlFnA7</id>
-    <published>2026-08-07T15:03:16Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
-    <summary>Video / Video / date-source:fallback-now</summary>
-  </entry>
-  <entry>
-    <title>Sonia Bompastor on building team cohesion and the importance of playing in New Zealand</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-on-building-team-cohesion-and-the-importance-of-playing-in"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786074362/editorial/women%27s-team/AUS%20NZ%20Tour/7%20Aug/Bompastor_NZ_presser.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6Fqb5buzUJx6NV7mwyh0fv</id>
-    <published>2026-08-07T03:46:02Z</published>
-    <updated>2026-08-07T15:03:16Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
