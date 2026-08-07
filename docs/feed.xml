@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-07T11:54:40Z</updated>
+  <updated>2026-08-07T12:49:39Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
     <title>HK ➡️ JKT</title>
@@ -12,8 +12,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786101791/video/2026/08/07/GettyImages-2288607357.jpg"/>
     <id>tag:chelseafc.com,2026:news:6yj1jCwzw3BTr0HDK0m8Bj</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea vs AC Milan preview: TV channel, kick-off time and how to watch</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-ac-milan-preview-tv-channel-kick-off-time-and-how-to-watch"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786098268/editorial/news/2026/08/07/GettyImages-2288364741.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7KvP4D6EI6CLYLLdc2amUf</id>
+    <published>2026-08-07T00:00:00Z</published>
+    <updated>2026-08-07T12:49:39Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Gallery: Chelsea touch down in Jakarta</title>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786096321/DAR_8644_1_ulms3m.jpg"/>
     <id>tag:chelseafc.com,2026:news:EJUUNx1mKn3NGT7iEsqe0</id>
     <published>2026-08-07T09:52:01Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786095382/video/2026/08/07/ocean_park_visit.jpg"/>
     <id>tag:chelseafc.com,2026:news:1N4rxDUcJvJy6oc9YVxyYP</id>
     <published>2026-08-07T00:00:00Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -38,8 +47,8 @@
     <link rel="alternate" href="https://www.chelseafc.com/en/video/ocean-park-levi-x-liam-1.1-4x5"/>
     
     <id>tag:chelseafc.com,2026:news:55Z2NC92Li37ynt5vlFnA7</id>
-    <published>2026-08-07T11:54:40Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <published>2026-08-07T12:49:39Z</published>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Video / Video / date-source:fallback-now</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786074362/editorial/women%27s-team/AUS%20NZ%20Tour/7%20Aug/Bompastor_NZ_presser.jpg"/>
     <id>tag:chelseafc.com,2026:news:6Fqb5buzUJx6NV7mwyh0fv</id>
     <published>2026-08-07T03:46:02Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785731256/video/2026/08/01/GettyImages-2287988858.jpg"/>
     <id>tag:chelseafc.com,2026:news:MLZ455OLpukV0mdjvxtRe</id>
     <published>2026-08-01T00:00:00Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786079167/editorial/women%27s-team/AUS%20NZ%20Tour/7%20Aug/Training_0708_NZ_8.jpg"/>
     <id>tag:chelseafc.com,2026:news:503OxMzRDMH7JXLmRSlxKt</id>
     <published>2026-08-07T05:06:07Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786047561/editorial/news/2026/08/06/HL3_5530_0Imwox3v.jpg"/>
     <id>tag:chelseafc.com,2026:news:4EbSsqVfmpxL7vYTtdqpZa</id>
     <published>2026-08-06T00:00:00Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1673471878/editorial/news/2023/01/11/Craven_Cottage_aerial_view.jpg"/>
     <id>tag:chelseafc.com,2026:news:7nQ6u1iNRZxF1Jiup2gZ6E</id>
     <published>2023-01-11T00:00:00Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786039208/video/2026/08/06/we_are_chelsea_s4_ep1.jpg"/>
     <id>tag:chelseafc.com,2026:news:7BffsbMohI392ZGmKlADaN</id>
     <published>2026-08-06T00:00:00Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786028053/editorial/news/2026/08/06/GettyImages-2288236845.jpg"/>
     <id>tag:chelseafc.com,2026:news:6x1ZhDc5cP9A05glkMpWVr</id>
     <published>2026-08-06T00:00:00Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Mahdi Nicoll-Jazuli on going back to the beginning for his debut</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/mahdi-nicoll-jazuli-on-going-back-to-the-beginning-for-his-debut"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786012868/editorial/news/2026/08/06/GettyImages-2288571776.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7rotiOKwxyS9p5nnnWziEb</id>
-    <published>2026-08-06T00:00:00Z</published>
-    <updated>2026-08-07T11:54:40Z</updated>
+    <updated>2026-08-07T12:49:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
