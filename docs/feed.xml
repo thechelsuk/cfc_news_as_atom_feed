@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-11T12:28:58Z</updated>
+  <updated>2026-08-11T12:52:45Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Gallery: Open training under the lights in Sydney</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-open-training-under-the-lights-in-sydney"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786450326/editorial/women%27s-team/AUS%20NZ%20Tour/11%20Aug/CFCW_training_Sydney_1108_16.jpg"/>
+    <id>tag:chelseafc.com,2026:news:35T02bS74mqyh8p8CAZ8UG</id>
+    <published>2026-08-11T12:12:06Z</published>
+    <updated>2026-08-11T12:52:45Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Chelsea Women's Champions League third qualifying round opponents revealed</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-womens-champions-league-third-qualifying-round-opponents-revealed"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786441615/editorial/news/2026/08/11/womens-champions-league-draw-balls-uwcl.jpg"/>
     <id>tag:chelseafc.com,2026:news:4ZwG9LQD9NrnZlDPYZMEL</id>
     <published>2026-08-11T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786423088/editorial/news/2026/08/11/Lola_Brown_Auckland_Aug_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:5mV4TGLMS0zmDTW6CaL6zC</id>
     <published>2026-08-11T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1751892930/editorial/stadium-views/other-stadiums/Kingsmeadow_wide_view_2024.jpg"/>
     <id>tag:chelseafc.com,2026:news:6uWiet8oe5QB1an8MQqQHd</id>
     <published>2025-07-07T12:55:30Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / U21s / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786391409/editorial/news/2026/08/10/Filip_Jorgensen_Chelsea_goalkeeper.jpg"/>
     <id>tag:chelseafc.com,2026:news:5LF9D8tmiBqIEgX0HUYglE</id>
     <published>2026-08-10T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786441780/editorial/Foundation/Foundation_-_Solange_-_Chelsea_Foundation_Coaching_Development_Degree_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:5HQcSA2YIy3wA3NnuYNoZj</id>
     <published>2026-08-11T09:49:40Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / Foundation / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1766048962/editorial/news/2025/12/18/Women_s_Champions_League_trophy.jpg"/>
     <id>tag:chelseafc.com,2026:news:5GyvX31yfKRpEQYOAmSJbw</id>
     <published>2025-12-18T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786365803/editorial/news/2026/08/10/GettyImages-1648877066.jpg"/>
     <id>tag:chelseafc.com,2026:news:3Sy0LrWOlUx8FSYaELdtkv</id>
     <published>2026-08-10T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786365296/video/2026/08/10/HL3_4373_LIC2ff0e_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:ewhTZjJatuI2K8ZxMOKZC</id>
     <published>2026-08-10T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786356459/GettyImages-2289589161_cfxxv1.jpg"/>
     <id>tag:chelseafc.com,2026:news:3t3qI3uEubWwRNO9fweMy2</id>
     <published>2026-08-10T10:07:39Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Video / Video / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786371153/editorial/news/2026/08/10/alonso-pre-season-waving.jpg"/>
     <id>tag:chelseafc.com,2026:news:5wQByUZMZFA60iu9gpnAhJ</id>
     <published>2026-08-10T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg"/>
     <id>tag:chelseafc.com,2026:news:2LXov0jygrHxoEO27wen0f</id>
     <published>2025-08-26T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Gallery: The best pictures of Chelsea's pre-season tour</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-the-best-pictures-of-chelseas-pre-season-tour"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786360917/editorial/news/2026/08/10/GettyImages-2288638733.jpg"/>
-    <id>tag:chelseafc.com,2026:news:H5VKu8HbHyfrys290Frk6</id>
-    <published>2026-08-10T00:00:00Z</published>
-    <updated>2026-08-11T12:28:58Z</updated>
+    <updated>2026-08-11T12:52:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
