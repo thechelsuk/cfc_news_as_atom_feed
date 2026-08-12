@@ -4,16 +4,43 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-12T12:09:14Z</updated>
+  <updated>2026-08-12T12:31:07Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Match gallery: Blues shine in Sydney</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-gallery-blues-shine-in-sydney"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786537194/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/GettyImages-2290148873.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1NEdxrdFlWJOQv1SXBFSa3</id>
+    <published>2026-08-12T12:19:54Z</published>
+    <updated>2026-08-12T12:31:07Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Highlights: A-Leagues All Stars Women 0-3 Chelsea Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfcw-pre-season-tour-2026-highlights-a-leagues-all-stars-women-0-3-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786536845/video/2026/08/12/2_mins_vs_all_stars_pst.jpg"/>
+    <id>tag:chelseafc.com,2026:news:17jnVD544VHLXqOFqpzSAr</id>
+    <published>2026-08-12T00:00:00Z</published>
+    <updated>2026-08-12T12:31:07Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Academy pre-season building momentum</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/academy-pre-season-building-momentum"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786464471/editorial/news/2026/08/11/CL2_0084-3268639_SLZEz5iB.jpg"/>
     <id>tag:chelseafc.com,2026:news:6059SPgEkkyCsL7N6zI7jo</id>
     <published>2026-08-11T00:00:00Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Article / Academy / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Potter with a banger! 💥</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/lexi-potter-goal-vs-a-leagues-all-stars-4x5-08-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786536710/video/2026/08/12/HL4_0819_TI5eFM77_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:79USS7eOTnjvPBDkThirIH</id>
+    <published>2026-08-12T00:00:00Z</published>
+    <updated>2026-08-12T12:31:07Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Match Report: A-League All-Stars 0-3 Chelsea</title>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786534235/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/CFCW_ALl_Stars_Aug_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:7pnX1gY7ZiKj9tlmkGFFn2</id>
     <published>2026-08-12T11:30:35Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786530413/video/2026/08/12/HL4_9245_EVcQk1rs_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:6mdAYAhdXfoG6ikUr3CCqj</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785939075/editorial/news/2026/08/05/pep-chavarria-rayo-vallecano.jpg"/>
     <id>tag:chelseafc.com,2026:news:uda3KhnPCfjvCr1jMr2nf</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786027389/restricted/2026/Pep%20Chavarria/CL2_6913_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:11ygIJD3mfPOBt4kHjedB2</id>
     <published>2026-08-06T14:43:09Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786523783/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/Sydney_FC_Shirts_pic.jpg"/>
     <id>tag:chelseafc.com,2026:news:1H3hUVGvMgVjorsQULJvDp</id>
     <published>2026-08-12T08:36:23Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786011210/restricted/2026/Pep%20Chavarria/CL1_4398_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:67MuOnuy2Ot0mUDokYTyMA</id>
     <published>2026-08-06T10:13:30Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786011208/restricted/2026/Pep%20Chavarria/CL2_6424_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:5aJGwxvkoxTZwHZnavyykM</id>
     <published>2026-08-06T10:13:28Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786011211/restricted/2026/Pep%20Chavarria/CL1_4275_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:5QxG2lVJa1LHXOF2aLuOEY</id>
     <published>2026-08-06T10:13:31Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
+    <updated>2026-08-12T12:31:07Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Pep Chavarria | First Interview 🎙️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pep-chavarria-first-interview-16x9-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786030088/video/2026/08/06/16x9_Pep_Chavarria_First_Interview_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5PeAyyj2qcpz2R0Bn8HV0I</id>
-    <published>2026-08-06T00:00:00Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>A football journey built on grit 💪</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/chavarria-hero-16x9-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786528939/video/2026/08/12/16x9_Pep_Chavarria_signs_v2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3r2ZBPINkznWyslKP27sX1</id>
-    <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Women players show their love of dogs on visit to Sydney grooming parlour</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-players-show-their-love-of-dogs-on-visit-to-sydney-grooming"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786509307/editorial/women%27s-team/AUS%20NZ%20Tour/11%20Aug/CFCW_dog_grooming_1.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3mqzGlF2dByXkml6irtLEw</id>
-    <published>2026-08-12T04:35:07Z</published>
-    <updated>2026-08-12T12:09:14Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
