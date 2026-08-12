@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-12T16:34:58Z</updated>
+  <updated>2026-08-12T17:00:20Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Chelsea on Tour: A taste of coffee culture ☕ </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfc-pre-season-tour-sydney-coffee-club-16x9-cfc"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786552909/video/2026/08/12/coffee_club_cfc.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5jFbUv639LdMyDn5Ii0TSo</id>
+    <published>2026-08-12T00:00:00Z</published>
+    <updated>2026-08-12T17:00:20Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>The boys are home 🏡👋</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/the-boys-are-home-08-2026"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786550663/video/2026/08/12/DAR_2665.jpg"/>
     <id>tag:chelseafc.com,2026:news:7zxSEdj6vd01nxC4pWxiEY</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786462047/editorial/news/2026/08/11/costa-sociedad-celebs.jpg"/>
     <id>tag:chelseafc.com,2026:news:3qtnlpvhyaWXlV0241YW2l</id>
     <published>2026-08-11T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786532183/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/Bompastor_All_Stars_Aug_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:4622pUQsa4LMME22OlEGlU</id>
     <published>2026-08-12T10:56:23Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785945987/editorial/news/2026/08/05/GettyImages-2286061234.jpg"/>
     <id>tag:chelseafc.com,2026:news:4HR6nmJgzuanS3Y8psqrnH</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786281852/editorial/match-reports/2026-27/Johor%20Darul%20Ta%27zim%20%28Pre-season%29/Xabi_Alonso_vs_Johor.jpg"/>
     <id>tag:chelseafc.com,2026:news:Fvm4PPg8NEtujWGWiBKfC</id>
     <published>2026-08-09T13:24:12Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786542731/video/2026/08/12/extended_v_aleagues_cfcw_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:6kNvlDY2xzbmqzlT520xBF</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786537194/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/GettyImages-2290148873.jpg"/>
     <id>tag:chelseafc.com,2026:news:1NEdxrdFlWJOQv1SXBFSa3</id>
     <published>2026-08-12T12:19:54Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786536845/video/2026/08/12/2_mins_vs_all_stars_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:17jnVD544VHLXqOFqpzSAr</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786538342/video/2026/08/12/full_match_vs_aleague_all_stars.jpg"/>
     <id>tag:chelseafc.com,2026:news:1kIIaJ8vsxCCeiuYfwVSkT</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786541261/video/2026/08/12/bompastor_reaction_v_a_leagues_cfcw_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:2ulQDY6BwWiUBijBeuFip2</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786541159/video/2026/08/12/nusken_reaction_v_a_leagues_cfcw_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:2omsQ9yWrfsdESsa18wWuo</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
+    <updated>2026-08-12T17:00:20Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Academy pre-season building momentum</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/academy-pre-season-building-momentum"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786464471/editorial/news/2026/08/11/CL2_0084-3268639_SLZEz5iB.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6059SPgEkkyCsL7N6zI7jo</id>
-    <published>2026-08-11T00:00:00Z</published>
-    <updated>2026-08-12T16:34:58Z</updated>
-    <summary>Article / Academy / date-source:path-date</summary>
   </entry>
 </feed>
