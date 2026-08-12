@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-12T14:05:49Z</updated>
+  <updated>2026-08-12T14:34:35Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Sonia Bompastor updates on key duo fitness and talks Champions League preparation</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-updates-on-key-duo-fitness-and-talks-champions-league"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786532183/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/Bompastor_All_Stars_Aug_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4622pUQsa4LMME22OlEGlU</id>
+    <published>2026-08-12T10:56:23Z</published>
+    <updated>2026-08-12T14:34:35Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Five facts you might not know about Pep Chavarria</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/five-facts-you-might-not-know-about-pep-chavarria"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785945987/editorial/news/2026/08/05/GettyImages-2286061234.jpg"/>
     <id>tag:chelseafc.com,2026:news:4HR6nmJgzuanS3Y8psqrnH</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786542731/video/2026/08/12/extended_v_aleagues_cfcw_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:6kNvlDY2xzbmqzlT520xBF</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786537194/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/GettyImages-2290148873.jpg"/>
     <id>tag:chelseafc.com,2026:news:1NEdxrdFlWJOQv1SXBFSa3</id>
     <published>2026-08-12T12:19:54Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786536845/video/2026/08/12/2_mins_vs_all_stars_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:17jnVD544VHLXqOFqpzSAr</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786541261/video/2026/08/12/bompastor_reaction_v_a_leagues_cfcw_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:2ulQDY6BwWiUBijBeuFip2</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786541159/video/2026/08/12/nusken_reaction_v_a_leagues_cfcw_pst.jpg"/>
     <id>tag:chelseafc.com,2026:news:2omsQ9yWrfsdESsa18wWuo</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786464471/editorial/news/2026/08/11/CL2_0084-3268639_SLZEz5iB.jpg"/>
     <id>tag:chelseafc.com,2026:news:6059SPgEkkyCsL7N6zI7jo</id>
     <published>2026-08-11T00:00:00Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Article / Academy / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786534235/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/CFCW_ALl_Stars_Aug_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:7pnX1gY7ZiKj9tlmkGFFn2</id>
     <published>2026-08-12T11:30:35Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785939075/editorial/news/2026/08/05/pep-chavarria-rayo-vallecano.jpg"/>
     <id>tag:chelseafc.com,2026:news:uda3KhnPCfjvCr1jMr2nf</id>
     <published>2026-08-05T00:00:00Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786027389/restricted/2026/Pep%20Chavarria/CL2_6913_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:11ygIJD3mfPOBt4kHjedB2</id>
     <published>2026-08-06T14:43:09Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786523783/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/Sydney_FC_Shirts_pic.jpg"/>
     <id>tag:chelseafc.com,2026:news:1H3hUVGvMgVjorsQULJvDp</id>
     <published>2026-08-12T08:36:23Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
+    <updated>2026-08-12T14:34:35Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Pep Chavarria signs for Chelsea!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pep-chavarria-signs-for-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786011210/restricted/2026/Pep%20Chavarria/CL1_4398_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:67MuOnuy2Ot0mUDokYTyMA</id>
-    <published>2026-08-06T10:13:30Z</published>
-    <updated>2026-08-12T14:05:49Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
