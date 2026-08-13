@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-13T14:57:48Z</updated>
+  <updated>2026-08-13T15:25:43Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Palmer tells CFC Unlocked his cage football roots made him the player he is today</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/palmer-tells-cfc-unlocked-his-cage-football-roots-made-him-the-player-he-is"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786628180/video/2026/08/13/DAZ_7983.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7p11qNfx3Mc224LT3DRUrt</id>
+    <published>2026-08-13T00:00:00Z</published>
+    <updated>2026-08-13T15:25:43Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>CFC Unlocked | Cole Palmer 🔓</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfc-unlocked-ep-11-cfc-cole-palmer-08-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786627841/video/2026/08/13/unlocked_up_11_cp.jpg"/>
+    <id>tag:chelseafc.com,2026:news:JH1gRwG7CPMA6DrSjuC6k</id>
+    <published>2026-08-13T00:00:00Z</published>
+    <updated>2026-08-13T15:25:43Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Fantasy Premier League: Pep Chavarria price confirmed!</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/fantasy-premier-league-pep-chavarria-price-confirmed"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786623270/GettyImages-2290121063_wolqbc.jpg"/>
     <id>tag:chelseafc.com,2026:news:7wGgZLmVZSrRcBeEsdZuN1</id>
     <published>2026-08-13T12:14:30Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786618744/editorial/news/2026/08/13/carpenter-pre-season.jpg"/>
     <id>tag:chelseafc.com,2026:news:h384ZkbTl6Goae5xZHG82</id>
     <published>2026-08-13T00:00:00Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786628869/editorial/news/2026/08/13/GettyImages-2828873.jpg"/>
     <id>tag:chelseafc.com,2026:news:624ouc3fFfaSW5HW31eq0x</id>
     <published>2026-08-13T00:00:00Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1780915746/editorial/stadium-views/other-stadiums/AFC_Wimbledon_-_Cherry_Red_Records_Stadium_view_-_CFCW.jpg"/>
     <id>tag:chelseafc.com,2026:news:5asczTYQTq2FlqZEk0oQDB</id>
     <published>2026-06-08T10:49:06Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786533283/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/HL4_9344_8vxRi8OL_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:3aeJKcQiE32UgvF17aEUz3</id>
     <published>2026-08-12T11:14:43Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786563433/GettyImages-2289698600_sm3sng.jpg"/>
     <id>tag:chelseafc.com,2026:news:V1GFw9zPoPCN1CArSmsxr</id>
     <published>2026-08-12T19:37:13Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Video / Video / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786534014/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/CFCW_All_Stars_Aug_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:4wedVGAtm59YHxLotmcwb1</id>
     <published>2026-08-12T11:26:54Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786543137/editorial/kit%20launches%202026-27/CFCW%20mono%20range/CFCW_MONO_range_August_2026_header.jpg"/>
     <id>tag:chelseafc.com,2026:news:7K35KgiPT3AicVfsqUJDMb</id>
     <published>2026-08-12T13:58:57Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786549611/video/2026/08/12/wac_s4_ep_2_thumbnail._v2jpg.jpg"/>
     <id>tag:chelseafc.com,2026:news:1dCuXGxyWUL027Dil9WjlT</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786563176/DAR_4378_owazas.jpg"/>
     <id>tag:chelseafc.com,2026:news:6G2oAdTbH3dv6a7nxbfuIu</id>
     <published>2026-08-12T19:32:56Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Chelsea on Tour: A taste of coffee culture ☕ </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfc-pre-season-tour-sydney-coffee-club-16x9-cfc"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786552909/video/2026/08/12/coffee_club_cfc.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5jFbUv639LdMyDn5Ii0TSo</id>
-    <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Ticket exchange listing open for Brighton match</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ticket-exchange-open-for-brighton-match"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7yom9lWFis8QAcEVtkQJDv</id>
-    <published>2025-10-27T15:51:21Z</published>
-    <updated>2026-08-13T14:57:48Z</updated>
+    <updated>2026-08-13T15:25:43Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
