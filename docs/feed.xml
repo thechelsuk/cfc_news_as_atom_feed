@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-17T04:54:54Z</updated>
+  <updated>2026-08-17T05:13:49Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Joao Pedro on trusting his instinct and ambitions for the season ahead</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/joao-pedro-on-trusting-his-instinct-and-ambitions-for-the-season-ahead"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786911439/editorial/news/2026/08/16/Joao_Pedro_Chelsea_vs_Sociedad_celebration.jpg"/>
+    <id>tag:chelseafc.com,2026:news:BoKlD12WPWCIe8SfMLvtJ</id>
+    <published>2026-08-16T00:00:00Z</published>
+    <updated>2026-08-17T05:13:49Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>OTD: The Story of Liverpool 1-2 Chelsea ⏪</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/the-story-of-liverpool-1-2-chelsea"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1691798341/video/2023/08/11/THE_STORY_OF_-_LIVERPOOL_V_CHELSEA_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:1J94XXw02ZhfvD5SlTfzxK</id>
     <published>2023-08-11T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786877930/editorial/news/2026/08/16/03.GettyImages-2290578070.jpg"/>
     <id>tag:chelseafc.com,2026:news:6AHhYRYDMRXPsTPUH2oJsY</id>
     <published>2026-08-16T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786877918/editorial/news/2026/08/16/00.GettyImages-2290586961.jpg"/>
     <id>tag:chelseafc.com,2026:news:1AauFTemaJe4tJOtTMc3sB</id>
     <published>2026-08-16T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786811998/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/reece-james-clapping-fans.jpg"/>
     <id>tag:chelseafc.com,2026:news:29Wf6cOthc5rJoXeZFm9NF</id>
     <published>2026-08-15T16:39:58Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786816996/video/2026/08/15/FULL_Chelsea_3-1_Real_Sociedad_Pre-Season_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:NnZwi48Z9HlBY2JbobWxb</id>
     <published>2026-08-15T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786813822/video/2026/08/15/16x9_Reece_post-Chelsea_3-1_Real_Sociedad_Pre-Season_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:2eCYV1fSkhsx23TTlQFFsv</id>
     <published>2026-08-15T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786813822/video/2026/08/15/16x9_Alonso_post-Chelsea_3-1_Real_Sociedad_Pre-Season_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:6lbya4KvXFiLoUAa7YTOeh</id>
     <published>2026-08-15T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786803179/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/alonso-sociedad-fans-welcome.jpg"/>
     <id>tag:chelseafc.com,2026:news:4FsqjjAaTOJm1aSHk8hIbU</id>
     <published>2026-08-15T14:12:59Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786809038/video/2026/08/15/2MINS_Chelsea_3-1_Real_Sociedad_Pre-Season_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:6pRV5tzMX3HBMhKUJe1N9g</id>
     <published>2026-08-15T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786816997/video/2026/08/15/EXT_Chelsea_3-1_Real_Sociedad_Pre-Season_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:pDrjZ6lew9GAWlqtaiMYo</id>
     <published>2026-08-15T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786801624/video/2026/08/15/GettyImages-2290585057.jpg"/>
     <id>tag:chelseafc.com,2026:news:1PgJTyc1zW50iUXuMcq4Gb</id>
     <published>2026-08-15T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
+    <updated>2026-08-17T05:13:49Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Joao again! ✌️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/joao-again"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786805670/video/2026/08/15/GettyImages-2290594634.jpg"/>
-    <id>tag:chelseafc.com,2026:news:76TPvDdvUB3ca5oF57fyju</id>
-    <published>2026-08-15T00:00:00Z</published>
-    <updated>2026-08-17T04:54:54Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
