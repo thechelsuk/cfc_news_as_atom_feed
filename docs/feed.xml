@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-21T13:54:47Z</updated>
+  <updated>2026-08-21T14:12:04Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Xabi Alonso on Levi Colwill's importance and place among world's best centre-backs</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-levi-colwill-one-of-worlds-best-centre-backs"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787247416/editorial/news/2026/08/20/GettyImages-2290660237.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3pg2oBlQdZ7X5ooRCd4tHx</id>
+    <published>2026-08-20T00:00:00Z</published>
+    <updated>2026-08-21T14:12:04Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Five blues named in England's U-20 Women's World Cup squad</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/five-blues-named-in-englands-u-20-womens-world-cup-squad"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787314531/editorial/news/2026/08/21/chloe-sarwie-vera-jones-lola-brown.jpg"/>
     <id>tag:chelseafc.com,2026:news:2OOM9Tg97ki5biL0KZ9GA0</id>
     <published>2026-08-21T00:00:00Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / News / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787237479/editorial/venue/Tours%20and%20Museum/Stamford_Bridge_tunnel_2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:6YwBY8NJe9xIyp8CzxaIWL</id>
     <published>2026-08-20T14:51:19Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / Stadium Tours / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787228811/editorial/news/2026/08/20/HL3_9632_VbjsmgVd.jpg"/>
     <id>tag:chelseafc.com,2026:news:1FcjqOTRe4F7zB2PANCJQz</id>
     <published>2026-08-20T00:00:00Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787138136/editorial/news/2026/08/19/Chelsea_shirts_pre-Sociedad.jpg"/>
     <id>tag:chelseafc.com,2026:news:7iJlP4Mv8UUKAEP4EGlWJ5</id>
     <published>2026-08-19T00:00:00Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787307916/editorial/news/2026/08/21/Reece_James_Chelsea_captain.jpg"/>
     <id>tag:chelseafc.com,2026:news:2w8wV5z2SINm3PBTZa6EYQ</id>
     <published>2026-08-21T00:00:00Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787227296/editorial/news/2026/08/20/GettyImages-2290572908.jpg"/>
     <id>tag:chelseafc.com,2026:news:3sARXtElV0d8QwOJOMAylo</id>
     <published>2026-08-20T00:00:00Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / Fans / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786981291/restricted/2026/Greenwood%20contract/Badu_U18_CL1_2470-3293279_nyfbOkDg.jpg"/>
     <id>tag:chelseafc.com,2026:news:5sPCvc7TGagK2t2JrV7a6x</id>
     <published>2026-08-17T15:41:31Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / U18s / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1549000590/asia/editorial/articles/drogba-2007-GettyImages-85605912.jpg"/>
     <id>tag:chelseafc.com,2026:news:6B2A2GSGpPWSvi5AOXERaD</id>
     <published>2019-02-01T05:56:30Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787048991/video/2026/08/18/GettyImages-103535575.jpg"/>
     <id>tag:chelseafc.com,2026:news:41xjcozQwkl7aiQr6KX2fE</id>
     <published>2026-08-18T00:00:00Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787299857/DAR_7077_qsqlmi.jpg"/>
     <id>tag:chelseafc.com,2026:news:5JEJzFelyWV8iyjjQTWSze</id>
     <published>2026-08-21T08:10:57Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787228369/video/2026/08/20/presser_v_fulham.jpg"/>
     <id>tag:chelseafc.com,2026:news:1TU4TCgJ19Wth0qE8ROUdO</id>
     <published>2026-08-20T00:00:00Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
+    <updated>2026-08-21T14:12:04Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso delivers the latest Chelsea team news ahead of Fulham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-delivers-the-latest-chelsea-team-news-ahead-of-fulham"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787230589/GettyImages-2285305294_dyxmqd.jpg"/>
-    <id>tag:chelseafc.com,2026:news:46Jn154NdbNFQqJLJUPqlT</id>
-    <published>2026-08-20T12:56:29Z</published>
-    <updated>2026-08-21T13:54:47Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
