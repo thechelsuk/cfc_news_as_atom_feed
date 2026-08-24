@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-24T08:44:40Z</updated>
+  <updated>2026-08-24T09:06:26Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Chelsea Diary: The week we've all been waiting for</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-diary-the-week-weve-all-been-waiting-for"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787509716/editorial/news/2026/08/23/GettyImages-2290591345.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4ugWDzofo4h7NnsraQivAU</id>
+    <published>2026-08-23T00:00:00Z</published>
+    <updated>2026-08-24T09:06:26Z</updated>
+    <summary>Article / News / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Fulham vs Chelsea: All you need to know</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/fulham-vs-chelsea-all-you-need-to-know-august-2026"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787502540/editorial/news/2026/08/23/chelsea-fulham-craven-cottage-2025-26-season_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:6QcR9HeHBycB6pYs9MZng1</id>
     <published>2026-08-23T00:00:00Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787487352/editorial/news/2026/08/23/veerle-buurman_4.jpg"/>
     <id>tag:chelseafc.com,2026:news:5EEkok5nnff1utaJewBFmK</id>
     <published>2026-08-23T00:00:00Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787483168/editorial/news/2026/08/23/craven-cottage-general-view_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:2FtQEkezeHrNtInJCVMATD</id>
     <published>2026-08-23T00:00:00Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / News / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787481579/editorial/news/2026/08/23/xabi-alonso-cole-palmer-summer-2026-edited.jpg"/>
     <id>tag:chelseafc.com,2026:news:3Tqu4zA3Hx4PKn4JhKi6Lj</id>
     <published>2026-08-23T00:00:00Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / News / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1767815010/editorial/match-reports/2025-26/Fulham%20%28A%29/Cole_Palmer_battles_for_the_ball_vs_Fulham.jpg"/>
     <id>tag:chelseafc.com,2026:news:4NpyzUUuhPzJyQo1IfW8rt</id>
     <published>2026-01-07T19:43:30Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787316510/editorial/news/2026/08/21/GettyImages-2289923713.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Y1tvbGgsPT12fJRl8pwaS</id>
     <published>2026-08-21T00:00:00Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787149992/editorial/Competitions/Play_Predictor_2026_article_header.png"/>
     <id>tag:chelseafc.com,2026:news:6D5df9Sz8wGLsZF6dJOjYI</id>
     <published>2026-08-19T14:33:12Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / App news / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787231217/editorial/generic%20content%20pages/Official%20app/App%20refresh%202026/App_refresh_-_Game_on_new_header.png"/>
     <id>tag:chelseafc.com,2026:news:1XPlQVjKiL4wRmh0goyltK</id>
     <published>2026-08-20T13:06:57Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / App news / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1762261611/editorial/news/2025/11/04/Benoit_Badiashile_Chelsea_training.jpg"/>
     <id>tag:chelseafc.com,2026:news:6BJygkiQuQEcBlOemciOY1</id>
     <published>2025-11-04T00:00:00Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787382552/video/2026/08/21/chelsea-under-18s-norwich-city-august-2026-Jack-Anderson.webp"/>
     <id>tag:chelseafc.com,2026:news:6HLPIAINjhzULKb4uDR7XF</id>
     <published>2026-08-21T00:00:00Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / Academy / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787321179/editorial/news/2026/08/21/GettyImages-2290594634.jpg"/>
     <id>tag:chelseafc.com,2026:news:4fBpN75qkk1l9rH5etjFse</id>
     <published>2026-08-21T00:00:00Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
+    <updated>2026-08-24T09:06:26Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso thrilled ‘great personality’ Joao Pedro has signed new contract</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-thrilled-great-personality-joao-pedro-has-signed-new-contract"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787341279/restricted/2026/Joao%20Pedro%20%28new%20contract%29/Joao_Pedro_Xabi_Alonso_contract.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1bQHVQPR9j0S52PgEN36fY</id>
-    <published>2026-08-21T19:41:19Z</published>
-    <updated>2026-08-24T08:44:40Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
