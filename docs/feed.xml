@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-25T07:47:09Z</updated>
+  <updated>2026-08-25T08:05:28Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Alonso explains how Palmer, Joao Pedro and Rogers can lead and inspire</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-palmer-joao-pedro-and-rogers-can-lead-and-inspire"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787615034/editorial/match-reports/2026-27/Fulham%20%28A%29/Joao_Pedro_Cole_Palmer_Morgan_Rogers.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6GBODTZIJDBK0cGfLppvw3</id>
+    <published>2026-08-24T23:43:54Z</published>
+    <updated>2026-08-25T08:05:28Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Rooted in Rhythm: The Carnival Collection takes to the streets</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/rooted-in-rhythm-the-carnival-collection-takes-to-the-streets"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787322215/editorial/kit%20launches%202026-27/Notting%20Hill%20Carnival%20Collection/Notting-Hill-Carnival-Collection_Home-Hero_3.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3Bcqnn1m04GnVwtug0OquZ</id>
+    <published>2026-08-21T14:23:35Z</published>
+    <updated>2026-08-25T08:05:28Z</updated>
+    <summary>Article / On sale / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Omari Kellyman joins RC Strasbourg</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/omari-kellyman-joins-rc-strasbourg"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787521503/editorial/news/2026/08/23/omari-kellyman-pre-season-2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:6X1NEidoKFd1qgInuq0zYG</id>
     <published>2026-08-23T00:00:00Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787603779/editorial/match-reports/2026-27/Fulham%20%28A%29/Morgan_Rogers_celebrates_against_Fulham.jpg"/>
     <id>tag:chelseafc.com,2026:news:3GRzQbcxrh87XxreBr3PTp</id>
     <published>2026-08-24T20:36:19Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1661253832/video/2022/08/23/GettyImages-611408478.jpg"/>
     <id>tag:chelseafc.com,2026:news:25WPs7QFCpGkvGsyB6Xg2Z</id>
     <published>2022-08-23T00:00:00Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787605421/video/2026/08/24/HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:7f4RPKYdUOWdVizCM9VkKF</id>
     <published>2026-08-24T00:00:00Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787605422/video/2026/08/24/EXTENDED.png"/>
     <id>tag:chelseafc.com,2026:news:78WwvVoM8WCDPDBCnKKSVW</id>
     <published>2026-08-24T00:00:00Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787605422/video/2026/08/24/FULL_MATCH.png"/>
     <id>tag:chelseafc.com,2026:news:d5vapJa1z4LWCNS6dENLq</id>
     <published>2026-08-24T00:00:00Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787611148/video/2026/08/24/REACTIONS_1.png"/>
     <id>tag:chelseafc.com,2026:news:6LNNNeSdgLllimKi0L0e7b</id>
     <published>2026-08-24T00:00:00Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787611147/video/2026/08/24/REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:2Q7wdt7atc42aeRNSlKcar</id>
     <published>2026-08-24T00:00:00Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787606362/editorial/match-reports/2026-27/Fulham%20%28A%29/Xabi_Alonso_celebrates_our_victory_at_Fulham.jpg"/>
     <id>tag:chelseafc.com,2026:news:5dk2UEC7mGaOr7GZ6zzg5I</id>
     <published>2026-08-24T21:19:22Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787602696/editorial/match-reports/2026-27/Fulham%20%28A%29/GettyImages-2291882203.jpg"/>
     <id>tag:chelseafc.com,2026:news:2qVjB8uyDBjlBdBJHklG3y</id>
     <published>2026-08-24T20:18:16Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Match report: Fulham 2-3 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-fulham-chelsea-aug-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787603774/editorial/match-reports/2026-27/Fulham%20%28A%29/Chelsea_celebrate_Cole_Palmer_s_goal_against_Fulham.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5kznhub4N6Zx9ZaZ2ZUjPI</id>
-    <published>2026-08-24T20:36:14Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso explains Marco Palestra and Moises Caicedo absences against Fulham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-explains-marco-palestra-and-moises-caicedo-absences-against"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787596122/editorial/match-reports/2026-27/Fulham%20%28A%29/Xabi_Alonso_Fulham.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1YyWKgMLd16Z8vKVpSx8gr</id>
-    <published>2026-08-24T18:28:42Z</published>
-    <updated>2026-08-25T07:47:09Z</updated>
+    <updated>2026-08-25T08:05:28Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
