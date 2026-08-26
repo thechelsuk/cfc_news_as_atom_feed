@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-26T20:58:57Z</updated>
+  <updated>2026-08-26T22:04:52Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Xabi Alonso says Blues duo in contention to face Luton</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-says-blues-duo-in-contention-to-face-luton"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787754497/editorial/news/2026/08/26/welbeck-training.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6DWCS0ZlvKvx2LAMfC6FM0</id>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-08-26T22:04:52Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea learn potential Carabao Cup third round opponents</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-learn-potential-carabao-cup-third-round-opponents"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787741595/GettyImages-1648877066_ewjzfs.jpg"/>
+    <id>tag:chelseafc.com,2026:news:q3479C6alJOcKiqFoehd3</id>
+    <published>2026-08-26T10:53:15Z</published>
+    <updated>2026-08-26T22:04:52Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Camille Abily praises attack and gives fitness update on Naomi Girma</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/camille-abily-praises-attack-and-gives-fitness-update-on-naomi-girma"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787776673/editorial/women%27s-team/2026/August/Abily_RSO_Aug_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:iRTbOYKqymNT781OIhYHi</id>
     <published>2026-08-26T20:37:53Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787771706/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_3.jpg"/>
     <id>tag:chelseafc.com,2026:news:3d3lYRiYMulXHdBxZ6xUAc</id>
     <published>2026-08-26T19:15:06Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787772394/editorial/women%27s-team/2026/August/CFCW_RSO_AUg_26_5.jpg"/>
     <id>tag:chelseafc.com,2026:news:5WqyGBLeXh5x8xFonMZbXY</id>
     <published>2026-08-26T19:26:34Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787765094/editorial/news/2026/08/26/andrew-pennie.jpg"/>
     <id>tag:chelseafc.com,2026:news:qqdCQtGiIoyVUK5ZRg8SR</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / U18s / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787761464/editorial/women%27s-team/2026/August/HL3_5463_yjd8QKxO_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:qU7rmvEOJs79D3GmpzleL</id>
     <published>2026-08-26T16:24:24Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787751158/editorial/news/2026/08/26/GettyImages-2289923667.jpg"/>
     <id>tag:chelseafc.com,2026:news:9eaFHe6fGOH4KLjRAQSwR</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787746817/editorial/news/2026/08/26/xabi-alonso-press-conference-stock-aug26.jpg"/>
     <id>tag:chelseafc.com,2026:news:MsnxCube4PPkScr9mZoOP</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787756760/video/2026/08/26/16x9_Alonso_pre-Luton_h__2nd_Round_EFL_Cup_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:1jzRWJQKObizlQ3QpLM28c</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786606029/editorial/generic%20content%20pages/Official%20app/App_refresh_2026_announcement_article.png"/>
     <id>tag:chelseafc.com,2026:news:5LedqLSF3G9PVKwWhTyLIV</id>
     <published>2026-08-13T07:27:09Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / App news / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787740493/editorial/news/2026/08/26/GettyImages-1894750421.jpg"/>
     <id>tag:chelseafc.com,2026:news:3ocxUiGk74oKirD6xSYyyL</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
+    <updated>2026-08-26T22:04:52Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Axel Disasi completes Crystal Palace loan switch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/axel-disasi-completes-crystal-palace-loan-switch"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1729587969/editorial/news/2024/10/22/axel-disasi-gent-h.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5KXFEu4y0wxQWNUoVy4w45</id>
-    <published>2024-10-22T00:00:00Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea's fastest Premier League goals 💥</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/chelseas-fastest-premier-league-goals"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787752162/video/2026/08/26/GettyImages-1240275.jpg"/>
-    <id>tag:chelseafc.com,2026:news:xcDCYffl1fTD4aubfnub6</id>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-26T20:58:57Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
