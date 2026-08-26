@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-26T08:44:17Z</updated>
+  <updated>2026-08-26T09:05:20Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Highlights: Bristol Rovers 2-2 Cobham Next Gen (2-4 on Pens) </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/260825-bristol.r-cobhamnextgen-highlights-3min-highlights"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787692419/video/2026/08/25/HIGHLIGHTS.png"/>
+    <id>tag:chelseafc.com,2026:news:3lLyKX4ExbU42gPrkuTjcf</id>
+    <published>2026-08-25T00:00:00Z</published>
+    <updated>2026-08-26T09:05:20Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Full Match: Bristol Rovers vs Cobham Next Gen</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/260825-bristol.r-cobhamnextgen-full-match-dirty-uncut"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787702699/video/2026/08/25/FULL_MATCH.png"/>
+    <id>tag:chelseafc.com,2026:news:3vmHeSczLM4Y1HlDkc5M8s</id>
+    <published>2026-08-25T00:00:00Z</published>
+    <updated>2026-08-26T09:05:20Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Chelsea and FPT extend strategic partnership into 2026/27 season     </title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-and-fpt-extend-strategic-partnership-into-2026-27-season"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787649982/editorial/partnerships/FPT/FPT_Partnership_renewal-CLEAN.jpg"/>
     <id>tag:chelseafc.com,2026:news:5sj9TWtQtEON8vdJCjp4JF</id>
     <published>2026-08-25T09:26:22Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Partner news / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787660677/editorial/news/2026/08/25/GettyImages-1469764099.jpg"/>
     <id>tag:chelseafc.com,2026:news:7oPVOek5d4qW9iYFFiC5aW</id>
     <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787312257/editorial/stadium-views/other-clubs/Arsenal_Emirates_Stadium_aerial_view_-_April_2025.jpg"/>
     <id>tag:chelseafc.com,2026:news:5UIzxfjYBECnQ6KowSuODp</id>
     <published>2026-08-21T11:37:37Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787691343/editorial/news/2026/08/25/cobham-next-gen-bristol-rovers.jpg"/>
     <id>tag:chelseafc.com,2026:news:6KCBiHkDjXKpWPztk7alt</id>
     <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787687736/editorial/news/2025/08/25/Danny_Welbeck_and_Estevao_Chelsea_training_August_25_2026_Crop.jpg"/>
     <id>tag:chelseafc.com,2026:news:2urbP1Y4VjhkioPsRKQkPi</id>
     <published>2025-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787686322/editorial/news/2025/08/25/Chelsea_Women_players_celebrate_against.jpg"/>
     <id>tag:chelseafc.com,2026:news:3s6dTT9ieRjkJdZlep1fVH</id>
     <published>2025-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787675691/editorial/news/2026/08/25/HLR18908_dASPtouT_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:3hYDX7cpQFxUTLkxm2Ueur</id>
     <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787685858/video/2026/08/25/ROGERS_UNSEEN_FOCUS.jpg"/>
     <id>tag:chelseafc.com,2026:news:1jkP680f0SAJLqJ5ZigIof</id>
     <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787668681/editorial/news/2026/08/25/GettyImages-2291933320.jpg"/>
     <id>tag:chelseafc.com,2026:news:5G2nhtMLaQKhKsZcIYIQcK</id>
     <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787669954/editorial/news/2026/08/25/stamford-bridge-view-2026-cup.jpg"/>
     <id>tag:chelseafc.com,2026:news:64p5xDYOzYJUitzRuJ7CK0</id>
     <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
+    <updated>2026-08-26T09:05:20Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bompastor &amp; Bronze Press Conference 🎙️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-and-bronze-press-conference-pre-real-sociedad-h-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787671644/video/2026/08/25/presser_v_rsf_sonia_thumbnail.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2m1m2Og4U0m4ZOMPDEToVn</id>
-    <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bompastor confirms injured Chelsea trio to miss Real Sociedad game</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-confirms-injured-chelsea-trio-to-miss-real-sociedad-game"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787668806/editorial/news/2026/08/25/HLR18990_1H8VXLHq_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5yBULmAgZslulDNTMQdvXC</id>
-    <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-08-26T08:44:17Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
 </feed>
