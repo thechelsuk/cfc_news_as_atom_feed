@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-27T09:28:22Z</updated>
+  <updated>2026-08-27T13:02:56Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Malo Gusto on fresh objectives and wing-back requirements</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/malo-gusto-on-fresh-objectives-and-wing-back-requirements"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787736243/editorial/news/2026/08/26/CL1_8379-3333264_mUFSgaad.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5guPOfjoLDSH8pOiH0fNoN</id>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-08-27T13:02:56Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Gallery: Chelsea's big win over Real Sociedad at our new Plough Lane home </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-chelseas-big-win-over-real-sociedad-at-our-new-plough-lane-home"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787776916/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_6.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5NaYyqbaJCFQGzSvcZnsdD</id>
+    <published>2026-08-26T20:41:56Z</published>
+    <updated>2026-08-27T13:02:56Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Cobham Next Gen ticket news: Wycombe away and Fulham at home</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cobham-next-gen-ticket-news-wycombe-away-and-fulham-at-home"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787342842/editorial/news/2026/08/21/chelsea-next-gen-bournemouth-_reggie-watson_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3tODt3fvXWsdyIuFdnFpJN</id>
+    <published>2026-08-21T00:00:00Z</published>
+    <updated>2026-08-27T13:02:56Z</updated>
+    <summary>Article / Cobham Next Gen / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Ellie Carpenter: Sociedad second-half display 'a hint of what's to come' from Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ellie-carpenter-sociedad-second-half-display-a-hint-of-whats-to-come-from"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787820667/editorial/women%27s-team/2026/August/Carpenter_RSO_Aug_26_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1KVY5zTGK92ipnihP4UIIi</id>
+    <published>2026-08-27T08:51:07Z</published>
+    <updated>2026-08-27T13:02:56Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Highlights: Wolverhampton Wanderers U18s 0-2 Chelsea U18s | 2026/27</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/highlights-wolverhampton-wanderers-u18s-0-2-chelsea-u18s-or-2026-27"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787787662/video/2026/08/26/HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:5YjCmERtqIHoMF7woZv68f</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
+    <updated>2026-08-27T13:02:56Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787788325/video/2026/08/26/FULL_MATCH.png"/>
     <id>tag:chelseafc.com,2026:news:4OPsCqakMUziAWBRBvk7qw</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
+    <updated>2026-08-27T13:02:56Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,8 +66,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787819325/editorial/news/2025/08/27/Liam_Delap_Chelsea_striker.jpg"/>
     <id>tag:chelseafc.com,2026:news:PUvY7Ydu0zFoEGtgLlPhB</id>
     <published>2025-08-27T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
+    <updated>2026-08-27T13:02:56Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Tributes to Bobby Tambling and Ken Bates at Brighton match</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/tributes-to-bobby-tambling-and-ken-bates-at-brighton-match"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1684233856/editorial/news/2023/05/16/Stamford_Bridge_view_top_of_West_Stand.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7vBs8tZYzpEeysvS4AG3Hx</id>
+    <published>2023-05-16T00:00:00Z</published>
+    <updated>2026-08-27T13:02:56Z</updated>
+    <summary>Article / Club / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Debutant named Star of the Match against Sociedad</title>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787771705/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_4.jpg"/>
     <id>tag:chelseafc.com,2026:news:7oDhAZ3Jlr3eXBKXZkoB7V</id>
     <published>2026-08-26T19:15:05Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
+    <updated>2026-08-27T13:02:56Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787755527/editorial/news/2026/08/26/GettyImages-2277307507.jpg"/>
     <id>tag:chelseafc.com,2026:news:7CswHSrn1QLRF6BqmvW55N</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
+    <updated>2026-08-27T13:02:56Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787741719/editorial/news/2026/08/26/prog_cover_website_luton.jpg"/>
     <id>tag:chelseafc.com,2026:news:4UWZQkF2x9LTQSZ4zBjh2k</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
+    <updated>2026-08-27T13:02:56Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787792100/video/2026/08/26/3MINS_Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:6JFyTRKPazFQRwJwbduJct</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso says Blues duo in contention to face Luton</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-says-blues-duo-in-contention-to-face-luton"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787754497/editorial/news/2026/08/26/welbeck-training.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6DWCS0ZlvKvx2LAMfC6FM0</id>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea learn potential Carabao Cup third round opponents</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-learn-potential-carabao-cup-third-round-opponents"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787741595/GettyImages-1648877066_ewjzfs.jpg"/>
-    <id>tag:chelseafc.com,2026:news:q3479C6alJOcKiqFoehd3</id>
-    <published>2026-08-26T10:53:15Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Camille Abily praises attack and gives fitness update on Naomi Girma</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/camille-abily-praises-attack-and-gives-fitness-update-on-naomi-girma"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787776673/editorial/women%27s-team/2026/August/Abily_RSO_Aug_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:iRTbOYKqymNT781OIhYHi</id>
-    <published>2026-08-26T20:37:53Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>UWCL Extended: Chelsea 5-2 Real Sociedad</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-extended-chelsea-5-2-real-sociedad-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787792100/video/2026/08/26/EXT_Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:K33CDM8kmj3hPKeOVld21</id>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Abily on 'really good' win 🎤</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/16x9-abily-post-chelsea-5-2-real-sociedad-3rd-qualifying-round-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787780746/video/2026/08/26/16x9_Abily_post-Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1rEHLTLOB0165I2HWfKrQy</id>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T09:28:22Z</updated>
+    <updated>2026-08-27T13:02:56Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
