@@ -4,24 +4,69 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-27T06:15:43Z</updated>
+  <updated>2026-08-27T09:28:22Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Highlights: Wolverhampton Wanderers U18s 0-2 Chelsea U18s | 2026/27</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/highlights-wolverhampton-wanderers-u18s-0-2-chelsea-u18s-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787787662/video/2026/08/26/HIGHLIGHTS.png"/>
+    <id>tag:chelseafc.com,2026:news:5YjCmERtqIHoMF7woZv68f</id>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-08-27T09:28:22Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Full Match: Wolverhampton Wanderers U18s vs Chelsea U18s | 2026/27</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/full-match-wolverhampton-wanderers-u18s-vs-chelsea-u18s-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787788325/video/2026/08/26/FULL_MATCH.png"/>
+    <id>tag:chelseafc.com,2026:news:4OPsCqakMUziAWBRBvk7qw</id>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-08-27T09:28:22Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Liam Delap departs for Nottingham Forest</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/liam-delap-departs-for-nottingham-forest"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787819325/editorial/news/2025/08/27/Liam_Delap_Chelsea_striker.jpg"/>
+    <id>tag:chelseafc.com,2026:news:PUvY7Ydu0zFoEGtgLlPhB</id>
+    <published>2025-08-27T00:00:00Z</published>
+    <updated>2026-08-27T09:28:22Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Debutant named Star of the Match against Sociedad</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/debutant-named-star-of-the-match-against-sociedad"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787771705/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_4.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7oDhAZ3Jlr3eXBKXZkoB7V</id>
+    <published>2026-08-26T19:15:05Z</published>
+    <updated>2026-08-27T09:28:22Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chelsea vs Luton: All you need to know</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-luton-all-you-need-to-know"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787755527/editorial/news/2026/08/26/GettyImages-2277307507.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7CswHSrn1QLRF6BqmvW55N</id>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-08-27T09:28:22Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Quenda on settling in England and first impressions of Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/quenda-on-settling-in-england-and-first-impressions-of-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787741719/editorial/news/2026/08/26/prog_cover_website_luton.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4UWZQkF2x9LTQSZ4zBjh2k</id>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-08-27T09:28:22Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>UWCL Highlights: Chelsea 5-2 Real Sociedad</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-highlights-chelsea-5-2-real-sociedad-2026-27"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787792100/video/2026/08/26/3MINS_Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:6JFyTRKPazFQRwJwbduJct</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>UWCL Extended: Chelsea 5-2 Real Sociedad</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-extended-chelsea-5-2-real-sociedad-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787792100/video/2026/08/26/EXT_Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:K33CDM8kmj3hPKeOVld21</id>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
+    <updated>2026-08-27T09:28:22Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787754497/editorial/news/2026/08/26/welbeck-training.jpg"/>
     <id>tag:chelseafc.com,2026:news:6DWCS0ZlvKvx2LAMfC6FM0</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
+    <updated>2026-08-27T09:28:22Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787741595/GettyImages-1648877066_ewjzfs.jpg"/>
     <id>tag:chelseafc.com,2026:news:q3479C6alJOcKiqFoehd3</id>
     <published>2026-08-26T10:53:15Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
+    <updated>2026-08-27T09:28:22Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,8 +93,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787776673/editorial/women%27s-team/2026/August/Abily_RSO_Aug_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:iRTbOYKqymNT781OIhYHi</id>
     <published>2026-08-26T20:37:53Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
+    <updated>2026-08-27T09:28:22Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>UWCL Extended: Chelsea 5-2 Real Sociedad</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-extended-chelsea-5-2-real-sociedad-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787792100/video/2026/08/26/EXT_Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:K33CDM8kmj3hPKeOVld21</id>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-08-27T09:28:22Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Abily on 'really good' win 🎤</title>
@@ -57,61 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787780746/video/2026/08/26/16x9_Abily_post-Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:1rEHLTLOB0165I2HWfKrQy</id>
     <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
+    <updated>2026-08-27T09:28:22Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Carpenter on 5-2 win 🎤</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/16x9-carpenter-post-chelsea-5-2-real-sociedad-3rd-qualifying-round-uwcl-20%E2%80%A6"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787780746/video/2026/08/26/16x9_Carpenter_post-Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4Qv7fgGN3e5kkuHcCR2xiF</id>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>UWCL Full Match: Chelsea 5-2 Real Sociedad</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-full-match-chelsea-5-2-real-sociedad-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787792100/video/2026/08/26/FULL_Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1B9OM8y59vqfDPM5KKMv9O</id>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Match Report: Chelsea 5-2 Real Sociedad</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-5-2-real-sociedad"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787771706/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_3.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3d3lYRiYMulXHdBxZ6xUAc</id>
-    <published>2026-08-26T19:15:06Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Vote for your Chelsea Star of the Match against Real Sociedad</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/vote-for-your-chelsea-star-of-the-match-against-real-sociedad"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787772394/editorial/women%27s-team/2026/August/CFCW_RSO_AUg_26_5.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5WqyGBLeXh5x8xFonMZbXY</id>
-    <published>2026-08-26T19:26:34Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Under-18 Premier League Cup report: Wolverhampton Wanderers 0-2 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/under-18-premier-league-cup-report-wolverhampton-wanderers-0-2-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787765094/editorial/news/2026/08/26/andrew-pennie.jpg"/>
-    <id>tag:chelseafc.com,2026:news:qqdCQtGiIoyVUK5ZRg8SR</id>
-    <published>2026-08-26T00:00:00Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
-    <summary>Article / U18s / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Confirmed Chelsea Women line up vs Real Sociedad</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-real-sociedad"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787761464/editorial/women%27s-team/2026/August/HL3_5463_yjd8QKxO_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:qU7rmvEOJs79D3GmpzleL</id>
-    <published>2026-08-26T16:24:24Z</published>
-    <updated>2026-08-27T06:15:43Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
