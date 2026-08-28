@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-28T07:44:13Z</updated>
+  <updated>2026-08-28T11:32:08Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title> A new name on the Chelsea shirt… 👀</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/circle-principal-partner-announcement-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787910793/video/2026/08/28/CFCxCircle-FOS_Partnership_1920x1080-LOCKUP.png"/>
+    <id>tag:chelseafc.com,2026:news:6ro8xloYVbKLJXNjZnjWCm</id>
+    <published>2026-08-28T00:00:00Z</published>
+    <updated>2026-08-28T11:32:08Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Football Club announces Circle Internet Group as Principal Partner</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-football-club-announces-circle-internet-group-as-principal-partner"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787908511/restricted/2026/Circle%20%28FOS%29/CFCxCircle-FOS_Partnership_2880x1620-CLEAN.png"/>
+    <id>tag:chelseafc.com,2026:news:eha6Bpd0Ru7JzRJ2iiwqr</id>
+    <published>2026-08-28T09:15:11Z</published>
+    <updated>2026-08-28T11:32:08Z</updated>
+    <summary>Article / Partner news / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Under-18s vs Reading: How to watch it live</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-under-18s-vs-reading-how-to-watch-it-live-h-26-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786981294/restricted/2026/Greenwood%20contract/Isago_Silva_U18_CL2_5049-3293435_oF7Z4knH.jpg"/>
+    <id>tag:chelseafc.com,2026:news:otCDsicU14zHoMqJYi1DJ</id>
+    <published>2026-08-17T15:41:34Z</published>
+    <updated>2026-08-28T11:32:08Z</updated>
+    <summary>Article / U18s / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Mamadou Sarr completes loan switch</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/mamadou-sarr-completes-loan-switch"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787873012/editorial/news/2026/08/28/Mamadou_Sarr_Chelsea_defender.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3seZvqzQ5l3C051K2YUPXW</id>
+    <published>2026-08-28T00:00:00Z</published>
+    <updated>2026-08-28T11:32:08Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Alonso on a 'special day' for Blues debutants and why Palmer played 90</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-a-special-day-for-blues-debutants-and-why-palmer-played-90"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787869558/editorial/match-reports/2026-27/Luton%20Town%20%28Carabao%20Cup%29/Mike_Penders_and_Danny_Welbeck_Chelsea.jpg"/>
     <id>tag:chelseafc.com,2026:news:7HkHLu3vhRCXsZSCzLCCIg</id>
     <published>2026-08-27T22:25:58Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
+    <updated>2026-08-28T11:32:08Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1756306159/editorial/news/2025/08/27/azpilicueta-cwc-trophy-abu-dhabi-2022.jpg"/>
     <id>tag:chelseafc.com,2026:news:3LaYKxJjY0JYCyU7Yl9uxS</id>
     <published>2025-08-27T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
+    <updated>2026-08-28T11:32:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,16 +66,16 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787882334/editorial/news/2026/08/28/danny-welbeck-luton-celebration_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:CbuNaUWVVuRiwzjL3pu6V</id>
     <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
+    <updated>2026-08-28T11:32:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Full Match: Chelsea vs Luton Town</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/efl-cup-full-match-chelsea-2-0-luton-or-2026-27"/>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/efl-cup-full-match-chelsea-vs-luton-or-2026-27"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787861925/video/2026/08/27/full_match_v_luton.jpg"/>
     <id>tag:chelseafc.com,2026:news:53FNt598IBed8vqqobKS2r</id>
     <published>2026-08-27T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
+    <updated>2026-08-28T11:32:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787861943/video/2026/08/27/extended_v_luton.jpg"/>
     <id>tag:chelseafc.com,2026:news:3IpIA7WcqNyctp7RAox1Zp</id>
     <published>2026-08-27T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
+    <updated>2026-08-28T11:32:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787863247/editorial/match-reports/2026-27/Luton%20Town%20%28Carabao%20Cup%29/Xabi_Alonso_Chelsea_manager_Luton_Town.jpg"/>
     <id>tag:chelseafc.com,2026:news:3sF2CRRKvQBsRZi6Wc6z9b</id>
     <published>2026-08-27T20:40:47Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
+    <updated>2026-08-28T11:32:08Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787862240/video/2026/08/27/highlights_v_luton.jpg"/>
     <id>tag:chelseafc.com,2026:news:1pbCnvWdi1ScVASZ7vAMHR</id>
     <published>2026-08-27T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
+    <updated>2026-08-28T11:32:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787866764/video/2026/08/27/reaction_to_luton_alonso.jpg"/>
     <id>tag:chelseafc.com,2026:news:30NzTBOAjiqP9MV5O6wAyZ</id>
     <published>2026-08-27T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Welbeck reacts to debut goal</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/welbeck-post-match-vs-luton-town-carabao-cup-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787868231/video/2026/08/27/welback_reaction.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6Fk5OB8kkJx2CUEcXllUXR</id>
-    <published>2026-08-27T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Match report: Chelsea 2-0 Luton Town</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-2-0-luton-town"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787860719/editorial/match-reports/2026-27/Luton%20Town%20%28Carabao%20Cup%29/Chelsea_celebrate_against_Luton_Town.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7rVzSo2raGjxEgyFF2Ho1f</id>
-    <published>2026-08-27T19:58:39Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso on Blues debutants and a serious approach</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-on-blues-debutants-and-a-serious-approach"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787853850/editorial/news/2025/08/27/Xabi_Alonso_Chelsea_Luton.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2B9LR4kJvIekUZYdRdql1t</id>
-    <published>2025-08-27T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Team News 🚨</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/team-news-27-08-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787853507/video/2026/08/27/GettyImages-2292329220.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6JHOn4vWLXQIu5vUHzAX8</id>
-    <published>2026-08-27T00:00:00Z</published>
-    <updated>2026-08-28T07:44:13Z</updated>
+    <updated>2026-08-28T11:32:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
