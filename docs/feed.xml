@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-30T17:59:32Z</updated>
+  <updated>2026-08-30T18:21:12Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
     <title>Match gallery: Blues score four to overcome Seagulls</title>
@@ -12,7 +12,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788111985/GettyImages-2292703802_nam3cw.jpg"/>
     <id>tag:chelseafc.com,2026:news:1sjgy5bL3zHselXjEU4RqL</id>
     <published>2026-08-30T17:46:25Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,8 +21,35 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788109134/Xabi_Alonso_celebrates_vs_Brighton_4.jpg"/>
     <id>tag:chelseafc.com,2026:news:5OxsfDJnZqniNlbVxxSNaK</id>
     <published>2026-08-30T16:58:54Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Highlights: Chelsea 4-3 Brighton</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/260830_epl_che_v_bri_2min_hlts_16x9.mp4"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788103456/video/2026/08/30/highlights_v_brighton.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3CIvRbsUtjibTQRXYap8t</id>
+    <published>2026-08-30T00:00:00Z</published>
+    <updated>2026-08-30T18:21:12Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Alonso reflects on victory over Brighton</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/alonso-post-match-vs-brighton-h-pl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788113042/video/2026/08/30/GettyImages-2292208284.jpg"/>
+    <id>tag:chelseafc.com,2026:news:47P3tFpHycZWTV2GNHZOOx</id>
+    <published>2026-08-30T00:00:00Z</published>
+    <updated>2026-08-30T18:21:12Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Lavia reacts to first Chelsea goal!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/lavia-post-match-vs-brighton-h-pl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788112752/video/2026/08/30/GettyImages-2292708539.jpg"/>
+    <id>tag:chelseafc.com,2026:news:69cX328v9o8on50958XPFO</id>
+    <published>2026-08-30T00:00:00Z</published>
+    <updated>2026-08-30T18:21:12Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Match report: Chelsea 4-3 Brighton</title>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788102123/editorial/match-reports/2026-27/Brighton%20%28H%29/Cole_Palmer_celebrates_vs_Brighton.jpg"/>
     <id>tag:chelseafc.com,2026:news:6SSTvcF1sdfPd2HtzgyUZj</id>
     <published>2026-08-30T15:02:03Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788093609/GettyImages-2292686959_lirmg9.jpg"/>
     <id>tag:chelseafc.com,2026:news:4I5W0mDNgXKOOhuXDRxcTC</id>
     <published>2026-08-30T12:40:09Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787142698/editorial/news/2026/08/19/Ezenwata_CNG_CL2_3078-3301634_kiIsQhpr.jpg"/>
     <id>tag:chelseafc.com,2026:news:3nwzyViz6f6QLgeVThoBHX</id>
     <published>2026-08-19T00:00:00Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788089017/DAZ_2167-3342939_uzxca4.jpg"/>
     <id>tag:chelseafc.com,2026:news:6ZtXGBZdiQw47xsRHF7035</id>
     <published>2026-08-30T11:23:37Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787952056/editorial/news/2026/08/28/00.GettyImages-1245709981.jpg"/>
     <id>tag:chelseafc.com,2026:news:1lVbmL62qWDOVYvpMcbDz7</id>
     <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788035120/restricted/2026/Emi%20Martinez/Emi_Martinez_Chelsea_signing_3.jpg"/>
     <id>tag:chelseafc.com,2026:news:3rgFcknWDHa0v9P2eld7R9</id>
     <published>2026-08-29T20:25:20Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788022935/video/2026/08/28/FIRST_IV_EM.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Fi89c8R0hoezJMph467c3</id>
     <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
+    <updated>2026-08-30T18:21:12Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Emi is here! 🔥</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/em-hero-16x9-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788022558/video/2026/08/28/EM_hero.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1ndhof8Hxptzub8epTxM67</id>
-    <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Emiliano Martinez signs for Chelsea!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/emiliano-martinez-signs-for-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788034504/restricted/2026/Emi%20Martinez/Emi_Martinez_signs_for_Chelsea.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6FvVBhyfcXsxEo232mzHV1</id>
-    <published>2026-08-29T20:15:04Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Watch Emi Martinez's first interview as a Chelsea player</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/watch-emi-martinezs-first-interview-as-a-chelsea-player"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788035119/restricted/2026/Emi%20Martinez/Emi_Martinez_Chelsea_signing_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5Zh2xvtz2SCT9MGnmte0vl</id>
-    <published>2026-08-29T20:25:19Z</published>
-    <updated>2026-08-30T17:59:32Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
