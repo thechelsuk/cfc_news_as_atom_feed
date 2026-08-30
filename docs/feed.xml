@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-08-30T05:57:09Z</updated>
+  <updated>2026-08-30T06:27:18Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Alonso: Now is the time to deliver</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-now-is-the-time-to-deliver"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788026390/editorial/news/2026/08/29/GettyImages-2292328324.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5pBEJUYFYqhzJh2mg0Itoi</id>
+    <published>2026-08-29T00:00:00Z</published>
+    <updated>2026-08-30T06:27:18Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Let's make this our season 🙌</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/lets-make-this-our-season-16x9-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788013464/video/2026/08/29/Screenshot_2026-08-29_at_15.15.44.png"/>
+    <id>tag:chelseafc.com,2026:news:75KxfuuD7IwZ5CYRrbaTx5</id>
+    <published>2026-08-29T00:00:00Z</published>
+    <updated>2026-08-30T06:27:18Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea vs Brighton: All you need to know</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-brighton-all-you-need-to-know-h-26-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788018494/editorial/news/2026/08/29/GettyImages-2292341372.jpg"/>
+    <id>tag:chelseafc.com,2026:news:45WDxztwLot4MCYVF3Jvs2</id>
+    <published>2026-08-29T00:00:00Z</published>
+    <updated>2026-08-30T06:27:18Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Danny Welbeck: Brighton reunion will be special</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/danny-welbeck-brighton-reunion-will-be-special"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787998452/editorial/news/2026/08/29/danny-welbeck-luton-goal.jpg"/>
     <id>tag:chelseafc.com,2026:news:6g5WcvMYI6Tpq2MEFvux8</id>
     <published>2026-08-29T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788013157/editorial/news/2026/08/29/GettyImages-2291933147.jpg"/>
     <id>tag:chelseafc.com,2026:news:7arZTGaf6qTkgxotzgUhvB</id>
     <published>2026-08-29T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788002509/editorial/news/2026/08/29/GettyImages-2292332172.jpg"/>
     <id>tag:chelseafc.com,2026:news:57OCf4PPxtha4fAxmb0Av7</id>
     <published>2026-08-29T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787919697/video/2026/08/28/palmer_ics.jpg"/>
     <id>tag:chelseafc.com,2026:news:7rWKfNjd43VfVBW2MNVuMk</id>
     <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787840710/editorial/news/2026/08/27/prog_cover_website_brighton.jpg"/>
     <id>tag:chelseafc.com,2026:news:t3zoUO0rqVrRAd19DHkmK</id>
     <published>2026-08-27T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788007804/editorial/news/2026/08/29/Pennie_U18_Reading_CL1_6774-3341223_FVcC2Uvv.jpg"/>
     <id>tag:chelseafc.com,2026:news:73YaSJMa7w4brSpAiy58fl</id>
     <published>2026-08-29T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Article / U18s / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787997797/editorial/news/2026/08/29/GettyImages-2237724538.jpg"/>
     <id>tag:chelseafc.com,2026:news:3oCLiJkk9Gk1kWZhtk7jGO</id>
     <published>2026-08-29T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788006629/video/2026/08/29/HIGHLIGHTS.jpg"/>
     <id>tag:chelseafc.com,2026:news:4SAOJhUFdcA1KWQ1tN7pju</id>
     <published>2026-08-29T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788006628/video/2026/08/29/FULL_MATCH.jpg"/>
     <id>tag:chelseafc.com,2026:news:5RWJSVCFgBozTDdnzmrfO7</id>
     <published>2026-08-29T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
+    <updated>2026-08-30T06:27:18Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso explains how 'great influence' Danny Welbeck raises standards</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-explains-how-great-influence-danny-welbeck-raises-standards"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787955279/editorial/news/2026/08/28/Danny_Welbeck_Chelsea.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1TkMJPO90izANUbUS8bZcQ</id>
-    <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Summer transfers 2026: All the Chelsea ins, outs and new contracts so far</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/summer-transfers-2026-all-the-chelsea-ins-outs-and-new-contracts-so-far"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785568851/restricted/2026/Danny%20Welbeck/Danny_Welbeck_Chelsea_contract.jpg"/>
-    <id>tag:chelseafc.com,2026:news:42z7yUYyTYrphDlKhGOLKP</id>
-    <published>2026-08-01T07:20:51Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Nicolas Jackson departs Chelsea on permanent transfer</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/nicolas-jackson-departs-chelsea-on-permanent-transfer"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787916404/editorial/news/2026/08/28/Nicolas_Jackson_Chelsea.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6HpWnMzgRrr16Ze1YcylVb</id>
-    <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-08-30T05:57:09Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
