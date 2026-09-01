@@ -4,15 +4,60 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-01T18:22:56Z</updated>
+  <updated>2026-09-01T21:10:11Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Mykhailo Mudryk completes season-long loan switch</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/mykhailo-mudryk-completes-season-long-loan-switch-tottenham"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788281510/editorial/news/2026/09/01/Misha_Mudryk_Chelsea_winger.jpg"/>
+    <id>tag:chelseafc.com,2026:news:uARmBojPdxW6As8QmLtLV</id>
+    <published>2026-09-01T00:00:00Z</published>
+    <updated>2026-09-01T21:10:11Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Dujuan Richards seals loan switch</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/dujuan-richards-seals-loan-switch"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788287718/editorial/news/2026/09/01/Dujuan_Richards_Chelsea_forward.jpg"/>
+    <id>tag:chelseafc.com,2026:news:63LQgFo9wfF2cPYGmTuoeS</id>
+    <published>2026-09-01T00:00:00Z</published>
+    <updated>2026-09-01T21:10:11Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Robert Sanchez departs on loan</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/robert-sanchez-departs-on-loan"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788287213/editorial/news/2026/09/01/Rob_Sanchez_Chelsea.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7xCwsNWz0VE7M8FxU2a1ed</id>
+    <published>2026-09-01T00:00:00Z</published>
+    <updated>2026-09-01T21:10:11Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Dario Essugo completes loan switch </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/dario-essugo-completes-loan-switch"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788286814/editorial/news/2026/09/01/Dario_Essugo_Chelsea_midfiedler.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3RPDrgftepsKlILTPo6OfO</id>
+    <published>2026-09-01T00:00:00Z</published>
+    <updated>2026-09-01T21:10:11Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Carabao Cup ticket news: Leeds at home</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/carabao-cup-ticket-news-leeds-at-home"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1600687987/editorial/news/2020/09/carabao_cup_trophy_stamford_bridge.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4CnDz4sl0xqUxtFKvHtJGb</id>
+    <published>2020-09-21T11:33:07Z</published>
+    <updated>2026-09-01T21:10:11Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Chelsea Women travelling squad confirmed for Real Sociedad</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-travelling-squad-confirmed-for-real-sociedad"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788276992/HL3_2543_Jvk5hXmv_copy_1_w8zchn.jpg"/>
     <id>tag:chelseafc.com,2026:news:27VJbBbS0NH2gsIMZOQTVd</id>
     <published>2026-09-01T15:36:32Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
+    <updated>2026-09-01T21:10:11Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788282965/editorial/news/2026/09/01/Deivid_Washington_Chelsea_forward.jpg"/>
     <id>tag:chelseafc.com,2026:news:6voJnUGEdIHwLS2eYQxS1w</id>
     <published>2026-09-01T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
+    <updated>2026-09-01T21:10:11Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788274893/editorial/news/2026/09/01/GettyImages-2292707245.jpg"/>
     <id>tag:chelseafc.com,2026:news:7hh18jtPnhJvn58D0YodgR</id>
     <published>2026-09-01T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
+    <updated>2026-09-01T21:10:11Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788255415/editorial/news/2026/09/01/GettyImages-2292209422.jpg"/>
     <id>tag:chelseafc.com,2026:news:uRDB3svhQB6SmHL90erzD</id>
     <published>2026-09-01T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
+    <updated>2026-09-01T21:10:11Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1785568851/restricted/2026/Danny%20Welbeck/Danny_Welbeck_Chelsea_contract.jpg"/>
     <id>tag:chelseafc.com,2026:news:42z7yUYyTYrphDlKhGOLKP</id>
     <published>2026-08-01T07:20:51Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
+    <updated>2026-09-01T21:10:11Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788258605/editorial/news/2026/08/31/Honest_Ahanor_signing_day_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:1UZE5fK92QjCtEuGnpiuQX</id>
     <published>2026-08-31T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
+    <updated>2026-09-01T21:10:11Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787882335/editorial/news/2026/08/28/danny-welbeck-luton-celebration_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:6ppfWUhE6dJZ2YKi0kyGnJ</id>
     <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
+    <updated>2026-09-01T21:10:11Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Marc Guiu departs on permanent transfer </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/marc-guiu-departs-on-permanent-transfer-rb-leipzig-"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788249577/editorial/news/2026/09/01/Marc_Guiu_Chelsea_forward.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6oKLRlK4gSD9ubxrA9D1hx</id>
-    <published>2026-09-01T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Analysis: Flying wingers, why possession isn't always king and Joao Pedro at it again</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/analysis-flying-wingers-why-possession-isnt-always-king-and-joao-pedro-at"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788211280/editorial/news/2026/08/31/GettyImages-2292693326.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7EDo06i2lFsjIY8HmQcFig</id>
-    <published>2026-08-31T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>David Fofana completes permanent move</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/david-fofana-completes-permanent-move"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788190922/editorial/news/2026/08/31/david-fofana-2023.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7Ax5vyvrxwibjlbmylVJTT</id>
-    <published>2026-08-31T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>PL2 report: Chelsea Cobham Next Gen 5-4 West Ham United U21s</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pl2-report-chelsea-cobham-next-gen-5-4-west-ham-united"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788187209/editorial/news/2026/08/31/chelsea-cobham-next-gen-west-ham-united-august-2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:jkTudpkY0GFBkxAGT9EL3</id>
-    <published>2026-08-31T00:00:00Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
-    <summary>Article / Academy / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>How challenges of the past continue to shape Emi Martinez's future </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/how-challenges-of-the-past-continue-to-shape-emi-martinezs-future"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788035122/restricted/2026/Emi%20Martinez/Emi_Martinez_Chelsea_signing_picture.jpg"/>
-    <id>tag:chelseafc.com,2026:news:KasK2BmRGVb1GpMk0vbWF</id>
-    <published>2026-08-29T20:25:22Z</published>
-    <updated>2026-09-01T18:22:56Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
