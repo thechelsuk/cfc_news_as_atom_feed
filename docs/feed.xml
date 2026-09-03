@@ -4,15 +4,60 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-02T22:37:00Z</updated>
+  <updated>2026-09-03T00:37:32Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>UWCL Highlights: Real Sociedad 0-1 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-highlights-real-sociedad-0-1-chelsea-2-6-agg-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788382709/video/2026/09/02/2MINS_Real_Sociedad_0-1_Chelsea_3QR_2nd_Leg_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6pEgJPRD4KU73DUsW8BKLk</id>
+    <published>2026-09-02T00:00:00Z</published>
+    <updated>2026-09-03T00:37:32Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>UWCL Extended: Real Sociedad 0-1 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-extended-real-sociedad-0-1-chelsea-2-6-agg-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788382710/video/2026/09/02/EXT_Real_Sociedad_0-1_Chelsea_3QR_2nd_Leg_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:67qwisuMv1GIS5Lf9iTXUJ</id>
+    <published>2026-09-02T00:00:00Z</published>
+    <updated>2026-09-03T00:37:32Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'I want to make Stamford Bridge a fortress'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-post-real-sociedad-a-3qr-2nd-leg-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788390019/video/2026/09/02/16x9_Bompastor_post-Real_Sociedad_0-1_Chelsea_3QR_2nd_Leg_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6pYEVcC53CBY0Xu44YbqCK</id>
+    <published>2026-09-02T00:00:00Z</published>
+    <updated>2026-09-03T00:37:32Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'I'm not known for scoring!'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/walsh-post-real-sociedad-a-3qr-2nd-leg-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788390019/video/2026/09/02/16x9_Walsh_post-Real_Sociedad_0-1_Chelsea_3QR_2nd_Leg_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6zBZgVnmESBphGHdUPZOWI</id>
+    <published>2026-09-02T00:00:00Z</published>
+    <updated>2026-09-03T00:37:32Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>UWCL Full Match: Real Sociedad vs Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-full-match-real-sociedad-vs-chelsea-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788382710/video/2026/09/02/FULL_Real_Sociedad_0-1_Chelsea_3QR_2nd_Leg_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6zodPMmTUOkLl6AXcuhJej</id>
+    <published>2026-09-02T00:00:00Z</published>
+    <updated>2026-09-03T00:37:32Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Sonia Bompastor hails Blues youngsters after Champions League qualification</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-happy-with-young-players-after-womens-champions-league"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788379817/editorial/women%27s-team/2026/August/Real%20Sociedad%20%28a%29/HL3_5575_XvN68Xq5_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:5BqsSjTMmbegPhQew6lFge</id>
     <published>2026-09-02T20:10:17Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
+    <updated>2026-09-03T00:37:32Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788375604/editorial/women%27s-team/2026/August/Real%20Sociedad%20%28a%29/HL4_3675_YoSuVwOz_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:6Mo0yNvEBEJNOiQ6NQsFvl</id>
     <published>2026-09-02T19:00:04Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
+    <updated>2026-09-03T00:37:32Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788368317/editorial/news/2026/09/01/Landon_Emanalo_Chelsea.jpg"/>
     <id>tag:chelseafc.com,2026:news:3mrGiG0YHTyVtfjDX9Zre3</id>
     <published>2026-09-01T00:00:00Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
+    <updated>2026-09-03T00:37:32Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788361645/editorial/women%27s-team/2026/August/Real%20Sociedad%20%28a%29/RSO_vs_CFCW_shirts_pic.jpg"/>
     <id>tag:chelseafc.com,2026:news:6Quy1TiUolAd76Yskf1fbn</id>
     <published>2026-09-02T15:07:25Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
+    <updated>2026-09-03T00:37:32Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788301400/editorial/news/2026/09/01/Kiano_Dyer_Chelsea_midfielder.jpg"/>
     <id>tag:chelseafc.com,2026:news:6pXWHZjTYHbcJc35pU8IyE</id>
     <published>2026-09-01T00:00:00Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
+    <updated>2026-09-03T00:37:32Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1761572963/editorial/stadium-views/Chelsea_Women_fans_arriving_outside_West_Stand_September_2025.jpg"/>
     <id>tag:chelseafc.com,2026:news:4bADRpBEeCOmLaUMz11lIx</id>
     <published>2025-10-27T13:49:23Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
+    <updated>2026-09-03T00:37:32Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787769376/editorial/women%27s-team/2026/August/Girma_RSO_Aug_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:1dlYJ4RAQrIUI5tvwAFRio</id>
     <published>2026-08-26T18:36:16Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
+    <updated>2026-09-03T00:37:32Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Shumaira Mheuka signs new Chelsea contract and joins Celtic on loan</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/shumaira-mheuka-signs-new-chelsea-contract-and-joins-celtic-on-loan"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788356674/editorial/news/2026/09/02/shumaira-shim-mheuka-february-2026-FAYC-edit.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5RCTq32F1bsVs3xijC2BS9</id>
-    <published>2026-09-02T00:00:00Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Foundation to host exclusive Gala Dinner at Mansion House</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-foundation-to-host-exclusive-gala-dinner-at-mansion-house"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788348251/editorial/Foundation/Foundation_gala_dinner_header.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2e3AxC1hUcTnSb5hCa9JHh</id>
-    <published>2026-09-02T11:24:11Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
-    <summary>Article / Foundation / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Romeo Lavia on how Xabi Alonso is trying to find that extra one per cent</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/romeo-lavia-on-how-xabi-alonso-is-trying-to-find-that-extra-one-per-cent"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788254434/GettyImages-2292692429_pwuzfm.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2BslAzRfuawYbQ1vNFLBOH</id>
-    <published>2026-09-01T09:20:34Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Premier League ticket news: Brentford away - loyalty point update for season ticket holders</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-ticket-news-brentford-away-26-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1743938083/editorial/match-reports/2024-25/Brentford%20away/gtech-view.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4DMh2IoAcPMtcsrELlBgx9</id>
-    <published>2025-04-06T11:14:43Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>PGA South League report: Chelsea Women’s Under-18s 6-1 Crystal Palace Under-21s</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pga-south-league-report-chelsea-womens-under-18s-6-1-crystal-palace-u21s"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788304723/editorial/news/2026/09/02/gabi-storey.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2P6AGnO5FYKaLN4kMcTz8R</id>
-    <published>2026-09-02T00:00:00Z</published>
-    <updated>2026-09-02T22:37:00Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
 </feed>
