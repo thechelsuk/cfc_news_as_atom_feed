@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-03T17:19:01Z</updated>
+  <updated>2026-09-03T19:56:26Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Ted Curd completes loan switch</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ted-curd-completes-loan-switch"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788448657/editorial/news/2026/09/03/Ted_Curd_Chelsea_goalkeeper.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2CzYSNnX1vUVZQ1nYIT7Jf</id>
+    <published>2026-09-03T00:00:00Z</published>
+    <updated>2026-09-03T19:56:26Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Women vs Aston Villa: How to watch, kick-off time, live stream info</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-vs-aston-villa-how-to-watch-kick-off-time-live-stream-info"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787841553/editorial/women%27s-team/2026/August/Malard_Aug_26_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:18XJ8f09uCk0Fa6z8zrSOL</id>
+    <published>2026-08-27T14:39:13Z</published>
+    <updated>2026-09-03T19:56:26Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Training gallery: Working towards Arsenal</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-working-towards-arsenal-sept-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788456638/editorial/news/2026/09/03/Joao_Pedro_Chelsea_training_September_3.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3ZtICqKf32VImMAsRitn3K</id>
+    <published>2026-09-03T00:00:00Z</published>
+    <updated>2026-09-03T19:56:26Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Women's Champions League league phase draw: How to watch, fixture dates, confirmed teams</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/womens-champions-league-league-phase-draw-how-to-watch-fixture-dates"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788442805/editorial/news/2026/09/03/GettyImages-2290005411.jpg"/>
     <id>tag:chelseafc.com,2026:news:HPBJ5fQTGHTcB679u9ANb</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788443239/editorial/news/2026/09/03/Denner_Chelsea.jpg"/>
     <id>tag:chelseafc.com,2026:news:6UIkP9vIB49SpE3iJFaAgq</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788425533/editorial/partnerships/Rimmel/Rimmel_activation_2.png"/>
     <id>tag:chelseafc.com,2026:news:27L3ghocpd6d9nhmGgDP52</id>
     <published>2026-09-03T08:52:13Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788430242/editorial/news/2026/09/03/GettyImages-2292705215.jpg"/>
     <id>tag:chelseafc.com,2026:news:1dK6lCfgsJWjnD8ZROGWoZ</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1600687987/editorial/news/2020/09/carabao_cup_trophy_stamford_bridge.jpg"/>
     <id>tag:chelseafc.com,2026:news:5A78MCC9EecejWRudOzKkr</id>
     <published>2020-09-21T11:33:07Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788109134/Xabi_Alonso_celebrates_vs_Brighton_4.jpg"/>
     <id>tag:chelseafc.com,2026:news:2tMpMFVxvkeE63zlKkS7ia</id>
     <published>2026-08-30T16:58:54Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788355284/editorial/news/2026/09/02/GettyImages-2292731382.jpg"/>
     <id>tag:chelseafc.com,2026:news:5THYjgrs5p98yDa7uM77No</id>
     <published>2026-09-02T00:00:00Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788426663/editorial/news/2026/09/03/GettyImages-2291882231.jpg"/>
     <id>tag:chelseafc.com,2026:news:5ohZ0qBNZ0OYTYDfwpFZGQ</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788428301/editorial/news/2026/09/03/Walsh_RSO_Sep_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:6L6aHHZNTeOk6FUvPE0wuy</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
+    <updated>2026-09-03T19:56:26Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Premier League ticket news: Brentford away - loyalty point update for members</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-ticket-news-brentford-away-26-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1743938083/editorial/match-reports/2024-25/Brentford%20away/gtech-view.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4DMh2IoAcPMtcsrELlBgx9</id>
-    <published>2025-04-06T11:14:43Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>UWCL Highlights: Real Sociedad 0-1 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-highlights-real-sociedad-0-1-chelsea-2-6-agg-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788382709/video/2026/09/02/2MINS_Real_Sociedad_0-1_Chelsea_3QR_2nd_Leg_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6pEgJPRD4KU73DUsW8BKLk</id>
-    <published>2026-09-02T00:00:00Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>UWCL Extended: Real Sociedad 0-1 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-extended-real-sociedad-0-1-chelsea-2-6-agg-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788382710/video/2026/09/02/EXT_Real_Sociedad_0-1_Chelsea_3QR_2nd_Leg_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:67qwisuMv1GIS5Lf9iTXUJ</id>
-    <published>2026-09-02T00:00:00Z</published>
-    <updated>2026-09-03T17:19:01Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
