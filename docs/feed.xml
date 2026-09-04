@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-04T16:54:27Z</updated>
+  <updated>2026-09-04T19:14:59Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Key talking points from Sonia Bompastor's pre-Aston Villa press conference</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/key-talking-points-from-sonia-bompastors-pre-aston-villa-press-conference"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788548275/editorial/news/2026/09/03/Sonia_Bompastor_Chelsea_head_coach.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2Gx0TsKq3ChZwjOpIzfdnb</id>
+    <published>2026-09-03T00:00:00Z</published>
+    <updated>2026-09-04T19:14:59Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Women squad numbers confirmed for the 2026/27 season</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-squad-numbers-confirmed-for-the-2026-27-season"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788442733/editorial/news/2026/09/03/Chelsea_Women_squad_numbers.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1fEeyTlSq58bT73wxrPBMg</id>
+    <published>2026-09-03T00:00:00Z</published>
+    <updated>2026-09-04T19:14:59Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>PGA South League report: Southampton Women Under-21s 0-4 Chelsea Women Under-18s</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pga-south-league-report-southampton-women-under-21s-0-4-chelsea-women-under"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788539083/editorial/news/2026/09/04/Carla_Gardiner.jpg"/>
     <id>tag:chelseafc.com,2026:news:1eeCZGOYFCWEIxipyuRkos</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Article / Academy / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788520982/editorial/news/2026/09/04/Prog_women_cover_website_aston_villa.jpg"/>
     <id>tag:chelseafc.com,2026:news:3Uq21Zls53rUfmJ9wCk25B</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788532153/editorial/news/2026/09/03/Emi_Martinez_No.1_shirt.jpg"/>
     <id>tag:chelseafc.com,2026:news:5egKp4A4pDEOAyAjTkcyhV</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,8 +57,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788527189/editorial/news/2026/09/04/Bompastor_presser_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:3SQDXBP9wrNztyBpC9GQko</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Bompastor Press Conference 🎙️</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-press-conference-pre-aston-villa-h-wsl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788544893/video/2026/09/04/16x9_Bompastor_pre-Aston_Villa_h__WSL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2tfjVjTRp4mVi9eeuPQ7DU</id>
+    <published>2026-09-04T00:00:00Z</published>
+    <updated>2026-09-04T19:14:59Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Confirmed Chelsea team news ahead of Arsenal</title>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788526525/editorial/news/2026/09/04/GettyImages-2291582189.jpg"/>
     <id>tag:chelseafc.com,2026:news:6vbY6NiWpsSSFMukTCr1tN</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788529315/editorial/Stamford%20Bridge%20general%20shots/East_Stand_view_-_August_2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:1uO3HH45hPdeMNrLeZMXYj</id>
     <published>2026-09-04T13:41:55Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788533995/video/2026/09/04/16x9_Alonso_pre-Arsenal_a__EPL_2026-27_v2.jpg"/>
     <id>tag:chelseafc.com,2026:news:OrnanLuMyvpxcF0SygzFj</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788520728/editorial/news/2026/09/04/CFCW_leadership_group.jpg"/>
     <id>tag:chelseafc.com,2026:news:3GQWGyNqOlJ7mIOPRQX5zW</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788521815/video/2026/09/04/260901_ERIN_CUTHBERT_CAPTAIN_ANNOUNCE_IV_D4_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:1ZznhKViVlDIujlFKfbbzD</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
+    <updated>2026-09-04T19:14:59Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Women's Champions League draw: Chelsea discover league phase opponents</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/womens-champions-league-draw-chelsea-discover-league-phase-opponents"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786441615/editorial/news/2026/08/11/womens-champions-league-draw-balls-uwcl.jpg"/>
-    <id>tag:chelseafc.com,2026:news:11IeMXAU1daq2kFbAbHuXP</id>
-    <published>2026-08-11T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Summer transfers 2026: All the Chelsea Women ins, outs and new contracts so far</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/summer-transfers-2026-all-the-chelsea-women-ins-outs-and-new-contracts-so"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1784546065/editorial/news/2026/07/20/melvine-malard-announcement-article.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3fcsfwZzPUANupmwerKsDP</id>
-    <published>2026-07-20T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>An open letter to Chelsea supporters from captain Erin Cuthbert</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/an-open-letter-to-chelsea-supporters-from-captain-erin-cuthbert"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788510145/editorial/news/2026/09/03/Erin_Cuthbert_Chelsea_captain.jpg"/>
-    <id>tag:chelseafc.com,2026:news:64xiLbQBYkqFoKchzea8L8</id>
-    <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-04T16:54:27Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
 </feed>
