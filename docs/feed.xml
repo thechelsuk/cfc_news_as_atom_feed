@@ -4,16 +4,34 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-04T04:29:06Z</updated>
+  <updated>2026-09-04T08:59:26Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
-    <title>Ted Curd completes loan switch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ted-curd-completes-loan-switch"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788448657/editorial/news/2026/09/03/Ted_Curd_Chelsea_goalkeeper.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2CzYSNnX1vUVZQ1nYIT7Jf</id>
+    <title>An open letter to Chelsea supporters from captain Erin Cuthbert</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/an-open-letter-to-chelsea-supporters-from-captain-erin-cuthbert"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788510145/editorial/news/2026/09/03/Erin_Cuthbert_Chelsea_captain.jpg"/>
+    <id>tag:chelseafc.com,2026:news:64xiLbQBYkqFoKchzea8L8</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
+    <updated>2026-09-04T08:59:26Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Erin Cuthbert. Chelsea captain. 💙</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/erin-cuthbert-captain-announce-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788366177/video/2026/09/02/HL3_7969_2M5F69uh.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7qQKsbYuuseeT4k5cXaKb3</id>
+    <published>2026-09-02T00:00:00Z</published>
+    <updated>2026-09-04T08:59:26Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Erin Cuthbert named new Chelsea Women captain</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/erin-cuthbert-named-new-chelsea-women-captain"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788429748/editorial/women%27s-team/Galleries/Erin%20captaincy/Cuthbert_captain_Aug_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:Yb6yEtEaK8FrDdQU1sRgl</id>
+    <published>2026-09-03T10:02:28Z</published>
+    <updated>2026-09-04T08:59:26Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>Chelsea Women game travel warning - Fulham Broadway closed; District Line disruption</title>
@@ -21,8 +39,35 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
     <id>tag:chelseafc.com,2026:news:4nAsZo49NokY3KH85mMoXO</id>
     <published>2022-01-20T14:45:09Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
+    <updated>2026-09-04T08:59:26Z</updated>
     <summary>Article / Travel news / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Vote now for your Chelsea August Goal of the Month winner!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/vote-now-for-your-chelsea-august-goal-of-the-month-winner"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788446940/editorial/news/2026/09/03/GettyImages-2292703802.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3m0kAQ6pS87PJNFAcTWNGG</id>
+    <published>2026-09-03T00:00:00Z</published>
+    <updated>2026-09-04T08:59:26Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Vote for your Men's Goal of the Month! 💫 </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/mens-august-2026-gotm"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788453592/video/2026/09/03/gotm_auguts.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2uxptnlmXLcUiU6dbzxXMC</id>
+    <published>2026-09-03T00:00:00Z</published>
+    <updated>2026-09-04T08:59:26Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Ted Curd completes loan switch</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ted-curd-completes-loan-switch"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788448657/editorial/news/2026/09/03/Ted_Curd_Chelsea_goalkeeper.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2CzYSNnX1vUVZQ1nYIT7Jf</id>
+    <published>2026-09-03T00:00:00Z</published>
+    <updated>2026-09-04T08:59:26Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Chelsea Women vs Aston Villa: How to watch, kick-off time, live stream info</title>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787841553/editorial/women%27s-team/2026/August/Malard_Aug_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:18XJ8f09uCk0Fa6z8zrSOL</id>
     <published>2026-08-27T14:39:13Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
+    <updated>2026-09-04T08:59:26Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788456638/editorial/news/2026/09/03/Joao_Pedro_Chelsea_training_September_3.jpg"/>
     <id>tag:chelseafc.com,2026:news:3ZtICqKf32VImMAsRitn3K</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
+    <updated>2026-09-04T08:59:26Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788442805/editorial/news/2026/09/03/GettyImages-2290005411.jpg"/>
     <id>tag:chelseafc.com,2026:news:HPBJ5fQTGHTcB679u9ANb</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
+    <updated>2026-09-04T08:59:26Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788443239/editorial/news/2026/09/03/Denner_Chelsea.jpg"/>
     <id>tag:chelseafc.com,2026:news:6UIkP9vIB49SpE3iJFaAgq</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
+    <updated>2026-09-04T08:59:26Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788425533/editorial/partnerships/Rimmel/Rimmel_activation_2.png"/>
     <id>tag:chelseafc.com,2026:news:27L3ghocpd6d9nhmGgDP52</id>
     <published>2026-09-03T08:52:13Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
+    <updated>2026-09-04T08:59:26Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Vote for Cole Palmer to win Premier League Goal of the Month! </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/vote-cole-palmer-to-win-premier-league-goal-of-the-month"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788430242/editorial/news/2026/09/03/GettyImages-2292705215.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1dK6lCfgsJWjnD8ZROGWoZ</id>
-    <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Carabao Cup ticket news: Sales opening for members</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/carabao-cup-ticket-news-sales-opening-for-members"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1600687987/editorial/news/2020/09/carabao_cup_trophy_stamford_bridge.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5A78MCC9EecejWRudOzKkr</id>
-    <published>2020-09-21T11:33:07Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Help Xabi Alonso win Premier League Manager of the Month!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/help-xabi-alonso-win-premier-league-manager-of-the-month"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788109134/Xabi_Alonso_celebrates_vs_Brighton_4.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2tMpMFVxvkeE63zlKkS7ia</id>
-    <published>2026-08-30T16:58:54Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Arsenal vs Chelsea preview: TV channel, kick-off time and how to watch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/arsenal-vs-chelsea-preview-tv-channel-kick-off-time-and-how-to-watch-26-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788355284/editorial/news/2026/09/02/GettyImages-2292731382.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5THYjgrs5p98yDa7uM77No</id>
-    <published>2026-09-02T00:00:00Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Two Blues shortlisted for Premier League Player of the Month award</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/two-blues-shortlisted-premier-league-player-of-the-month-award"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788426663/editorial/news/2026/09/03/GettyImages-2291882231.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5ohZ0qBNZ0OYTYDfwpFZGQ</id>
-    <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-04T04:29:06Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
