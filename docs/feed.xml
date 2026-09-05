@@ -4,16 +4,61 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-05T12:47:59Z</updated>
+  <updated>2026-09-05T15:37:02Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Sonia Bompastor gives Malard injury update and rues missed chances</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-gives-malard-injury-update-and-rues-missed-chances"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788608656/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/Bompastor_Villa_Sep_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2RikQFsIl2WVembkONBodr</id>
+    <published>2026-09-05T11:44:16Z</published>
+    <updated>2026-09-05T15:37:02Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Aggie Beever-Jones reaches 100 appearances for Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/aggie-beever-jones-reaches-100-appearances-for-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788617061/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/ABJ_Villa_Sep_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1mt4Hba4K4wxZ58A7iyfyS</id>
+    <published>2026-09-05T14:04:21Z</published>
+    <updated>2026-09-05T15:37:02Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Match Report: Chelsea 1-1 Aston Villa </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-1-1-aston-villa"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788617006/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/GettyImages-2293636930.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5KZ1hTK7MvIJcnHelbt6G1</id>
+    <published>2026-09-05T14:03:26Z</published>
+    <updated>2026-09-05T15:37:02Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Confirmed Chelsea Women line up vs Aston Villa</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-cfcw-line-up-vs-aston-villa"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788601618/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/CFCW_Villa_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:1T5gQovA0nykuX2aPTykKf</id>
     <published>2026-09-05T09:46:58Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
+    <updated>2026-09-05T15:37:02Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Highlights: Fulham U18s 4-3 Chelsea U18s</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/u18-highlights-fulham-u18-4-3-chelsea-u18-05-09-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788616256/video/2026/09/05/HIGHLIGHTS.png"/>
+    <id>tag:chelseafc.com,2026:news:2k4etkTrM1u1l6wM93Vl73</id>
+    <published>2026-09-05T00:00:00Z</published>
+    <updated>2026-09-05T15:37:02Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Full Match: Fulham U18 4-3 Chelsea U18</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/full-match-fulham-u18-4-3-chelsea-u18-05-09-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788616255/video/2026/09/05/FULL_MATCH.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2D8ZvZtnGsntFRIPxyG3qE</id>
+    <published>2026-09-05T00:00:00Z</published>
+    <updated>2026-09-05T15:37:02Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Moving-in pre-match top launches as SW6 becomes CFCW home</title>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788517039/editorial/kit%20launches%202026-27/SW6%20pre-match%20top/SW6_pre-match_top_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Vdu40evEVt61MZEGFWeLd</id>
     <published>2026-09-04T10:17:19Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
+    <updated>2026-09-05T15:37:02Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788541994/editorial/news/2026/09/04/GettyImages-2292707184.jpg"/>
     <id>tag:chelseafc.com,2026:news:6gfdXuMeubvM42FzzhBE1E</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
+    <updated>2026-09-05T15:37:02Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788559495/video/2026/09/04/FULL_CLASSIC_MATCH_Arsenal_1-2_Chelsea_EPL_2019-20.jpg"/>
     <id>tag:chelseafc.com,2026:news:1swzBxUtgTWTqvwS6VQfq6</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
+    <updated>2026-09-05T15:37:02Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788443521/video/2026/09/03/we_are_chelsea_s4_ep3.jpg"/>
     <id>tag:chelseafc.com,2026:news:3LopwhTy48cVwlSpoDemaa</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
+    <updated>2026-09-05T15:37:02Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
     <id>tag:chelseafc.com,2026:news:4nAsZo49NokY3KH85mMoXO</id>
     <published>2022-01-20T14:45:09Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
+    <updated>2026-09-05T15:37:02Z</updated>
     <summary>Article / Travel news / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788552149/editorial/news/2026/09/03/Chelsea_training_September_4.jpg"/>
     <id>tag:chelseafc.com,2026:news:EnQ7EhaeIU9bIY9VO3kfx</id>
     <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
+    <updated>2026-09-05T15:37:02Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso on building defensive partnerships and Colwill and Lacroix qualities</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-building-defensive-partnerships-and-colwill-and-lacroix-qualities"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788536164/editorial/news/2026/09/04/GettyImages-2292708387.jpg"/>
-    <id>tag:chelseafc.com,2026:news:82sjNLSP3onqzgKv4TMxf</id>
-    <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Key talking points from Sonia Bompastor's pre-Aston Villa press conference</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/key-talking-points-from-sonia-bompastors-pre-aston-villa-press-conference"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788548275/editorial/news/2026/09/03/Sonia_Bompastor_Chelsea_head_coach.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2Gx0TsKq3ChZwjOpIzfdnb</id>
-    <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Women squad numbers confirmed for the 2026/27 season</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-squad-numbers-confirmed-for-the-2026-27-season"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788442733/editorial/news/2026/09/03/Chelsea_Women_squad_numbers.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1fEeyTlSq58bT73wxrPBMg</id>
-    <published>2026-09-03T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Women's Training ahead of Aston Villa 🙌</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/womens-training-ahead-of-aston-villa"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788568745/video/2026/09/04/260904_Training_16x9.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6uCQ69Fw3wNIowlJBu3pXz</id>
-    <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>PGA South League report: Southampton Women Under-21s 0-4 Chelsea Women Under-18s</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pga-south-league-report-southampton-women-under-21s-0-4-chelsea-women-under"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788539083/editorial/news/2026/09/04/Carla_Gardiner.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1eeCZGOYFCWEIxipyuRkos</id>
-    <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-05T12:47:59Z</updated>
-    <summary>Article / Academy / date-source:path-date</summary>
   </entry>
 </feed>
