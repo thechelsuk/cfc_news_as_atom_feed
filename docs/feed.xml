@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-06T05:39:15Z</updated>
+  <updated>2026-09-06T09:39:39Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Arsenal vs Chelsea: All you need to know</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/arsenal-vs-chelsea-all-you-need-to-know-september-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788646149/editorial/news/2026/09/05/arsenal-chelsea-general-shots-emirates_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7Eh9ny5nizObioKlnk67Lq</id>
+    <published>2026-09-05T00:00:00Z</published>
+    <updated>2026-09-06T09:39:39Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Xabi Alonso backs Reece James to become one of the world's best midfielders</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-backs-reece-james-to-become-one-of-the-worlds-best-midfielders"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788590800/editorial/news/2026/09/05/Reece_James_Chelsea_captain.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4rsjdFRIPqBKkEG2ghriim</id>
+    <published>2026-09-05T00:00:00Z</published>
+    <updated>2026-09-06T09:39:39Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>The Arsenal and Chelsea connections: Who has played for both clubs?</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/from-west-to-north-london--the-arsenal-and-chelsea-connections-"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1559216634/editorial/news/2019/5/Giroud_GettyImages-1146879342.jpg"/>
     <id>tag:chelseafc.com,2026:news:7BrQVbP5bDZCWMc3AJ7auI</id>
     <published>2019-05-30T11:43:54Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1520000411/editorial/people/first-team/2017-18/hero/hazard_goal_arsenal_2017-633776454.jpg"/>
     <id>tag:chelseafc.com,2026:news:4PruiNjQfGgrxDk6b8Izg7</id>
     <published>2018-03-02T14:20:11Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788590613/editorial/news/2026/09/04/Arsenal_Stadium_general.jpg"/>
     <id>tag:chelseafc.com,2026:news:5oW0d8X80dhGkCUY0AMNTz</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788629668/editorial/news/2026/09/05/England_WU20_Canada_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:4XXJQpD3RbVTrWGIIJlAUH</id>
     <published>2026-09-05T00:00:00Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788623037/video/2026/09/05/AV-HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:2ksRW9RTVhQBQXjZ3lZlZ</id>
     <published>2026-09-05T00:00:00Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788625051/video/2026/09/05/AV-FULL_MATCH.png"/>
     <id>tag:chelseafc.com,2026:news:3YZbrlcznWqZP2b59gK1wZ</id>
     <published>2026-09-05T00:00:00Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788562733/editorial/news/2026/09/04/Morgan_Rogers_Chelsea.jpg"/>
     <id>tag:chelseafc.com,2026:news:7Ap1tkYHiqBhS3TD8Hmslu</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788624702/video/2026/09/05/Lucy-REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:2Iwb2WyQxeSip04FePAd1J</id>
     <published>2026-09-05T00:00:00Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788624702/video/2026/09/05/Sonia-REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:6lVLzGrO2Qn6nNah3NZHTb</id>
     <published>2026-09-05T00:00:00Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788608656/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/Bompastor_Villa_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:2RikQFsIl2WVembkONBodr</id>
     <published>2026-09-05T11:44:16Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
+    <updated>2026-09-06T09:39:39Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Aggie Beever-Jones reaches 100 appearances for Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/aggie-beever-jones-reaches-100-appearances-for-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788617061/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/ABJ_Villa_Sep_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1mt4Hba4K4wxZ58A7iyfyS</id>
-    <published>2026-09-05T14:04:21Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Under-18 Premier League report: Fulham 4-3 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/under-18-premier-league-report-fulham-4-3-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788626702/editorial/news/2026/09/05/chelsea-under-18s-fulham-august-2026-Mahdi_Nicoll-Jazuli.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1ne7dc4oxgaKHZ2OZKJ16d</id>
-    <published>2026-09-05T00:00:00Z</published>
-    <updated>2026-09-06T05:39:15Z</updated>
-    <summary>Article / Academy / date-source:path-date</summary>
   </entry>
 </feed>
