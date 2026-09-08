@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-08T04:28:47Z</updated>
+  <updated>2026-09-08T09:00:06Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Chelsea vs Leeds: An epic rivalry resumes</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-leeds---anatomy-of-a-rivalry0"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1764761672/editorial/news/2025/12/03/chelsea-leeds-fa-cup-final-1970-trophy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:77lQjGnVgcBtR5GfPylkzw</id>
+    <published>2025-12-03T00:00:00Z</published>
+    <updated>2026-09-08T09:00:06Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Goal of the Month winner for August revealed!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-goal-the-month-winner-august-26-revealed"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788803837/editorial/news/2026/09/07/Cole_Palmer_celebrates_against_Brighton.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6KiY4Rk2w3xZs2f1dw52lD</id>
+    <published>2026-09-07T00:00:00Z</published>
+    <updated>2026-09-08T09:00:06Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Women’s Super League ticket news: West Ham away</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/womens-super-league-ticket-news-west-ham-away-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1675176680/editorial/news/2023/01/31/dagenham-redbridge-stadium-view.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6pL3rAQlHUglF2wsq9B2au</id>
+    <published>2023-01-31T00:00:00Z</published>
+    <updated>2026-09-08T09:00:06Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>New Blues captain Erin Cuthbert looks back on her career and move away from home</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/new-blues-captain-erin-cuthbert-looks-back-on-her-career-and-move-away-from"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788796299/editorial/news/2026/09/07/Cuthbert_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:3VGVZwtdoeHB9a9SBjqe0I</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788789294/editorial/news/2026/09/07/stamford-bridge-night-view-sky.jpg"/>
     <id>tag:chelseafc.com,2026:news:6Sbr10KMSV7sItygNStp4Y</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788781115/editorial/news/2026/09/07/The_Valley_Charlton.jpg"/>
     <id>tag:chelseafc.com,2026:news:63DCtgdFY8HXUrNXopprMM</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788783716/editorial/news/2026/09/07/GettyImages-2293940955.jpg"/>
     <id>tag:chelseafc.com,2026:news:4xkUAOvSxps9DjVp1I7NUt</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788794477/editorial/news/2026/09/07/reece-james-arsenal-a-2026-2.jpg"/>
     <id>tag:chelseafc.com,2026:news:27lWE3SmgGgAJbFwuot1Yc</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788775176/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/McCabe_Villa_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:6sJlQcJWpG2pXmWfREZAql</id>
     <published>2026-09-07T09:59:36Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788775821/editorial/news/2026/09/07/GettyImages-2293910366.jpg"/>
     <id>tag:chelseafc.com,2026:news:1Jh0oCAgBeYrkrTbBW2CQb</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1757066921/editorial/news/2025/09/05/desailly-chelsea-1998.jpg"/>
     <id>tag:chelseafc.com,2026:news:2srbnqVen8bt8oADpTJWSC</id>
     <published>2025-09-05T00:00:00Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788771848/editorial/news/2026/09/07/UWCL_draw.jpg"/>
     <id>tag:chelseafc.com,2026:news:1MDdF7sJelEEyht3OwL5vc</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
+    <updated>2026-09-08T09:00:06Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso on learning from every game, win or lose</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-learning-from-every-game-win-or-lose"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788729152/editorial/match-reports/2026-27/Arsenal%20away/GettyImages-2293831755_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2p7nD46cNG41SMPF7pKhi7</id>
-    <published>2026-09-06T21:12:32Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Carabao Cup ticket news: Leeds at home - additional four tickets available to season ticket holders &amp; members</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/carabao-cup-ticket-news-leeds-at-home"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1600687987/editorial/news/2020/09/carabao_cup_trophy_stamford_bridge.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4CnDz4sl0xqUxtFKvHtJGb</id>
-    <published>2020-09-21T11:33:07Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Hull game travel warning - Fulham Broadway closed; District Line disruption</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/hull-game-travel-warning-fulham-broadway-closed-district-line-disruption"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1DL2ZCUnWh0xU5yqacV4Zg</id>
-    <published>2022-01-20T14:45:09Z</published>
-    <updated>2026-09-08T04:28:47Z</updated>
-    <summary>Article / Travel news / date-source:cloudinary-version</summary>
   </entry>
 </feed>
