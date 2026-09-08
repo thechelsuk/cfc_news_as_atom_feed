@@ -4,16 +4,70 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-08T13:29:31Z</updated>
+  <updated>2026-09-08T17:22:56Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Alonso: We must be ready to compete in two ways</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-we-must-be-ready-to-compete-in-two-ways"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788880434/editorial/news/2026/09/08/alonso-training-cobham.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3zT96wYtYdgxEkUuPqbTLp</id>
+    <published>2026-09-08T00:00:00Z</published>
+    <updated>2026-09-08T17:22:56Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Aggie Beever-Jones on her 'full-circle' 100 appearances for Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/aggie-beever-jones-on-her-full-circle-100-appearances-for-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1782818689/editorial/news/2026/06/30/ABJ_Liverpool_May_25.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3VAw39x826QsJ8MsD8CIlF</id>
+    <published>2026-06-30T00:00:00Z</published>
+    <updated>2026-09-08T17:22:56Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Xabi Alonso on his early impressions of ‘competitor’ Valentin Barco </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-on-his-early-impressions-of-competitor-valentin-barco"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788877355/editorial/news/2026/09/08/alonso-barco-brighton-home.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6uZZlpnl24xhQ4NPAjRgi</id>
+    <published>2026-09-08T00:00:00Z</published>
+    <updated>2026-09-08T17:22:56Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Five Blues shortlisted for Ballon d’Or 2026 awards</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/five-blues-shortlisted-for-ballon-dor-2026-awards"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788872398/editorial/news/2026/09/08/cfcw-huddle.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4UmSieyTffvddYsuqbyy9B</id>
+    <published>2026-09-08T00:00:00Z</published>
+    <updated>2026-09-08T17:22:56Z</updated>
+    <summary>Article / Club / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Xabi Alonso confirms Chelsea team news for Leeds visit</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-confirms-chelsea-team-news-for-leeds-visit"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788872466/editorial/news/2026/09/07/Xabi_Alonso_Chelsea_press_conference.jpg"/>
     <id>tag:chelseafc.com,2026:news:4YBSFiiFgKmwryQ8qhTHuE</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
+    <updated>2026-09-08T17:22:56Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Alonso Press Conference 🎙️</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/xabi-alonso-presser-vs-leeds-h-league-cup-3rd-round-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788883651/video/2026/09/08/16x9_Alonso_pre-Leeds_h__3rd_Round_League_Cup_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:bQOhDdV8x9NHaROXNnbpD</id>
+    <published>2026-09-08T00:00:00Z</published>
+    <updated>2026-09-08T17:22:56Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea vs Leeds: Rivalry Explained</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/chelsea-vs-leeds-rivalry-explained"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1709053767/video/2024/02/27/16x9_Chelsea_vs_Leeds_Rivalry_Explained_2023-24_v6.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3NwYtx55K5EI6uhO53IxuH</id>
+    <published>2024-02-27T00:00:00Z</published>
+    <updated>2026-09-08T17:22:56Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Chelsea vs Leeds: Key statistics and facts</title>
@@ -21,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788795373/editorial/news/2026/09/07/GettyImages-2273227687.jpg"/>
     <id>tag:chelseafc.com,2026:news:64B3Xn53JX0gV0EJHusmU9</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
+    <updated>2026-09-08T17:22:56Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788797941/editorial/news/2026/09/07/GettyImages-2286199651.jpg"/>
     <id>tag:chelseafc.com,2026:news:6ga91L70x5yriA31Rj5dGv</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
+    <updated>2026-09-08T17:22:56Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788814147/video/2026/09/07/GettyImages-2292729509.jpg"/>
     <id>tag:chelseafc.com,2026:news:6WQADGH9ri3uYNCxdKz19m</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
+    <updated>2026-09-08T17:22:56Z</updated>
     <summary>Article / On sale / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1764761672/editorial/news/2025/12/03/chelsea-leeds-fa-cup-final-1970-trophy.jpg"/>
     <id>tag:chelseafc.com,2026:news:77lQjGnVgcBtR5GfPylkzw</id>
     <published>2025-12-03T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
+    <updated>2026-09-08T17:22:56Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,61 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788803837/editorial/news/2026/09/07/Cole_Palmer_celebrates_against_Brighton.jpg"/>
     <id>tag:chelseafc.com,2026:news:6KiY4Rk2w3xZs2f1dw52lD</id>
     <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Women’s Super League ticket news: West Ham away</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/womens-super-league-ticket-news-west-ham-away-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1675176680/editorial/news/2023/01/31/dagenham-redbridge-stadium-view.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6pL3rAQlHUglF2wsq9B2au</id>
-    <published>2023-01-31T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>New Blues captain Erin Cuthbert looks back on her career and move away from home</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/new-blues-captain-erin-cuthbert-looks-back-on-her-career-and-move-away-from"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788796299/editorial/news/2026/09/07/Cuthbert_Sep_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3VGVZwtdoeHB9a9SBjqe0I</id>
-    <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea vs Leeds United preview: TV channel, kick-off time and how to watch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-leeds-utd-preview-tv-channel-kick-off-time-and-how-to-watch"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788789294/editorial/news/2026/09/07/stamford-bridge-night-view-sky.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6Sbr10KMSV7sItygNStp4Y</id>
-    <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Four Chelsea WSL fixtures moved for TV</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/four-chelsea-wsl-fixtures-moved-for-tv"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788781115/editorial/news/2026/09/07/The_Valley_Charlton.jpg"/>
-    <id>tag:chelseafc.com,2026:news:63DCtgdFY8HXUrNXopprMM</id>
-    <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Diary: Chances to bounce back</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-diary-chances-to-bounce-back"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788783716/editorial/news/2026/09/07/GettyImages-2293940955.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4xkUAOvSxps9DjVp1I7NUt</id>
-    <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Reece James: It’s a small bump in the road but we’ll be back</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/reece-james-its-a-small-bump-in-the-road-but-well-be-back"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788794477/editorial/news/2026/09/07/reece-james-arsenal-a-2026-2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:27lWE3SmgGgAJbFwuot1Yc</id>
-    <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-09-08T13:29:31Z</updated>
+    <updated>2026-09-08T17:22:56Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
