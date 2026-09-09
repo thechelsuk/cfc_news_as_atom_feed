@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-09T13:53:19Z</updated>
+  <updated>2026-09-09T17:25:53Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
     <title>Inside the life of Lauren James</title>
@@ -12,7 +12,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788946976/editorial/news/2026/09/09/LJ_Villa_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:1J52e9VB0GlUQv6oY1zImS</id>
     <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,8 +21,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788883766/editorial/news/2026/09/08/cover_website_leeds-prog.jpg"/>
     <id>tag:chelseafc.com,2026:news:44VvHQk6663lzT8zD0aovT</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Applicants invited to apply for vacancy on Fans' Forum</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/applicants-invited-to-apply-for-vacancy-on-fans-forum"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788962541/editorial/Stamford%20Bridge%20general%20shots/East_Stand_stadium_view_-_August_2026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:n2wZK4PTcZToIQlqOB6IF</id>
+    <published>2026-09-09T14:02:21Z</published>
+    <updated>2026-09-09T17:25:53Z</updated>
+    <summary>Article / Fans / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>Xabi Alonso on his squad management and chances for young Blues</title>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788886358/editorial/news/2026/09/08/DTW_5349.jpg"/>
     <id>tag:chelseafc.com,2026:news:6m5Huz836YKODLV5D6aXiM</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788348251/editorial/Foundation/Foundation_gala_dinner_header.jpg"/>
     <id>tag:chelseafc.com,2026:news:2e3AxC1hUcTnSb5hCa9JHh</id>
     <published>2026-09-02T11:24:11Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Foundation / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788882523/editorial/news/2026/09/08/hazard-leeds-2012.jpg"/>
     <id>tag:chelseafc.com,2026:news:6HzHr3AAeupavvqQxHQOru</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1753377452/editorial/news/2025/07/24/Oscar_Shakhtar_2013_GettyImages-155715457.jpg"/>
     <id>tag:chelseafc.com,2026:news:5yqXsENVujzp9MBt8oWz6W</id>
     <published>2025-07-24T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788881812/editorial/news/2026/09/08/GettyImages-2293834971.jpg"/>
     <id>tag:chelseafc.com,2026:news:3L9fUCPbwxHoPWA0IFg2Qv</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788860410/editorial/news/2026/09/08/GettyImages-2292347974.jpg"/>
     <id>tag:chelseafc.com,2026:news:2RMqcbKXsSC5cFuODbLWtI</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788948986/editorial/tickets%20and%20memberships/CFCW/CFCW_U18s_vs_Arsenal_-_2025-26_-_crop.png"/>
     <id>tag:chelseafc.com,2026:news:5oFf29ZHYaWexOSoTdPoa6</id>
     <published>2026-09-09T10:16:26Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788884721/video/2026/09/08/16x9_CLASSIC_MATCH_Leeds_Utd_1-5_Chelsea_QF_League_Cup_2012-13.jpg"/>
     <id>tag:chelseafc.com,2026:news:74hEhMBNgjS4iEzRBbIoIB</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788910651/video/2026/09/08/Screenshot_2026-09-09_at_00.36.29.png"/>
     <id>tag:chelseafc.com,2026:news:4z3UFxrZIOLXM8LOYknFgI</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
+    <updated>2026-09-09T17:25:53Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso on Henderson influence and Caicedo latest</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-henderson-influence-and-caicedo-latest"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788879107/editorial/news/2026/09/08/DTW_5664.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7sPheBe4v7q5RrkjEDoHKd</id>
-    <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T13:53:19Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
