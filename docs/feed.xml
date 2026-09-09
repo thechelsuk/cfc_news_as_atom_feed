@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-09T19:56:10Z</updated>
+  <updated>2026-09-09T22:15:45Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Highlights: Chelsea 6-3 Leeds Utd</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/efl-cup-highlights-chelsea-6-3-leeds-utd-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788988378/video/2026/09/09/2MINS_Chelsea_6-3_Leeds_Utd_3rd_Round_Carabao_Cup_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5atBOKPv5sxndK3Hgm9Yy7</id>
+    <published>2026-09-09T00:00:00Z</published>
+    <updated>2026-09-09T22:15:45Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Match report: Chelsea 6-3 Leeds United</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-6-3-leeds-united"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788988592/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Chelsea_celebrate_against_Leeds.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2bbwYbr6sNdRjCLJK15lQa</id>
+    <published>2026-09-09T21:16:32Z</published>
+    <updated>2026-09-09T22:15:45Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Kick-off against Leeds delayed</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/kick-off-against-leeds-delayed"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788979330/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Stamford_Bridge_general_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:cFKQVRcKKmWoRO54It1u9</id>
     <published>2026-09-09T18:42:10Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788978183/editorial/news/2026/09/09/CL2_0886-3365866_RLcUG4Ic_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:2aQtnfT2MMp9TjW1sJ24iV</id>
     <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788977025/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Reggie_Watson_Chelsea_pre-season.jpg"/>
     <id>tag:chelseafc.com,2026:news:7nCYrW86Prj8OHKk8bU3Dd</id>
     <published>2026-09-09T18:03:45Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788974604/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Chelsea_shirts_pre-Leeds_Carabao.jpg"/>
     <id>tag:chelseafc.com,2026:news:JHsv8MPTIOgyMwZ85QndY</id>
     <published>2026-09-09T17:23:24Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788946976/editorial/news/2026/09/09/LJ_Villa_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:1J52e9VB0GlUQv6oY1zImS</id>
     <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788883766/editorial/news/2026/09/08/cover_website_leeds-prog.jpg"/>
     <id>tag:chelseafc.com,2026:news:44VvHQk6663lzT8zD0aovT</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788962541/editorial/Stamford%20Bridge%20general%20shots/East_Stand_stadium_view_-_August_2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:n2wZK4PTcZToIQlqOB6IF</id>
     <published>2026-09-09T14:02:21Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Fans / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788886358/editorial/news/2026/09/08/DTW_5349.jpg"/>
     <id>tag:chelseafc.com,2026:news:6m5Huz836YKODLV5D6aXiM</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788348251/editorial/Foundation/Foundation_gala_dinner_header.jpg"/>
     <id>tag:chelseafc.com,2026:news:2e3AxC1hUcTnSb5hCa9JHh</id>
     <published>2026-09-02T11:24:11Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Foundation / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788882523/editorial/news/2026/09/08/hazard-leeds-2012.jpg"/>
     <id>tag:chelseafc.com,2026:news:6HzHr3AAeupavvqQxHQOru</id>
     <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Oscar’s greatest goals in Blue</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/oscars-greatest-goals-in-blue"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1753377452/editorial/news/2025/07/24/Oscar_Shakhtar_2013_GettyImages-155715457.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5yqXsENVujzp9MBt8oWz6W</id>
-    <published>2025-07-24T00:00:00Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso highlights Estevao’s important role and positive mentality</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-highlights-estevaos-important-role-and-positive-mentality"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788881812/editorial/news/2026/09/08/GettyImages-2293834971.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3L9fUCPbwxHoPWA0IFg2Qv</id>
-    <published>2026-09-08T00:00:00Z</published>
-    <updated>2026-09-09T19:56:10Z</updated>
+    <updated>2026-09-09T22:15:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
