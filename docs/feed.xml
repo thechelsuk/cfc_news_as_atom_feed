@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-10T04:53:02Z</updated>
+  <updated>2026-09-10T09:16:14Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Manchester United vs Chelsea Women: How to watch, kick-off time, live stream info</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/manchester-united-vs-chelsea-women-how-to-watch-kick-off-time-live-stream"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1773586609/editorial/women%27s-team/2026/March/Manchester%20United%20%28LC%20final%29/WLC_final_2026_3.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2XMAtksM2Q2vAK7HfWMfsT</id>
+    <published>2026-03-15T14:56:49Z</published>
+    <updated>2026-09-10T09:16:14Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Alonso: 'We want to be able to win a boring game'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-we-want-to-be-able-to-win-a-boring-game"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789001729/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Xabi_Alonso_celebrates_after_Leeds_victory.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4XgJvnO3z361apsdKlUATv</id>
+    <published>2026-09-10T00:55:29Z</published>
+    <updated>2026-09-10T09:16:14Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Cole Palmer: You can see I’m enjoying my football!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cole-palmer-you-can-see-im-enjoying-my-football"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788994547/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/palmer-leeds-celebs.jpg"/>
+    <id>tag:chelseafc.com,2026:news:35IONdyobXhq8hKS0Jx1I7</id>
+    <published>2026-09-09T22:55:47Z</published>
+    <updated>2026-09-10T09:16:14Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Hull game travel warning - Fulham Broadway closed; District Line disruption</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/hull-game-travel-warning-fulham-broadway-closed-district-line-disruption"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1DL2ZCUnWh0xU5yqacV4Zg</id>
+    <published>2022-01-20T14:45:09Z</published>
+    <updated>2026-09-10T09:16:14Z</updated>
+    <summary>Article / Travel news / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Match gallery: Blues mount epic comeback!</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-gallery-blues-mount-epic-comeback"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788996133/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/CL2_5426-3367339_QGXPGH6t.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Dlw28aBKAWwJNJaWjbvvV</id>
     <published>2026-09-09T23:22:13Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
+    <updated>2026-09-10T09:16:14Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788988382/video/2026/09/09/FULL_Chelsea_vs_Leeds_Utd_3rd_Round_Carabao_Cup_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:5tk8VAUJgXCZP4tDZ3cPqK</id>
     <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
+    <updated>2026-09-10T09:16:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788988379/video/2026/09/09/EXT_Chelsea_6-3_Leeds_Utd_3rd_Round_Carabao_Cup_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:1kt5oQE6knJ5CwRw2CGFq3</id>
     <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
+    <updated>2026-09-10T09:16:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +75,16 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788994536/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Xabi_Alonso_post-match_reaction.jpg"/>
     <id>tag:chelseafc.com,2026:news:5NIhwxGGygizwpnlBYGlgg</id>
     <published>2026-09-09T22:55:36Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
+    <updated>2026-09-10T09:16:14Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Premier League ticket news: Bournemouth at home - ticket application window closing</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-ticket-news-bournemouth-at-home-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788529315/editorial/Stamford%20Bridge%20general%20shots/East_Stand_view_-_August_2026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1uO3HH45hPdeMNrLeZMXYj</id>
+    <published>2026-09-04T13:41:55Z</published>
+    <updated>2026-09-10T09:16:14Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788988378/video/2026/09/09/2MINS_Chelsea_6-3_Leeds_Utd_3rd_Round_Carabao_Cup_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:5atBOKPv5sxndK3Hgm9Yy7</id>
     <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
+    <updated>2026-09-10T09:16:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788993397/video/2026/09/09/16x9_Alonso_post-Chelsea_6-3_Leeds_Utd_3rd_Round_Carabao_Cup_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:6iepDqCn8xMqgZybkhJild</id>
     <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
+    <updated>2026-09-10T09:16:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788993400/video/2026/09/09/16x9_Barco_post-Chelsea_6-3_Leeds_Utd_3rd_Round_Carabao_Cup_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:33s3O36GNZYH7orkWvQbPQ</id>
     <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
+    <updated>2026-09-10T09:16:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Match report: Chelsea 6-3 Leeds United</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-6-3-leeds-united"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788988592/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Chelsea_celebrate_against_Leeds.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2bbwYbr6sNdRjCLJK15lQa</id>
-    <published>2026-09-09T21:16:32Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Kick-off against Leeds delayed</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/kick-off-against-leeds-delayed"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788979330/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Stamford_Bridge_general_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:cFKQVRcKKmWoRO54It1u9</id>
-    <published>2026-09-09T18:42:10Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Alonso on team selection and Reggie Watson debut</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-team-selection-and-reggie-watson-debut"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788978183/editorial/news/2026/09/09/CL2_0886-3365866_RLcUG4Ic_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2aQtnfT2MMp9TjW1sJ24iV</id>
-    <published>2026-09-09T00:00:00Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Who is Chelsea midfielder Reggie Watson, the teenager who starts against Leeds? </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/who-is-chelsea-midfielder-reggie-watson"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788977025/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Reggie_Watson_Chelsea_pre-season.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7nCYrW86Prj8OHKk8bU3Dd</id>
-    <published>2026-09-09T18:03:45Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Confirmed Chelsea line up vs Leeds</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-leeds-aug-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788974604/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/Chelsea_shirts_pre-Leeds_Carabao.jpg"/>
-    <id>tag:chelseafc.com,2026:news:JHsv8MPTIOgyMwZ85QndY</id>
-    <published>2026-09-09T17:23:24Z</published>
-    <updated>2026-09-10T04:53:02Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
