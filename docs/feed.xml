@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-12T16:16:28Z</updated>
+  <updated>2026-09-12T18:27:50Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Highlights: Chelsea 2-2 Hull City</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-highlights-chelsea-2-2-hull-city-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789233445/video/2026/09/11/HIGHLIGHTS.png"/>
+    <id>tag:chelseafc.com,2026:news:LyFy3dlqG5FrDUHutlMJ1</id>
+    <published>2026-09-11T00:00:00Z</published>
+    <updated>2026-09-12T18:27:50Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>PL2 report: Arsenal U21s 1-4 Cobham Next Gen</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pl2-report-arsenal-u21s-1-4-cobham-next-gen"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789233667/editorial/news/2026/09/12/leo-black-arsenal.jpg"/>
+    <id>tag:chelseafc.com,2026:news:748ym5GrjQ6U8C59uVBziy</id>
+    <published>2026-09-12T00:00:00Z</published>
+    <updated>2026-09-12T18:27:50Z</updated>
+    <summary>Article / Cobham Next Gen / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Under-18 Premier League report: Brighton &amp; Hove Albion 1-5 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/under-18-premier-league-report-brighton-and-hove-albion-1-5-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789228711/editorial/news/2026/09/12/Jashayde_Greenwood.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4gjY94MKlO77vBjRpVgfqt</id>
+    <published>2026-09-12T00:00:00Z</published>
+    <updated>2026-09-12T18:27:50Z</updated>
+    <summary>Article / U18s / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Match report: Chelsea 2-2 Hull City</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-2-2-hull"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789229283/editorial/match-reports/2026-27/Hull%20home/Joao_Pedro_Chelsea.jpg"/>
     <id>tag:chelseafc.com,2026:news:53luLLr8A4lIpmTEcd12Ca</id>
     <published>2026-09-12T16:08:03Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
+    <updated>2026-09-12T18:27:50Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789219673/editorial/news/2026/09/11/Xabi_Alonso_Chelsea_Hull.jpg"/>
     <id>tag:chelseafc.com,2026:news:XSdfLd9EAjeet9B71msIG</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
+    <updated>2026-09-12T18:27:50Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789216687/editorial/news/2026/09/11/Chelsea_kits_pre-Hull.jpg"/>
     <id>tag:chelseafc.com,2026:news:KhydiNosgAxqjtnkHx2Xf</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
+    <updated>2026-09-12T18:27:50Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,16 +66,25 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789217108/video/2026/09/11/CleanShot_2026-09-12_at_13.45.01_2x.png"/>
     <id>tag:chelseafc.com,2026:news:7f2SKXPBir6UUUOmb8ry1N</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
+    <updated>2026-09-12T18:27:50Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
-    <title>Full Match: Brighton and Hove Albion U18s 1-5 Chelsea U18s</title>
+    <title>PL2 Highlights: Arsenal U21 1-4 Cobham Next Gen</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl2-highlights-arsenal-u21-1-4-cobham-next-gen-12-09-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789234910/video/2026/09/12/HIGHLIGHTS_1.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7CI2zmwm61ncnTa0jxtNLk</id>
+    <published>2026-09-12T00:00:00Z</published>
+    <updated>2026-09-12T18:27:50Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Full Match: Brighton &amp; Hove Albion U18s 1-5 Chelsea U18s</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/full-match-brighton-and-hove-albion-u18-1-5-chelsea-u18-12-09-26"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789226961/video/2026/09/12/FULL_MATCH.jpg"/>
     <id>tag:chelseafc.com,2026:news:6gK8bqS01lIo5F6oTgCHXo</id>
     <published>2026-09-12T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
+    <updated>2026-09-12T18:27:50Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789226961/video/2026/09/12/HIGHLIGHTS.jpg"/>
     <id>tag:chelseafc.com,2026:news:1At26CIk4L2swEsIKYLBMP</id>
     <published>2026-09-12T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
+    <updated>2026-09-12T18:27:50Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789148536/editorial/news/2026/09/11/alonso-training-cobham-sept-26.jpg"/>
     <id>tag:chelseafc.com,2026:news:1xVlCK3mMNT4PfoyYAh8d0</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
+    <updated>2026-09-12T18:27:50Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789138974/editorial/kit%20launches%202026-27/Third%20kit/2026-27_Third_Kit_Launch_hero.jpg"/>
     <id>tag:chelseafc.com,2026:news:5cKdPVpuvkfjULSOBlLTFt</id>
     <published>2026-09-11T15:02:54Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
+    <updated>2026-09-12T18:27:50Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>New third kit gallery: A breed apart</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/2627-new-third-kit-gallery-a-breed-apart"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789197530/editorial/news/2026/09/11/Chelsea_third_kit_-_group_shot.jpg"/>
-    <id>tag:chelseafc.com,2026:news:526hp7oI4PBcc8WhqviEmn</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
-    <summary>Article / On sale / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Joao Pedro: 'A special moment for me' 💙</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/joao-pedro-potm-iv-16x9"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789196131/editorial/news/2026/09/11/Joao_Pedro_Chelsea_POTM.jpg"/>
-    <id>tag:chelseafc.com,2026:news:366cnyVveVNL7GhQf6yl6n</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso on Joao Pedro: ‘He reminds me of Benzema’</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-joao-pedro-he-reminds-me-of-benzema"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789145754/editorial/news/2026/09/11/joao-pedro-alonso-10-sept-2026-cobham.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6ujoWHaayHC5m9wY6Rb4DX</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chavarria shares his journey from lower league to Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chavarria-shares-his-journey-from-lower-league-to-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789133981/editorial/news/2026/09/11/prog_cover_website_hull_city.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2g3g8TPMLE9cF0PZ4LZ4YG</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T16:16:28Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
