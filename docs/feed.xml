@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-12T01:11:56Z</updated>
+  <updated>2026-09-12T05:47:45Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Chavarria shares his journey from lower league to Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chavarria-shares-his-journey-from-lower-league-to-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789133981/editorial/news/2026/09/11/prog_cover_website_hull_city.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2g3g8TPMLE9cF0PZ4LZ4YG</id>
+    <published>2026-09-11T00:00:00Z</published>
+    <updated>2026-09-12T05:47:45Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea vs Hull City: All you need to know</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-hull-city-all-you-need-to-know-26-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789132173/editorial/news/2026/09/11/GettyImages-2294349696.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2BrZnkL8nv0wihu0UisL0Y</id>
+    <published>2026-09-11T00:00:00Z</published>
+    <updated>2026-09-12T05:47:45Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>London's Finest vs The Tigers 🐯</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/16.9-cfc-x-hc-hype-bugxsubs"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789168782/video/2026/09/12/GettyImages-2294349696.jpg"/>
     <id>tag:chelseafc.com,2026:news:hyQskD0cYNaUavrjFFB2q</id>
     <published>2026-09-12T00:00:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,8 +39,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789135066/editorial/news/2026/09/11/palestra-training-cobham-aug26.jpg"/>
     <id>tag:chelseafc.com,2026:news:4JOR1jmhZvb5918zxabcgn</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Classic Match: Chelsea 2-0 Hull City</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-classic-match-chelsea-2-0-hull-city-premier-league-2014-15"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789170303/video/2026/09/12/16x9_CLASSIC_MATCH_Chelsea_2-0_Hull_City_EPL_2014-15_2_v2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7ke4IxVNV4KRtA8JLxvuo4</id>
+    <published>2026-09-12T00:00:00Z</published>
+    <updated>2026-09-12T05:47:45Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Alonso on Palmer and Rogers enjoying themselves and Hull respect</title>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789143398/editorial/news/2026/09/11/DTW_9845.jpg"/>
     <id>tag:chelseafc.com,2026:news:74Ddj9nznYDeNkJTaPlWYq</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789133699/editorial/news/2026/09/11/neto-alonso-new-contract.jpg"/>
     <id>tag:chelseafc.com,2026:news:7mtNwDGka5t7vtqOqO6LYH</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789140636/editorial/news/2026/09/11/2_Rogers_CL2_9688-3369493_mCL9Ny2R.jpg"/>
     <id>tag:chelseafc.com,2026:news:4CHANcucOUpuO6CPz4Can5</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789132855/editorial/news/2026/09/11/Press_conference_Xabi_Alonso.jpg"/>
     <id>tag:chelseafc.com,2026:news:6BW4g5RVchZ0y56HRmHspF</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1766014224/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_crowd_surfer_banner_-_September_2025.jpg"/>
     <id>tag:chelseafc.com,2026:news:3nlHwtEe7ginurCpFAAnEl</id>
     <published>2025-12-17T23:30:24Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1773825392/editorial/stadium-views/other-clubs/Everton_stadium_view_-_Hill_Dickinson_aerial_view.jpg"/>
     <id>tag:chelseafc.com,2026:news:1lEZ9zIzJqWUp0XafKCR2D</id>
     <published>2026-03-18T09:16:32Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789052160/restricted/2026/Neto%20%28new%20contract%29/DAZ_6749.jpg"/>
     <id>tag:chelseafc.com,2026:news:3OBxLXcRYPDycMUEh3UfU9</id>
     <published>2026-09-10T14:56:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Gallery: The best of Pedro Neto at Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-the-best-of-pedro-neto-at-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789134895/editorial/news/2026/09/11/GettyImages-2293846358.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4rP5DBcflLcHsh4l86oQLG</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso Press Conference 🎙️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/xabi-alonso-presser-vs-hull-city-h-premier-league-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789135724/video/2026/09/11/PRESS_CONFERENCE_01.png"/>
-    <id>tag:chelseafc.com,2026:news:3AO4ORqlhiybMbtC3Q0uE9</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Pedro Neto signs new Chelsea contract</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pedro-neto-signs-new-chelsea-contract"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789117513/restricted/2026/Neto%20%28new%20contract%29/pedro-neto-new-contract.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7k7v3d3pKajPeeM6o2SN2B</id>
-    <published>2026-09-11T09:05:13Z</published>
-    <updated>2026-09-12T01:11:56Z</updated>
+    <updated>2026-09-12T05:47:45Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
