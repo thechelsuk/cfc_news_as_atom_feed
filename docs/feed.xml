@@ -4,15 +4,60 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-13T04:57:25Z</updated>
+  <updated>2026-09-13T10:02:12Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Confirmed Chelsea Women lineup vs Manchester United </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-lineup-vs-manchester-united"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789290953/editorial/women%27s-team/2026/Sept/Man%20Utd%20%28a%29/Shirts_pic_Man_Utd_Sep_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7i87IPeUThy22kVOfxKi5p</id>
+    <published>2026-09-13T09:15:53Z</published>
+    <updated>2026-09-13T10:02:12Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chavarria on working hard to solve problems</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chavarria-on-working-hard-to-solve-problems"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789247521/editorial/match-reports/2026-27/Hull%20home/GettyImages-2294885764.jpg"/>
+    <id>tag:chelseafc.com,2026:news:FUmudCrJIevVvN0azxuLi</id>
+    <published>2026-09-12T21:12:01Z</published>
+    <updated>2026-09-13T10:02:12Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Alonso outlines how time will help Blues learn and improve</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-outlines-how-time-will-help-blues-learn-and-improve"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789223877/editorial/match-reports/2026-27/Hull%20home/Xabi_Alonso_team_talk_vs_Hull_City.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7pTwngx0xVADLs1CAdFuWs</id>
+    <published>2026-09-12T14:37:57Z</published>
+    <updated>2026-09-13T10:02:12Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Joao Pedro: We need to improve on the details</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/joao-pedro-we-need-to-improve-on-the-details"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789244541/editorial/match-reports/2026-27/Hull%20home/GettyImages-2294927567.jpg"/>
+    <id>tag:chelseafc.com,2026:news:omxfOuOrLW0X40QZ12aCZ</id>
+    <published>2026-09-12T20:22:21Z</published>
+    <updated>2026-09-13T10:02:12Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Full Match: Chelsea vs Hull City</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-full-match-chelsea-vs-hull-city-or-2026-27"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789233445/video/2026/09/11/FULL_MATCH.png"/>
     <id>tag:chelseafc.com,2026:news:7yCwAF3Q9owUmefF6vnttC</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
+    <updated>2026-09-13T10:02:12Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Extended: Chelsea 2-2 Hull City</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-extended-chelsea-2-2-hull-city-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789233445/video/2026/09/11/EXTENDED.png"/>
+    <id>tag:chelseafc.com,2026:news:4ElcExasSsFPcvisALxKIk</id>
+    <published>2026-09-11T00:00:00Z</published>
+    <updated>2026-09-13T10:02:12Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789239944/editorial/match-reports/2026-27/Hull%20home/Reece_James_free-kick_vs_Hull.jpg"/>
     <id>tag:chelseafc.com,2026:news:71AsCPrEec7q8fMeYNsuOc</id>
     <published>2026-09-12T19:05:44Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
+    <updated>2026-09-13T10:02:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789238837/editorial/match-reports/2026-27/Hull%20home/GettyImages-2294884509_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:53luLLr8A4lIpmTEcd12Ca</id>
     <published>2026-09-12T18:47:17Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
+    <updated>2026-09-13T10:02:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,17 +84,8 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789235811/editorial/match-reports/2026-27/Hull%20home/Xabi_Alonso_Chelsea_vs_Hull.jpg"/>
     <id>tag:chelseafc.com,2026:news:b3TDvTV9bwKgJbA5N27PQ</id>
     <published>2026-09-12T17:56:51Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
+    <updated>2026-09-13T10:02:12Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Pep reacts to home draw </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pep-post-match-vs-hull-city-h-pl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789238703/video/2026/09/11/REACTIONS_1.png"/>
-    <id>tag:chelseafc.com,2026:news:5869u40VLVDcM9UD50DmVc</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Highlights: Chelsea 2-2 Hull City</title>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789233445/video/2026/09/11/HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:LyFy3dlqG5FrDUHutlMJ1</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
+    <updated>2026-09-13T10:02:12Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789237606/video/2026/09/11/REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:7y0gjHiKuqakaCwlr49OxK</id>
     <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
+    <updated>2026-09-13T10:02:12Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789233667/editorial/news/2026/09/12/leo-black-arsenal.jpg"/>
     <id>tag:chelseafc.com,2026:news:748ym5GrjQ6U8C59uVBziy</id>
     <published>2026-09-12T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
+    <updated>2026-09-13T10:02:12Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Under-18 Premier League report: Brighton &amp; Hove Albion 1-5 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/under-18-premier-league-report-brighton-and-hove-albion-1-5-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789228711/editorial/news/2026/09/12/Jashayde_Greenwood.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4gjY94MKlO77vBjRpVgfqt</id>
-    <published>2026-09-12T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
-    <summary>Article / U18s / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso details what's needed to overcome Hull City</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-details-whats-needed-to-overcome-hull-city"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789219673/editorial/news/2026/09/11/Xabi_Alonso_Chelsea_Hull.jpg"/>
-    <id>tag:chelseafc.com,2026:news:XSdfLd9EAjeet9B71msIG</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Confirmed Chelsea line up vs Hull City</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-hull-city-sept-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789216687/editorial/news/2026/09/11/Chelsea_kits_pre-Hull.jpg"/>
-    <id>tag:chelseafc.com,2026:news:KhydiNosgAxqjtnkHx2Xf</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Matchday at the Bridge 💙</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/scene-setter-hull-city-or-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789217108/video/2026/09/11/CleanShot_2026-09-12_at_13.45.01_2x.png"/>
-    <id>tag:chelseafc.com,2026:news:7f2SKXPBir6UUUOmb8ry1N</id>
-    <published>2026-09-11T00:00:00Z</published>
-    <updated>2026-09-13T04:57:25Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
