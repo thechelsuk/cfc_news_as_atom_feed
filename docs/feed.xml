@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-15T14:59:51Z</updated>
+  <updated>2026-09-15T18:52:42Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Training gallery: Picking up the pace!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-picking-up-the-pace-1509"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789488476/CL1_5591-3379347_VJEgzhVB_q3qi7q.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3voIKnmzFdnJC2BINRguvH</id>
+    <published>2026-09-15T16:07:56Z</published>
+    <updated>2026-09-15T18:52:42Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Today at Training! 💪</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/today-at-training-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789476957/editorial/match-reports/2026-27/Hull%20home/Chelsea_training_Cobham.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3hZIZlYIoi1QfcA60IYElh</id>
+    <published>2026-09-15T12:55:57Z</published>
+    <updated>2026-09-15T18:52:42Z</updated>
+    <summary>Video / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Analysis: How Chelsea reversed scoring fortunes with emphatic Man Utd display </title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/analysis-how-chelsea-reversed-scoring-fortunes-with-emphatic-man-utd"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789471866/editorial/women%27s-team/2026/Sept/Man%20Utd%20%28a%29/HLR19120_FgJM5VWe_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:6rTPIOJjHdud54v1b0NTS9</id>
     <published>2026-09-15T11:31:06Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789467256/editorial/news/2026/09/15/rogers-palmer-joao-pedro-august-26.jpg"/>
     <id>tag:chelseafc.com,2026:news:7hKgQCGhe2aq0uM6bYXdj0</id>
     <published>2026-09-15T00:00:00Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1560878522/video/2019/gudjohnsen_celeb.jpg"/>
     <id>tag:chelseafc.com,2026:news:2EdH6XqWN2Jahc8Mp6EZCU</id>
     <published>2019-06-18T17:22:02Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789402629/editorial/news/2026/09/14/josh-acheampong-stock-2627.jpg"/>
     <id>tag:chelseafc.com,2026:news:6xVnvnPFd18kZbUT3GIFJc</id>
     <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789404689/CL1_3324-3377102_GcqRHmWe_w3r4os.jpg"/>
     <id>tag:chelseafc.com,2026:news:2y4jDhLbM6A2Ti9qNKEfk1</id>
     <published>2026-09-14T16:51:29Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789394288/editorial/news/2026/09/14/morgan-rogers-chelsea-hull-celebration.jpg"/>
     <id>tag:chelseafc.com,2026:news:1UMUQ9c8wAsqrjxVA1UChB</id>
     <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789395191/editorial/news/2026/09/14/GettyImages-2233767453_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:7u3nuO1GfV6RBMcD8HgY7C</id>
     <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789388390/editorial/news/2026/09/14/GettyImages-2295027706.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Gh23iiiza1mG1Ff7jsuYa</id>
     <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789382360/editorial/news/2026/09/14/00.HLR30024_te4HoME7_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:4HjXpPDRJkNtovMfhLutkP</id>
     <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789382237/video/2026/09/14/06145_CCS2627_BR_Third-Kit-Launch_Digital-Artwork_SCREENS_V5_1920_x_1080.jpg"/>
     <id>tag:chelseafc.com,2026:news:61695XCeVBVUQ68OQUY1zf</id>
     <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
+    <updated>2026-09-15T18:52:42Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Attacker voted Star of the Match against Man Utd!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/attacker-voted-star-of-the-match-against-man-utd"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789297640/editorial/women%27s-team/2026/Sept/Man%20Utd%20%28a%29/CFCW_Man_Utd_Sep_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:KlmeYwbf03fM3IqWdcnAo</id>
-    <published>2026-09-13T11:07:20Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>How Ray Wilkins became Chelsea's youngest captain</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/how-butch-became-our-youngest-captain"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1585903921/editorial/blogs-and-columns/2020/4/Wilkins-GettyImages-1097392104.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1SfWNmClRlUGrEB701TlQ5</id>
-    <published>2020-04-03T08:52:01Z</published>
-    <updated>2026-09-15T14:59:51Z</updated>
-    <summary>Article / History / date-source:cloudinary-version</summary>
   </entry>
 </feed>
