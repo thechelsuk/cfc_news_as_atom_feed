@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-16T06:50:18Z</updated>
+  <updated>2026-09-16T12:13:13Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
-    <title>Highlights: Wycombe Wanderers 2-1 Cobham Next Gen</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl2-highlights-wycombe-2-1-cobham-next-gen-15-09-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789503322/video/2026/09/15/HIGHLIGHTS.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5uihcV8j0GltcfNvJVXSZu</id>
+    <title>Gallery: Behind the scenes at the Chelsea squad photo!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-behind-the-scenes-at-the-chelsea-squad-photo"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789555399/editorial/news/2026/09/16/squad-photo-202627.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1P2ResaGTFBc0s9SAeqKuv</id>
+    <published>2026-09-16T00:00:00Z</published>
+    <updated>2026-09-16T12:13:13Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Behind the scenes: 2026/27 squad photo shoot! 📸</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/behind-the-scenes-at-chelseas-2026-27-team-photo-shoot"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789557959/editorial/news/2026/09/16/Morgan_Rogers_and_Cole_Palmer_-_Chelsea_squad_photo.jpg"/>
+    <id>tag:chelseafc.com,2026:news:xaYOrezGFxdVdYFxx0hxa</id>
+    <published>2026-09-16T00:00:00Z</published>
+    <updated>2026-09-16T12:13:13Z</updated>
+    <summary>Video / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Carabao Cup fourth round draw: How to watch, possible opponents, ball numbers, fixture dates</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/carabao-cup-fourth-round-draw-how-to-watch-possible-opponents"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789044825/editorial/news/2026/09/10/GettyImages-2267413140.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2rwQZ9caUAIoiEap9ojOwc</id>
+    <published>2026-09-10T00:00:00Z</published>
+    <updated>2026-09-16T12:13:13Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Lifting the Lid with Levi Colwill</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lifting-the-lid-with-levi-colwill"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789400638/editorial/news/2026/09/14/DAR_6984-3366457_0pZbVTXS.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7EvVv1wd83m6oN2jquCHYU</id>
+    <published>2026-09-14T00:00:00Z</published>
+    <updated>2026-09-16T12:13:13Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Full Match: Wycombe Wanderers vs Cobham Next Gen</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/full-match-wycombe-2-1-cobham-next-gen-15-09-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789503321/video/2026/09/15/FULL_MATCH.jpg"/>
+    <id>tag:chelseafc.com,2026:news:Wnnsk8oZT9FpjwXtyrQkK</id>
     <published>2026-09-15T00:00:00Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
+    <updated>2026-09-16T12:13:13Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,8 +57,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789503830/editorial/news/2026/09/15/cobham-next-gen-wycombe-wanderers.jpg"/>
     <id>tag:chelseafc.com,2026:news:okope0XhDakSZ51di3D21</id>
     <published>2026-09-15T00:00:00Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
+    <updated>2026-09-16T12:13:13Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Highlights: Wycombe Wanderers 2-1 Cobham Next Gen</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl2-highlights-wycombe-2-1-cobham-next-gen-15-09-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789503322/video/2026/09/15/HIGHLIGHTS.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5uihcV8j0GltcfNvJVXSZu</id>
+    <published>2026-09-15T00:00:00Z</published>
+    <updated>2026-09-16T12:13:13Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Training gallery: Picking up the pace!</title>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789488476/CL1_5591-3379347_VJEgzhVB_q3qi7q.jpg"/>
     <id>tag:chelseafc.com,2026:news:3voIKnmzFdnJC2BINRguvH</id>
     <published>2026-09-15T16:07:56Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
+    <updated>2026-09-16T12:13:13Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789476957/editorial/match-reports/2026-27/Hull%20home/Chelsea_training_Cobham.jpg"/>
     <id>tag:chelseafc.com,2026:news:3hZIZlYIoi1QfcA60IYElh</id>
     <published>2026-09-15T12:55:57Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
+    <updated>2026-09-16T12:13:13Z</updated>
     <summary>Video / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789471866/editorial/women%27s-team/2026/Sept/Man%20Utd%20%28a%29/HLR19120_FgJM5VWe_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:6rTPIOJjHdud54v1b0NTS9</id>
     <published>2026-09-15T11:31:06Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
+    <updated>2026-09-16T12:13:13Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789467256/editorial/news/2026/09/15/rogers-palmer-joao-pedro-august-26.jpg"/>
     <id>tag:chelseafc.com,2026:news:7hKgQCGhe2aq0uM6bYXdj0</id>
     <published>2026-09-15T00:00:00Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
+    <updated>2026-09-16T12:13:13Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1560878522/video/2019/gudjohnsen_celeb.jpg"/>
     <id>tag:chelseafc.com,2026:news:2EdH6XqWN2Jahc8Mp6EZCU</id>
     <published>2019-06-18T17:22:02Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
+    <updated>2026-09-16T12:13:13Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Brentford vs Chelsea preview: TV channel, kick-off time and how to watch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/brentford-vs-chelsea-preview-tv-channel-kick-off-time-and-how-to-watch"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789402629/editorial/news/2026/09/14/josh-acheampong-stock-2627.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6xVnvnPFd18kZbUT3GIFJc</id>
-    <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: Building towards Brentford!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-building-towards-brentford"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789404689/CL1_3324-3377102_GcqRHmWe_w3r4os.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2y4jDhLbM6A2Ti9qNKEfk1</id>
-    <published>2026-09-14T16:51:29Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Morgan Rogers in good company after impressive Chelsea start</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/morgan-rogers-in-good-company-after-impressive-chelsea-start"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789394288/editorial/news/2026/09/14/morgan-rogers-chelsea-hull-celebration.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1UMUQ9c8wAsqrjxVA1UChB</id>
-    <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea international call-ups and schedules for September 2026</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-international-call-ups-and-schedules-for-september-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789395191/editorial/news/2026/09/14/GettyImages-2233767453_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7u3nuO1GfV6RBMcD8HgY7C</id>
-    <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bompastor on James’ new role and Potter's deserved opportunity</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-on-james-new-role-and-potters-deserved-opportunity"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789388390/editorial/news/2026/09/14/GettyImages-2295027706.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2Gh23iiiza1mG1Ff7jsuYa</id>
-    <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-16T06:50:18Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
 </feed>
