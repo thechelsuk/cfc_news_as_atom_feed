@@ -4,16 +4,43 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-16T12:13:13Z</updated>
+  <updated>2026-09-16T16:58:39Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Gallery: Chelsea Women working hard ahead of Birmingham clash</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-chelsea-women-working-hard-ahead-of-birmingham-clash"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789571132/editorial/women%27s-team/Training/16%20Sep%2026/CFCW_Training_16_Sep_25_15.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7kiKKu6PGDP2DlvWOnibRX</id>
+    <published>2026-09-16T15:05:32Z</published>
+    <updated>2026-09-16T16:58:39Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Becky Spencer recounts Jamaica's odds-defying 2023 World Cup campaign</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/becky-spencer-recounts-jamaicas-odds-defying-2023-world-cup-campaign"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789569613/editorial/news/2026/09/16/Becky_Spencer_Sep_26_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7e0yP82YQKjT12STpHD213</id>
+    <published>2026-09-16T00:00:00Z</published>
+    <updated>2026-09-16T16:58:39Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Gallery: Behind the scenes at the Chelsea squad photo!</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-behind-the-scenes-at-the-chelsea-squad-photo"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789555399/editorial/news/2026/09/16/squad-photo-202627.jpg"/>
     <id>tag:chelseafc.com,2026:news:1P2ResaGTFBc0s9SAeqKuv</id>
     <published>2026-09-16T00:00:00Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
+    <updated>2026-09-16T16:58:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Behind the scenes: 2026/27 squad photo shoot! 📸</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/behind-the-scenes-at-chelseas-2026-27-team-photo-shoot-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789557959/editorial/news/2026/09/16/Morgan_Rogers_and_Cole_Palmer_-_Chelsea_squad_photo.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1ALSWDztwj6tyByv6bLP2y</id>
+    <published>2026-09-16T00:00:00Z</published>
+    <updated>2026-09-16T16:58:39Z</updated>
+    <summary>Video / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Behind the scenes: 2026/27 squad photo shoot! 📸</title>
@@ -21,8 +48,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789557959/editorial/news/2026/09/16/Morgan_Rogers_and_Cole_Palmer_-_Chelsea_squad_photo.jpg"/>
     <id>tag:chelseafc.com,2026:news:xaYOrezGFxdVdYFxx0hxa</id>
     <published>2026-09-16T00:00:00Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
+    <updated>2026-09-16T16:58:39Z</updated>
     <summary>Video / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Women vs Birmingham City: How to watch, kick-off time, live stream info</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-vs-birmingham-city-how-to-watch-live-stream-kick-off-time"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789561874/editorial/news/2026/09/16/cfcw-celebration-stamford-bridge-sept26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1IpOP6tJrVyy2zxfmScXgV</id>
+    <published>2026-09-16T00:00:00Z</published>
+    <updated>2026-09-16T16:58:39Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Carabao Cup fourth round draw: How to watch, possible opponents, ball numbers, fixture dates</title>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789044825/editorial/news/2026/09/10/GettyImages-2267413140.jpg"/>
     <id>tag:chelseafc.com,2026:news:2rwQZ9caUAIoiEap9ojOwc</id>
     <published>2026-09-10T00:00:00Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
+    <updated>2026-09-16T16:58:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789400638/editorial/news/2026/09/14/DAR_6984-3366457_0pZbVTXS.jpg"/>
     <id>tag:chelseafc.com,2026:news:7EvVv1wd83m6oN2jquCHYU</id>
     <published>2026-09-14T00:00:00Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
+    <updated>2026-09-16T16:58:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789503321/video/2026/09/15/FULL_MATCH.jpg"/>
     <id>tag:chelseafc.com,2026:news:Wnnsk8oZT9FpjwXtyrQkK</id>
     <published>2026-09-15T00:00:00Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
+    <updated>2026-09-16T16:58:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789503830/editorial/news/2026/09/15/cobham-next-gen-wycombe-wanderers.jpg"/>
     <id>tag:chelseafc.com,2026:news:okope0XhDakSZ51di3D21</id>
     <published>2026-09-15T00:00:00Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
+    <updated>2026-09-16T16:58:39Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789503322/video/2026/09/15/HIGHLIGHTS.jpg"/>
     <id>tag:chelseafc.com,2026:news:5uihcV8j0GltcfNvJVXSZu</id>
     <published>2026-09-15T00:00:00Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
+    <updated>2026-09-16T16:58:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789488476/CL1_5591-3379347_VJEgzhVB_q3qi7q.jpg"/>
     <id>tag:chelseafc.com,2026:news:3voIKnmzFdnJC2BINRguvH</id>
     <published>2026-09-15T16:07:56Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Today at Training! 💪</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/today-at-training-16x9"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789476957/editorial/match-reports/2026-27/Hull%20home/Chelsea_training_Cobham.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3hZIZlYIoi1QfcA60IYElh</id>
-    <published>2026-09-15T12:55:57Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
-    <summary>Video / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Analysis: How Chelsea reversed scoring fortunes with emphatic Man Utd display </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/analysis-how-chelsea-reversed-scoring-fortunes-with-emphatic-man-utd"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789471866/editorial/women%27s-team/2026/Sept/Man%20Utd%20%28a%29/HLR19120_FgJM5VWe_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6rTPIOJjHdud54v1b0NTS9</id>
-    <published>2026-09-15T11:31:06Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Joao Pedro explains why his connection with Cole Palmer and Morgan Rogers works so well</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/joao-pedro-explains-why-his-connection-with-cole-palmer-and-morgan-rogers"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789467256/editorial/news/2026/09/15/rogers-palmer-joao-pedro-august-26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7hKgQCGhe2aq0uM6bYXdj0</id>
-    <published>2026-09-15T00:00:00Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Eidur Gudjohnsen: The ‘Blond Maradona’ Days</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gudjohnsen--the--blond-maradona--days"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1560878522/video/2019/gudjohnsen_celeb.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2EdH6XqWN2Jahc8Mp6EZCU</id>
-    <published>2019-06-18T17:22:02Z</published>
-    <updated>2026-09-16T12:13:13Z</updated>
+    <updated>2026-09-16T16:58:39Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
