@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-18T04:34:24Z</updated>
+  <updated>2026-09-18T09:09:53Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Chelsea FC Women launches best-in-class Player Maternity Policy as part of new family-friendly player care framework </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-fc-women-launches-best-in-class-player-maternity-policy"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789565482/editorial/women-misc/CFCW_huddle_-_Stamford_Bridge_-_September_2026_-_crop.png"/>
+    <id>tag:chelseafc.com,2026:news:75C9If4Sb2UpmXpdxQDlbI</id>
+    <published>2026-09-16T13:31:22Z</published>
+    <updated>2026-09-18T09:09:53Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Alonso confident there’s ‘more to come’ from Cole Palmer</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-confident-theres-more-to-come-from-cole-palmer"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789662134/editorial/news/2026/09/17/palmer-alonso-hull-stamford-bridge.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2OmpP4DDGjrpOftnNL5PM5</id>
+    <published>2026-09-17T00:00:00Z</published>
+    <updated>2026-09-18T09:09:53Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Brentford vs Chelsea: All you need to know</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/brentford-vs-chelsea-all-you-need-to-know-26-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789644335/editorial/news/2026/09/17/GettyImages-2293644440.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5mMTIWxxzQqkD8HPBr6gSm</id>
+    <published>2026-09-17T00:00:00Z</published>
+    <updated>2026-09-18T09:09:53Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Alonso on ‘complete’ Brentford’s tough test</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-complete-brentfords-tough-test"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789662019/editorial/news/2026/09/17/CL2_6499-3377278_AvIChFfH.jpg"/>
     <id>tag:chelseafc.com,2026:news:nW24VaL6iUnrADb09lK2u</id>
     <published>2026-09-17T00:00:00Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789667896/CL1_7549-3384264_IqryaiOA_1_nepfmn.jpg"/>
     <id>tag:chelseafc.com,2026:news:1KjvcyUX1nrlXp5Hhwk7wf</id>
     <published>2026-09-17T17:58:16Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789660321/video/2026/09/17/brentford_training.png"/>
     <id>tag:chelseafc.com,2026:news:P7DNNPHXbL8iud9Hi2UI4</id>
     <published>2026-09-17T00:00:00Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789660225/editorial/news/2026/09/17/England_WU20_Nigeria_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:3YQGGGumDt1Wh69gaqbQfc</id>
     <published>2026-09-17T00:00:00Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789656482/editorial/news/2026/09/17/CL2_1353-3379469_kPWz1x5N.jpg"/>
     <id>tag:chelseafc.com,2026:news:5LthUMBwJNGcPUfjsksxKA</id>
     <published>2026-09-17T00:00:00Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789652142/video/2026/09/17/PRESS_CONFERENCE_01.png"/>
     <id>tag:chelseafc.com,2026:news:4Y2WMc8m3MwpVplLU4kwGK</id>
     <published>2026-09-17T00:00:00Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789647556/editorial/news/2026/09/17/GettyImages-2293680933.jpg"/>
     <id>tag:chelseafc.com,2026:news:4Xzr5c9ipn5k39I4m0Yt2f</id>
     <published>2026-09-17T00:00:00Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789563073/editorial/tickets%20and%20memberships/Memberships%202026-27/True_Blue_Plus_virtual_event.png"/>
     <id>tag:chelseafc.com,2026:news:2A0NA6JR0kVQf3kOJwUCat</id>
     <published>2026-09-16T12:51:13Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Article / Membership / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789632645/editorial/news/2026/09/16/chalamet-hull.jpg"/>
     <id>tag:chelseafc.com,2026:news:7Lgb1KCXcYN8kTv2HanlUr</id>
     <published>2026-09-16T00:00:00Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
+    <updated>2026-09-18T09:09:53Z</updated>
     <summary>Article / Club Chelsea / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Brentford vs Chelsea: Key statistics and facts</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/brentford-vs-chelsea-key-statistics-and-facts"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789579251/editorial/news/2026/09/16/GettyImages-2295294794.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7F5l547vCTOH373Zp3wptd</id>
-    <published>2026-09-16T00:00:00Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>The return of the Chelsea FC Collector Tin</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/the-return-of-the-chelsea-fc-collector-tin"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789650067/editorial/merchandise/Topps/Topps_collectors_tin_2026-27.png"/>
-    <id>tag:chelseafc.com,2026:news:7brYA0EFbZfVOwja4jRlQr</id>
-    <published>2026-09-17T13:01:07Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
-    <summary>Article / On sale / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>A message from Chelsea’s ownership</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/a-message-from-chelseas-ownership"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789625939/editorial/Stamford%20Bridge%20general%20shots/Top_of_West_Stand_-_badge_and_flag_-_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4rhaJym2bK0krQcm7T9c53</id>
-    <published>2026-09-17T06:18:59Z</published>
-    <updated>2026-09-18T04:34:24Z</updated>
-    <summary>Article / Club / date-source:cloudinary-version</summary>
   </entry>
 </feed>
