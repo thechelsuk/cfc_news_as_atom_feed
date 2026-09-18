@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-18T21:49:52Z</updated>
+  <updated>2026-09-18T23:39:06Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Extended: Brentford 3-0 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-extended-brentford-3-0-chelsea-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789771172/video/2026/09/18/EXTENDED.png"/>
+    <id>tag:chelseafc.com,2026:news:4Z0zRfMVfeBChb373K5yys</id>
+    <published>2026-09-18T00:00:00Z</published>
+    <updated>2026-09-18T23:39:06Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'We needed to be more clinical with defence'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/alonso-post-brentford-3-0-chelsea-premier-league-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789772456/video/2026/09/18/REACTIONS.png"/>
+    <id>tag:chelseafc.com,2026:news:2AJpzG15W8PDB5oDkskiXy</id>
+    <published>2026-09-18T00:00:00Z</published>
+    <updated>2026-09-18T23:39:06Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Alonso: ‘It’s not about talking or looking for excuses’</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-its-not-about-talking-or-looking-for-excuses"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789768423/editorial/match-reports/2026-27/Brentford%20%28A%29/GettyImages-2295969648.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6DD4xXd2FWWddJqeIrp0N6</id>
+    <published>2026-09-18T21:53:43Z</published>
+    <updated>2026-09-18T23:39:06Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Highlights: Brentford 3-0 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-highlights-brentford-3-0-chelsea-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789771173/video/2026/09/18/HIGHLIGHTS.png"/>
+    <id>tag:chelseafc.com,2026:news:7uAhI5B4bu81l6Zw4rzPlM</id>
+    <published>2026-09-18T00:00:00Z</published>
+    <updated>2026-09-18T23:39:06Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Match gallery: Blues beaten at Brentford</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-gallery-blues-beaten-at-brentford"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789765391/editorial/match-reports/2026-27/Brentford%20%28A%29/Jordan_Henderson_and_Valentin_Barco_vs_Brentford.jpg"/>
     <id>tag:chelseafc.com,2026:news:37AoMB7GteV6F8jVuJdkkE</id>
     <published>2026-09-18T21:03:11Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
+    <updated>2026-09-18T23:39:06Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789765838/editorial/match-reports/2026-27/Brentford%20%28A%29/barco-brentford-a-.jpg"/>
     <id>tag:chelseafc.com,2026:news:7cVVyAihPHdQqGYEzO99EQ</id>
     <published>2026-09-18T21:10:38Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
+    <updated>2026-09-18T23:39:06Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789756238/editorial/match-reports/2026-27/Brentford%20%28A%29/Xabi_Alonso_arrives_at_Brentford.jpg"/>
     <id>tag:chelseafc.com,2026:news:6CyJkYMBWV1EbcvuPR7CuA</id>
     <published>2026-09-18T18:30:38Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
+    <updated>2026-09-18T23:39:06Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789756359/editorial/match-reports/2026-27/Brentford%20%28A%29/henderson-bees-arrival.jpg"/>
     <id>tag:chelseafc.com,2026:news:2nZEBwnw1aBjwGePwcsJ2K</id>
     <published>2026-09-18T18:32:39Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
+    <updated>2026-09-18T23:39:06Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789753336/CL1_0410-3385255_ihchjy.jpg"/>
     <id>tag:chelseafc.com,2026:news:2C4KFQNG7m8W7GjZRbdpx0</id>
     <published>2026-09-18T17:42:16Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
+    <updated>2026-09-18T23:39:06Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788527189/editorial/news/2026/09/04/Bompastor_presser_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:24FxyhSaUvJsXkk05VHcNq</id>
     <published>2026-09-04T00:00:00Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
+    <updated>2026-09-18T23:39:06Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1758703395/editorial/Stamford%20Bridge%20general%20shots/Fans_arriving_outside_Stamford_Bridge_-_August_2025.jpg"/>
     <id>tag:chelseafc.com,2026:news:1xq21BkmGHGyRrMeZmt6Za</id>
     <published>2025-09-24T08:43:15Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
+    <updated>2026-09-18T23:39:06Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1766014224/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_crowd_surfer_banner_-_September_2025.jpg"/>
     <id>tag:chelseafc.com,2026:news:3nlHwtEe7ginurCpFAAnEl</id>
     <published>2025-12-17T23:30:24Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
+    <updated>2026-09-18T23:39:06Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Bompastor Press Conference 🎙️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-press-conference-birmingham-city-sept-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789746507/video/2026/09/17/18/PRESS_CONFERENCE_cfcw_and_birmingham_city.png"/>
-    <id>tag:chelseafc.com,2026:news:6a8HkIk0CeTDNs8FEW2ukk</id>
-    <published>2026-09-17T00:00:00Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Sonia Bompastor delivers positive injury update on key trio</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-delivers-positive-injury-update-on-key-trio"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789743741/editorial/news/2026/09/18/Malard_training_Sep_26_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6cES2NNwIdRmkfVoTOB3kh</id>
-    <published>2026-09-18T00:00:00Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Make it a Blue Day when CFCW take on Arsenal!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/make-it-a-blue-day-when-cfcw-take-on-arsenal"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789743287/editorial/women-misc/CFCW_Never_Done_lampost_banner.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6rZ0rs2mw4FVY0abJ5F7lx</id>
-    <published>2026-09-18T14:54:47Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Alonso on Welbeck’s smooth adaptation and Henderson value</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-welbecks-smooth-adaptation-and-henderson-value"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789685058/editorial/news/2026/09/17/welbeck-training-sept-26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:olR2zPks64562TkDDcW9O</id>
-    <published>2026-09-17T00:00:00Z</published>
-    <updated>2026-09-18T21:49:52Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
