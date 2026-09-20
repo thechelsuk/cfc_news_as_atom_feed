@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-20T15:19:16Z</updated>
+  <updated>2026-09-20T18:13:14Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Sjoeke Nusken: Everyone will have a part to play</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sjoeke-nusken-everyone-will-have-a-part-to-play"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789922222/editorial/news/2026/09/20/GettyImages-2296044412.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1DgslJW0dUJuucMmGI7PZ8</id>
+    <published>2026-09-20T00:00:00Z</published>
+    <updated>2026-09-20T18:13:14Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Gallery: 29 pictures from Chelsea Women's 2-0 win over Birmingham City</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-29-pictures-from-chelsea-womens-2-0-win-over-birmingham-city"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789916058/editorial/news/2026/09/20/GettyImages-2296132179-edited.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7I81FYpsUGsTl4Y8eJBspL</id>
+    <published>2026-09-20T00:00:00Z</published>
+    <updated>2026-09-20T18:13:14Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Your Star of the Match vs Birmingham City revealed!</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/your-star-of-the-match-vs-birmingham-city-revealed"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789892293/editorial/news/2026/09/20/ellie-carpenter-melvine-malard-birmingham-city.jpg"/>
     <id>tag:chelseafc.com,2026:news:1oXBz0Tbd93XLicpCSoK9f</id>
     <published>2026-09-20T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789772378/editorial/match-reports/2026-27/Brentford%20%28A%29/Levi_Colwill_Chelsea_training.jpg"/>
     <id>tag:chelseafc.com,2026:news:2AiGCXnzeQjGhlr2I46Qjt</id>
     <published>2026-09-18T22:59:38Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789848644/editorial/news/2026/09/19/HL3_0821_Xq1nTF3q_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:4vQbYd3VrTCghXXYTPbQQR</id>
     <published>2026-09-19T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789833697/video/2026/09/19/REACTIONS_2.png"/>
     <id>tag:chelseafc.com,2026:news:6mShbjVmGQl79dpVIGrRoj</id>
     <published>2026-09-19T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789829865/video/2026/09/19/HIGHLIGHTS-CFCW.png"/>
     <id>tag:chelseafc.com,2026:news:2LEfknLHz14bUMlnW7nmy1</id>
     <published>2026-09-19T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789833699/video/2026/09/19/REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:2ThFTzGMaAWHF84L1EDvDU</id>
     <published>2026-09-19T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789829866/video/2026/09/19/FULL_MATCH_CFCW.png"/>
     <id>tag:chelseafc.com,2026:news:3xXX46th28I4qHdHfuge5L</id>
     <published>2026-09-19T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789847797/editorial/news/2026/09/19/CL1_7802-3388549_vug5lNQR.jpg"/>
     <id>tag:chelseafc.com,2026:news:32L3w5Fa2Y69bzSg0r5nn0</id>
     <published>2026-09-19T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789824845/editorial/women%27s-team/2026/Sept/Birmingham%20%28h%29/Bompastor_BCFCW_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:6jT5TpwnXEJh6HX6MDHMSo</id>
     <published>2026-09-19T13:34:05Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789824844/editorial/women%27s-team/2026/Sept/Birmingham%20%28h%29/Malard_BCFCW_Sep_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:2avN19cxsfEfXKvTGVCAcd</id>
     <published>2026-09-19T13:34:04Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
+    <updated>2026-09-20T18:13:14Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>U18 Highlights: Chelsea U18 5-0 Bournemouth U18</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/u18-highlights-chelsea-u18-5-0-bournemouth-u18-19-09-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789822459/video/2026/09/19/HIGHLIGHTS.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5cJdgbxbBL5HTBpLP38wWw</id>
-    <published>2026-09-19T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Under-18 Premier League report: Chelsea 5-0 Bournemouth</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/under-18-premier-league-report-chelsea-5-0-bournemouth"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789832405/editorial/news/2026/09/19/CL1_6306-3387157_Sd00Nxcv.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2KxaYWFtS1bnxn8QRXvXQb</id>
-    <published>2026-09-19T00:00:00Z</published>
-    <updated>2026-09-20T15:19:16Z</updated>
-    <summary>Article / Academy / date-source:path-date</summary>
   </entry>
 </feed>
