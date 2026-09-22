@@ -4,16 +4,52 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-22T12:08:23Z</updated>
+  <updated>2026-09-22T16:53:54Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
-    <title>Maika Hamano reaches 50th appearance milestone for Chelsea</title>
+    <title>Bompastor and Walsh Press Conference🎙️</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-and-walsh-press-conference"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790087115/video/2026/09/22/PRESS_CONFERENCE_01.png"/>
+    <id>tag:chelseafc.com,2026:news:1KSvBrpBvQaijhvGab2W4y</id>
+    <published>2026-09-22T00:00:00Z</published>
+    <updated>2026-09-22T16:53:54Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Sonia Bompastor provides injury update ahead of Austria Vienna</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-provides-injury-update-ahead-of-austria-vienna"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790084013/editorial/news/2026/09/22/bompastor-press-conference-september-2026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5syJVWutoDd4WtiMMgyUD5</id>
+    <published>2026-09-22T00:00:00Z</published>
+    <updated>2026-09-22T16:53:54Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Women’s Champions League ticket news: Lyon away on sale</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/womens-champions-league-ticket-news-lyon-away-on-sale"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1677672484/editorial/news/2023/03/01/groupama-stadium-lyon-view.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7AQmhc6DQyPlz34zlx4kHO</id>
+    <published>2023-03-01T00:00:00Z</published>
+    <updated>2026-09-22T16:53:54Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Maika Hamano reaches appearance milestone for Chelsea</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/maika-hamano-reaches-50th-appearance-milestone-for-chelsea"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790068556/editorial/news/2026/09/22/Hamano_Birmingham_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:MRPbfSyINT56Tiw726Lgf</id>
     <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
+    <updated>2026-09-22T16:53:54Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Training ahead of Austria Vienna!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/training-ahead-of-austria-vienna-22-09-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790076398/video/2026/09/22/live_training.png"/>
+    <id>tag:chelseafc.com,2026:news:79YnFPEOjlx9zMCesE8447</id>
+    <published>2026-09-22T00:00:00Z</published>
+    <updated>2026-09-22T16:53:54Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Chelsea Women vs Austria Vienna: How to watch, kick-off time, live stream info</title>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790072434/editorial/news/2026/09/22/CFCW_RSO_Aug_26_28.jpg"/>
     <id>tag:chelseafc.com,2026:news:1w6BVGWU32LZvXTKdR7Jht</id>
     <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
+    <updated>2026-09-22T16:53:54Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1735032384/editorial/news/2024/12/24/thiago-silva-farewell.jpg"/>
     <id>tag:chelseafc.com,2026:news:CZWkqirDoePBC2WoVlBy9</id>
     <published>2024-12-24T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
+    <updated>2026-09-22T16:53:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790006212/editorial/news/2026/09/21/HL4_8486-3385659_FsKM00os.jpg"/>
     <id>tag:chelseafc.com,2026:news:1G4UTFYBapijVOdJgFJVHh</id>
     <published>2026-09-21T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
+    <updated>2026-09-22T16:53:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787691343/editorial/news/2026/08/25/cobham-next-gen-bristol-rovers.jpg"/>
     <id>tag:chelseafc.com,2026:news:6BvEWcsX1arKccmBXrQCn0</id>
     <published>2026-08-25T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
+    <updated>2026-09-22T16:53:54Z</updated>
     <summary>Article / Cobham Next Gen / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,17 +93,8 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790067476/editorial/news/2026/09/22/Elise_Christian.jpg"/>
     <id>tag:chelseafc.com,2026:news:746IEaRH585txAyXXULh5O</id>
     <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
+    <updated>2026-09-22T16:53:54Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Training ahead of Austria Vienna!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/training-ahead-of-austria-vienna"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790076398/video/2026/09/22/live_training.png"/>
-    <id>tag:chelseafc.com,2026:news:4xzTTBWtrb5QL7Fy8uYGq</id>
-    <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Morgan Rogers Unlocked – coming this Thursday</title>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789987478/editorial/news/2026/09/21/CFC_Unlocked_Rogers_CL1_5140-3378542_fyluQsbS.jpg"/>
     <id>tag:chelseafc.com,2026:news:2yQ3S2Vgux1kSmWyGG5IyW</id>
     <published>2026-09-21T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
+    <updated>2026-09-22T16:53:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790002418/editorial/news/2026/09/21/06173_CCS2627_WA_CFCUnlocked_CFCPlus_RGB_AW_EmailHeader2_620x349_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:32UkT6qEPUKSyrb7Xsb1xE</id>
     <published>2026-09-21T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
+    <updated>2026-09-22T16:53:54Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Two Chelsea away fixtures in November moved</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/two-chelsea-away-fixtures-in-november-moved"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2ZyY9M90JMpqaTfqI4nxt4</id>
-    <published>2026-09-21T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea international call-ups and schedules for September 2026</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-international-call-ups-and-schedules-for-september-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789996685/editorial/news/2026/09/21/GettyImages-2247099804.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7u3nuO1GfV6RBMcD8HgY7C</id>
-    <published>2026-09-21T00:00:00Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Three Women’s Super League matches at the Bridge now on sale</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/three-womens-super-league-matches-at-the-bridge-on-sale"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788609337/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/James_VIlla_Sep_26_1.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3IFnGQYFx7sLy9pp0u7JlL</id>
-    <published>2026-09-05T11:55:37Z</published>
-    <updated>2026-09-22T12:08:23Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
