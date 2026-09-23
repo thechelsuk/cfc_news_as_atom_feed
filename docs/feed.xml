@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-23T19:00:16Z</updated>
+  <updated>2026-09-23T22:11:10Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Match Report: Chelsea 1-0 Austria Vienna</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-1-0-austria-vienna"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790193435/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/Kaptein_Vienna_Sep_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6GQ2OHn9rRUnnjsaxGBMIM</id>
+    <published>2026-09-23T19:57:15Z</published>
+    <updated>2026-09-23T22:11:10Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Confirmed Chelsea Women line up vs Austria Vienna</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-austria-vienna"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790182879/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/CFCW_Vienna_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:6eBO9mVMKGBCzm05bOW1mj</id>
     <published>2026-09-23T17:01:19Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789987478/editorial/news/2026/09/21/CFC_Unlocked_Rogers_CL1_5140-3378542_fyluQsbS.jpg"/>
     <id>tag:chelseafc.com,2026:news:2yQ3S2Vgux1kSmWyGG5IyW</id>
     <published>2026-09-21T00:00:00Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790172153/editorial/news/2026/09/23/hazard-tottenham-celeb-2016.jpg"/>
     <id>tag:chelseafc.com,2026:news:5UpjQE4ktamxWYZnU2Lc0a</id>
     <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790004399/editorial/fans-and-flags/Chelsea_fans_-_West_Stand_lower_August_2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:2QmuwyCZJEKTpkWyImApgG</id>
     <published>2026-09-21T15:26:39Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Fans / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790167855/video/2026/09/23/260922_ULTIMATE_GOTS_GROUP_A_V1_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:6x0N5Tx0Ba2QYtztrGjkSI</id>
     <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790091740/editorial/news/2026/09/22/Bjorn_Birmingham_Sep_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:5SJluI0JU0oG6sDTx1nCQ8</id>
     <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790156501/editorial/news/2026/09/23/HL3_8130_jppMEmFu.jpg"/>
     <id>tag:chelseafc.com,2026:news:1JVuixyYBKUSyUwUspiMnd</id>
     <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790152418/editorial/Foundation/Legends%20game/Legends_match_2027_-_launch_-_clean.jpg"/>
     <id>tag:chelseafc.com,2026:news:5rbSQaeUZcomj1qXubeNO4</id>
     <published>2026-09-23T08:33:38Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Legends / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790171836/editorial/match-reports/2026-27/Hull%20home/Morgan_Rogers_celebrates_vs_Hull_16x9.png"/>
     <id>tag:chelseafc.com,2026:news:21JCaAU2jYnYOyRiNFIJ9o</id>
     <published>2026-09-23T13:57:16Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790153105/editorial/Foundation/Legends%20game/Legends_match_2027_-_thumbnail.jpg"/>
     <id>tag:chelseafc.com,2026:news:5E3IEpYRpziuZfwjZsZXOH</id>
     <published>2026-09-23T08:45:05Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Video / Video / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790073514/editorial/partnerships/PIAFF/CFCW_Piaff_launch.png"/>
     <id>tag:chelseafc.com,2026:news:2QJAlxva6Yor3CG5WhePy1</id>
     <published>2026-09-22T10:38:34Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
+    <updated>2026-09-23T22:11:10Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Danny Welbeck: My Football Firsts</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/danny-welbeck-my-football-firsts"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790074048/editorial/news/2026/09/22/GettyImages-2294684442.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2h5SW5tzlfA7okdXG3xQRx</id>
-    <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-23T19:00:16Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
