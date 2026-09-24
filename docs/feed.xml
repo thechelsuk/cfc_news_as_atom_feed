@@ -4,16 +4,61 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-24T05:15:11Z</updated>
+  <updated>2026-09-24T10:06:15Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Sjoeke Nusken reflects on Chelsea's winning culture and calls for fans' support against Arsenal</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sjoeke-nusken-reflects-on-chelseas-winning-culture-and-calls-for-fans"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790240709/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/Nusken_Vienna_Sep_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5OodQ2KagQtFQW256ccUHM</id>
+    <published>2026-09-24T09:05:09Z</published>
+    <updated>2026-09-24T10:06:15Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Attacking midfielder voted Star of the Match against Austria Vienna!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/attacking-midfielder-voted-star-of-the-match-against-austria-vienna"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790239453/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/CFCW_Vienna_Sep_26_5.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3Jce6aXM79laooCoRPiXJq</id>
+    <published>2026-09-24T08:44:13Z</published>
+    <updated>2026-09-24T10:06:15Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>The Famous CFC is coming to Kuala Lumpur with Hasselbaink up front</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/the-famous-cfc-is-coming-to-kuala-lumpur-with-hasselbaink-up-front"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790003832/editorial/fans-and-flags/Fan%20engagement/The%20Famous%20CFC/The_Famous_CFC_Announcement_Hero_KL_-_2026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7FJL9MpogBcfklB6BNYfnU</id>
+    <published>2026-09-21T15:17:12Z</published>
+    <updated>2026-09-24T10:06:15Z</updated>
+    <summary>Article / Fans / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>OTD: Oscar's fine finish against Bolton</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/otd-oscars-fine-finish-against-bolton"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790233986/editorial/news/2026/09/23/GettyImages-611516974.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3XabtioEMsFU9oI1BEw0b8</id>
+    <published>2026-09-23T00:00:00Z</published>
+    <updated>2026-09-24T10:06:15Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>UWCL Highlights: Chelsea 1-0 Austria Vienna</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-highlights-chelsea-1-0-austria-vienna-2026-27"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790204638/video/2026/09/23/3MINS_Chelsea_1-0_Austria_Vienna_League_Phase_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:3YKW44XV1RgeepXvnfVftX</id>
     <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
+    <updated>2026-09-24T10:06:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Sonia Bompastor gives injury update on Keira Walsh and reflects on an 'important' three points</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-gives-injury-update-on-keira-walsh-and-reflects-on-an"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790197837/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/Bompastor_Vienna_Sep_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:u0qBibkJQNPZK0vXUxLKL</id>
+    <published>2026-09-23T21:10:37Z</published>
+    <updated>2026-09-24T10:06:15Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>UWCL Extended: Chelsea 1-0 Austria Vienna</title>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790210650/video/2026/09/23/EXT_Chelsea_1-0_Austria_Vienna_League_Phase_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:6fUDOFPIkVA5CWGSli7G6D</id>
     <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
+    <updated>2026-09-24T10:06:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790211637/video/2026/09/23/16x9_Bompastor_post-Chelsea_1-0_Austria_Vienna_League_Phase_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:3kovZBWzBESRLyKZv1V55e</id>
     <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
+    <updated>2026-09-24T10:06:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790211637/video/2026/09/23/16x9_Peng_post-Chelsea_1-0_Austria_Vienna_League_Phase_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:1P7zVOBYYnGo0BgilLcm79</id>
     <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
+    <updated>2026-09-24T10:06:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790210650/video/2026/09/23/FULL_Chelsea_1-0_Austria_Vienna_League_Phase_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:53mTnETCup9ld8qfgOzcL0</id>
     <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
+    <updated>2026-09-24T10:06:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,61 +102,16 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790193435/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/Kaptein_Vienna_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:6GQ2OHn9rRUnnjsaxGBMIM</id>
     <published>2026-09-23T19:57:15Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
+    <updated>2026-09-24T10:06:15Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
-    <title>Confirmed Chelsea Women line up vs Austria Vienna</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-austria-vienna"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790182879/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/CFCW_Vienna_Sep_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6eBO9mVMKGBCzm05bOW1mj</id>
-    <published>2026-09-23T17:01:19Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Morgan Rogers Unlocked – coming tomorrow</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/morgan-rogers-unlocked-coming-this-thursday"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789987478/editorial/news/2026/09/21/CFC_Unlocked_Rogers_CL1_5140-3378542_fyluQsbS.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2yQ3S2Vgux1kSmWyGG5IyW</id>
-    <published>2026-09-21T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea's Ultimate Goal of the Season: Group A vote</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-ultimate-goal-of-the-season-group-a-vote"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790172153/editorial/news/2026/09/23/hazard-tottenham-celeb-2016.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5UpjQE4ktamxWYZnU2Lc0a</id>
-    <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>New members of the Fan Advisory Board revealed </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/new-members-of-the-fan-advisory-board-revealed"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790004399/editorial/fans-and-flags/Chelsea_fans_-_West_Stand_lower_August_2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2QmuwyCZJEKTpkWyImApgG</id>
-    <published>2026-09-21T15:26:39Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
-    <summary>Article / Fans / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Ultimate Goal of the Season | Group A</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/ultimate-goal-of-the-season-or-group-a-sept-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790167855/video/2026/09/23/260922_ULTIMATE_GOTS_GROUP_A_V1_1.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6x0N5Tx0Ba2QYtztrGjkSI</id>
-    <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Nathalie Bjorn on a fresh start, vice captaincy and Austria Vienna test</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/nathalie-bjorn-on-a-fresh-start-vice-captaincy-and-austria-vienna-test"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790091740/editorial/news/2026/09/22/Bjorn_Birmingham_Sep_26_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5SJluI0JU0oG6sDTx1nCQ8</id>
-    <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-24T05:15:11Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
+    <title>Premier League ticket news: Manchester United at home - ticket application window closing</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-united-at-home-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1758703395/editorial/Stamford%20Bridge%20general%20shots/Fans_arriving_outside_Stamford_Bridge_-_August_2025.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1xq21BkmGHGyRrMeZmt6Za</id>
+    <published>2025-09-24T08:43:15Z</published>
+    <updated>2026-09-24T10:06:15Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
