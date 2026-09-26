@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-26T05:36:18Z</updated>
+  <updated>2026-09-26T10:13:10Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Trailer 🎥 Millie | A CFCW film</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/trailer-millie-or-a-cfcw-film"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790366970/video/2026/09/25/16x9_Millie_Trailer_Doc_Sep_2026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4aVFqXbcP4MpwIpqjkuxRD</id>
+    <published>2026-09-25T00:00:00Z</published>
+    <updated>2026-09-26T10:13:10Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Melvine Malard talks 'the good life' at Chelsea in matchday programme</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/melvine-malard-talks-the-good-life-at-chelsea-in-matchday-programme"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790335418/editorial/news/2026/09/25/Prog_cover_website_arsenal_women.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6A8sRvaknXkIMg4tnSj1ZB</id>
+    <published>2026-09-25T00:00:00Z</published>
+    <updated>2026-09-26T10:13:10Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Millie Bright's incredible Chelsea tenure celebrated in behind-the-scenes exclusive documentary</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/millie-brights-incredible-chelsea-tenure-celebrated-in-behind-the-scenes"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790343155/editorial/news/2026/09/25/Millie_doc.jpg"/>
+    <id>tag:chelseafc.com,2026:news:QecLUIxqqrSvsrLBzo01v</id>
+    <published>2026-09-25T00:00:00Z</published>
+    <updated>2026-09-26T10:13:10Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Jordan Henderson: My Football Firsts</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/jordan-henderson-my-football-firsts"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790248176/editorial/news/2026/09/24/CL1_0771_copy_Evuqp9LP_16x9.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1jgtjomuECQJpYiVXWg4WB</id>
+    <published>2026-09-24T00:00:00Z</published>
+    <updated>2026-09-26T10:13:10Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>From the archive: Peter Bonetti on the 1970 FA Cup final</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/from-the-archive-peter-bonetti-on-the-1970-fa-cup-final"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790351211/editorial/news/2026/09/25/GettyImages-454278028_16x9.jpg"/>
     <id>tag:chelseafc.com,2026:news:7M3gfXY0bD1xvabODSex02</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
+    <updated>2026-09-26T10:13:10Z</updated>
     <summary>Article / History / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790371034/editorial/news/2026/09/25/GettyImages-2296526302.jpg"/>
     <id>tag:chelseafc.com,2026:news:38yoaEcBbRVlBWwFMCan5q</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
+    <updated>2026-09-26T10:13:10Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790351222/editorial/news/2026/09/25/Bompastor_Abily_training_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:7Aub9GUrpo6Z5py0NdJFrG</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
+    <updated>2026-09-26T10:13:10Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790339192/editorial/news/2026/09/25/Bompastor_WSL_presser_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:6eLIgCvrR7yfQHBdfZMdis</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
+    <updated>2026-09-26T10:13:10Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1778241816/editorial/news/2026/05/08/anfield-outside-view.jpg"/>
     <id>tag:chelseafc.com,2026:news:5LAmbdEXxtRGtQkdCqiklY</id>
     <published>2026-05-08T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
+    <updated>2026-09-26T10:13:10Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790352596/video/2026/09/25/16x9_Bompastor_pre-Arsenal_h__WSL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:2ND3IfR77u2zEryHaflV89</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
+    <updated>2026-09-26T10:13:10Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790340584/editorial/news/2026/09/25/GettyImages-2297051103.jpg"/>
     <id>tag:chelseafc.com,2026:news:MR2oV6DrekKNl3TCfWcV3</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
+    <updated>2026-09-26T10:13:10Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790336587/video/2026/09/25/260922_ULTIMATE_GOTS_GROUP_B_.jpg"/>
     <id>tag:chelseafc.com,2026:news:2SWwDvw5ctYr8VmpJ1pFNP</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
+    <updated>2026-09-26T10:13:10Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Maika &amp; Livia reunited! 🎙️ | S4 EP 4</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/maika-and-livia-reunited-s4-ep-4-we-are-chelsea-podcast"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790332089/video/2026/09/25/WEARE_CHELSEA.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4pc8ZGnmjvPMU6KArqI02c</id>
-    <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Stunning skill from Joao Pedro! 😤</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/16x9-joao-pedro-pl-creative-moment-of-the-month"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790169590/editorial/news/2026/09/23/joao-pedro-hull-skill-thumbnail.jpg"/>
-    <id>tag:chelseafc.com,2026:news:274XkPUYJ6l2jYIG5Cqct5</id>
-    <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Joao Pedro nominated for Premier League award</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/joao-pedro-nominated-for-premier-league-award"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790179166/editorial/news/2026/09/23/CL2_1536-3372501_kaVrDKAh.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2WueHy2uQbfCqgzyaBCT4t</id>
-    <published>2026-09-23T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Watson and Ezenwata up for PL2 award</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/watson-and-ezenwata-up-for-pl2-award"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790257542/editorial/news/2026/09/24/watson-pl2-stock-september-26-reggie.jpg"/>
-    <id>tag:chelseafc.com,2026:news:55O9c6JhUmCXphj83m6v9P</id>
-    <published>2026-09-24T00:00:00Z</published>
-    <updated>2026-09-26T05:36:18Z</updated>
-    <summary>Article / Cobham Next Gen / date-source:path-date</summary>
   </entry>
 </feed>
