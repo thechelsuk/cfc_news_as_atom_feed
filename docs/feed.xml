@@ -4,16 +4,25 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-26T10:13:10Z</updated>
+  <updated>2026-09-26T14:31:17Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
-    <title>Trailer 🎥 Millie | A CFCW film</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/trailer-millie-or-a-cfcw-film"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790366970/video/2026/09/25/16x9_Millie_Trailer_Doc_Sep_2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4aVFqXbcP4MpwIpqjkuxRD</id>
-    <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
+    <title>Chelsea’s Ultimate Goal of the Season: Group B results</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelseas-ultimate-goal-of-the-season-group-b-results"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790415859/GettyImages-143336005_1_1_ntb9kt.jpg"/>
+    <id>tag:chelseafc.com,2026:news:fbmdQC739SZsTaqhVRr7n</id>
+    <published>2026-09-26T09:44:19Z</published>
+    <updated>2026-09-26T14:31:17Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Women trio talk rivalry with Arsenal ahead of Stamford Bridge derby</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-trio-talk-rivalry-with-arsenal-ahead-of-stamford-bridge-derby"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789637762/editorial/news/2026/09/17/CFCW_Stamford_Bridge_Shed.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3v5AKvUzV3ejZArKkkTqbB</id>
+    <published>2026-09-17T00:00:00Z</published>
+    <updated>2026-09-26T14:31:17Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Melvine Malard talks 'the good life' at Chelsea in matchday programme</title>
@@ -21,8 +30,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790335418/editorial/news/2026/09/25/Prog_cover_website_arsenal_women.jpg"/>
     <id>tag:chelseafc.com,2026:news:6A8sRvaknXkIMg4tnSj1ZB</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Trailer 🎥 Millie | A CFCW film</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/trailer-millie-or-a-cfcw-film"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790366970/video/2026/09/25/16x9_Millie_Trailer_Doc_Sep_2026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4aVFqXbcP4MpwIpqjkuxRD</id>
+    <published>2026-09-25T00:00:00Z</published>
+    <updated>2026-09-26T14:31:17Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Millie Bright's incredible Chelsea tenure celebrated in behind-the-scenes exclusive documentary</title>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790343155/editorial/news/2026/09/25/Millie_doc.jpg"/>
     <id>tag:chelseafc.com,2026:news:QecLUIxqqrSvsrLBzo01v</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790248176/editorial/news/2026/09/24/CL1_0771_copy_Evuqp9LP_16x9.jpg"/>
     <id>tag:chelseafc.com,2026:news:1jgtjomuECQJpYiVXWg4WB</id>
     <published>2026-09-24T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790351211/editorial/news/2026/09/25/GettyImages-454278028_16x9.jpg"/>
     <id>tag:chelseafc.com,2026:news:7M3gfXY0bD1xvabODSex02</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Article / History / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790371034/editorial/news/2026/09/25/GettyImages-2296526302.jpg"/>
     <id>tag:chelseafc.com,2026:news:38yoaEcBbRVlBWwFMCan5q</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790351222/editorial/news/2026/09/25/Bompastor_Abily_training_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:7Aub9GUrpo6Z5py0NdJFrG</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790339192/editorial/news/2026/09/25/Bompastor_WSL_presser_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:6eLIgCvrR7yfQHBdfZMdis</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1778241816/editorial/news/2026/05/08/anfield-outside-view.jpg"/>
     <id>tag:chelseafc.com,2026:news:5LAmbdEXxtRGtQkdCqiklY</id>
     <published>2026-05-08T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790352596/video/2026/09/25/16x9_Bompastor_pre-Arsenal_h__WSL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:2ND3IfR77u2zEryHaflV89</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Internationals: Estevao denied goal on Brazil return</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-estevao-denied-goal-on-brazil-return"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790340584/editorial/news/2026/09/25/GettyImages-2297051103.jpg"/>
-    <id>tag:chelseafc.com,2026:news:MR2oV6DrekKNl3TCfWcV3</id>
-    <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Ultimate Goal of the Season | Group B</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/ultimate-goal-of-the-season-or-group-b"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790336587/video/2026/09/25/260922_ULTIMATE_GOTS_GROUP_B_.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2SWwDvw5ctYr8VmpJ1pFNP</id>
-    <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-26T10:13:10Z</updated>
+    <updated>2026-09-26T14:31:17Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
