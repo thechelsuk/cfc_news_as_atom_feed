@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-27T20:09:44Z</updated>
+  <updated>2026-09-27T23:01:35Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>WSL Highlights: Chelsea Women 1-0 Arsenal Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-highlights-chelsea-women-1-0-arsenal-women-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790530615/video/2026/09/27/HLs_Chelsea_1-0_Arsenal_WSL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6rODJrbPVMi49wP1FQrMUk</id>
+    <published>2026-09-27T00:00:00Z</published>
+    <updated>2026-09-27T23:01:35Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Internationals: Neto assists Portugal to victory</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-neto-assists-portugal-to-victory"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790536675/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/neto-portugal-norway.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6UhdF8HXl8ojqSphNxeRws</id>
+    <published>2026-09-27T19:17:55Z</published>
+    <updated>2026-09-27T23:01:35Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>'The fans gave the team the boost they needed'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-post-arsenal-h-wsl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790538095/video/2026/09/27/16x9_Bompastor_post-Chelsea_1-0_Arsenal_WSL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:iQkFvOUhJpOlkE6oMKCiP</id>
+    <published>2026-09-27T00:00:00Z</published>
+    <updated>2026-09-27T23:01:35Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Sonia Bompastor on Lauren James' fitness and being 'strong and together' after Arsenal win</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-on-lauren-james-fitness-and-being-strong-and-together-after"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790533708/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/Bompastor_Arsenal_Sep_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:5HSykUW4gGkJbixiAcHtBn</id>
     <published>2026-09-27T18:28:28Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790538097/video/2026/09/27/16x9_Thompson_post-Chelsea_1-0_Arsenal_WSL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:68hHeStGbITCY88DYBwKu1</id>
     <published>2026-09-27T00:00:00Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790529625/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/thompson-celebration-distance.jpg"/>
     <id>tag:chelseafc.com,2026:news:6U39q8IjvSiV9iM9Pf8pSf</id>
     <published>2026-09-27T17:20:25Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790525900/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/CFCW_AFCW_Sep_26_8.jpg"/>
     <id>tag:chelseafc.com,2026:news:4oLq0nn4FG3CaF7ZimCI5d</id>
     <published>2026-09-27T16:18:20Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790515663/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/CFCW_AFCW_Shirts_pic_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:3zo2qCa4s6T6Fg4hJWoNYe</id>
     <published>2026-09-27T13:27:43Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790366972/video/2026/09/25/16x9_Millie_Doc_Sep_2026_V3.jpg"/>
     <id>tag:chelseafc.com,2026:news:7KiXHmAIgLGZXY2XF2zXSV</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790343155/editorial/news/2026/09/25/Millie_doc.jpg"/>
     <id>tag:chelseafc.com,2026:news:QecLUIxqqrSvsrLBzo01v</id>
     <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790258363/editorial/news/2026/09/24/GettyImages-86443864.jpg"/>
     <id>tag:chelseafc.com,2026:news:7jPZmuEWAR59i3A5Zxl9VS</id>
     <published>2026-09-24T00:00:00Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790072056/editorial/news/2026/09/22/Carpenter_Birmingham_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:4nhpjQnteeb66sFaH2eJ8t</id>
     <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
+    <updated>2026-09-27T23:01:35Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>From the archive: Peter Bonetti on the 1970 FA Cup final</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/from-the-archive-peter-bonetti-on-the-1970-fa-cup-final"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790351211/editorial/news/2026/09/25/GettyImages-454278028_16x9.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7M3gfXY0bD1xvabODSex02</id>
-    <published>2026-09-25T00:00:00Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
-    <summary>Article / History / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Make it a Blue Day this weekend when CFCW take on Arsenal!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/make-it-a-blue-day-when-cfcw-take-on-arsenal"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789743287/editorial/women-misc/CFCW_Never_Done_lampost_banner.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6rZ0rs2mw4FVY0abJ5F7lx</id>
-    <published>2026-09-18T14:54:47Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Ready for the London derby test 💪</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfc01mstr-all-wpl-chelsea-v-arsenal-hype-film-16x9-v8-history-shot-s-8.pm"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790462666/video/2026/09/26/GettyImages-2196095006.jpg"/>
-    <id>tag:chelseafc.com,2026:news:v93H7nGA6yTzWO156E5vV</id>
-    <published>2026-09-26T00:00:00Z</published>
-    <updated>2026-09-27T20:09:44Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
