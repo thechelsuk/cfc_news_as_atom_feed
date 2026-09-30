@@ -4,15 +4,78 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-30T07:22:36Z</updated>
+  <updated>2026-09-30T13:58:09Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Ultimate Goal of the Season: Group D results</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ultimate-goal-of-the-season-group-d-results"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1735032384/editorial/news/2024/12/24/caicedo-goal-bournemouth-h.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7t5y3Zd5M8XWSQRKLYjbNT</id>
+    <published>2024-12-24T00:00:00Z</published>
+    <updated>2026-09-30T13:58:09Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>French Connection: The shared history between Chelsea Women and Lyon</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/the-french-connection-the-shared-history-between-chelsea-women-and-lyon"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790765704/editorial/news/2026/09/30/GettyImages-2099890602-bompastor-carpenter.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5pZyrJVxqb9p7oSdPwDLil</id>
+    <published>2026-09-30T00:00:00Z</published>
+    <updated>2026-09-30T13:58:09Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea youngsters called up by England Women youth teams</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-summer-signing-handed-england-womens-under-23-call-up"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789730251/editorial/news/2026/09/18/Nelly_Las_Man_Utd_Sep_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:73x9UM5bMFk4cZkGir8rgR</id>
+    <published>2026-09-18T00:00:00Z</published>
+    <updated>2026-09-30T13:58:09Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>LIVE with Millie Bright! 🎙️ | S4 EP 5</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/live-with-millie-bright-or-s4-ep-5-or-we-are-chelsea-podcast"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790761527/video/2026/09/30/16x9_WAC_PODCAST_S4_EP5_MILLIE_BRIGHT_LIVE.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7Jp2LDOYGNVdJFAu3xAJyY</id>
+    <published>2026-09-30T00:00:00Z</published>
+    <updated>2026-09-30T13:58:09Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea welcomes Topps as Official Trading Card Partner</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-welcomes-topps-as-official-trading-card-partner"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790696825/editorial/partnerships/Topps/Topps-Partner-Announcement_Web_2400_x_1170_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1zGM7WaZIbtA2cKea0bR2D</id>
+    <published>2026-09-29T15:47:05Z</published>
+    <updated>2026-09-30T13:58:09Z</updated>
+    <summary>Article / Partner news / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Topps becomes Official Trading Card Partner of Chelsea FC &amp; Chelsea FC Women 🔵🤝</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/topps-chelsea-edit-v6"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790693037/editorial/partnerships/Topps/Topps-Partner-Announcement_Web_1920_x_1080.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5FBgjLtUL1dcMS7XMVSu3h</id>
+    <published>2026-09-29T14:43:57Z</published>
+    <updated>2026-09-30T13:58:09Z</updated>
+    <summary>Video / Video / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Carabao Cup ticket news: Liverpool away - loyalty point update for season ticket holders</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/carabao-cup-ticket-news-liverpool-away-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1778241816/editorial/news/2026/05/08/anfield-outside-view.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5LAmbdEXxtRGtQkdCqiklY</id>
+    <published>2026-05-08T00:00:00Z</published>
+    <updated>2026-09-30T13:58:09Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Bompastor and Bronze Press Conference🎙️</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-and-bronze-press-conference"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790718099/video/2026/09/29/Presser_final.png"/>
     <id>tag:chelseafc.com,2026:news:14CJjU5tMZwXSZGfdFdYTa</id>
     <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
+    <updated>2026-09-30T13:58:09Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790716993/editorial/news/2026/09/29/morgan-rogers-england-czechia-september-2026_3.jpg"/>
     <id>tag:chelseafc.com,2026:news:4PRrdqRQ12m8TqrmSiLrQ1</id>
     <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
+    <updated>2026-09-30T13:58:09Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790700209/DSC_3326_1_vtyode.jpg"/>
     <id>tag:chelseafc.com,2026:news:33174yFuDe3X6NedeTH39o</id>
     <published>2026-09-29T16:43:29Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
+    <updated>2026-09-30T13:58:09Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790701140/editorial/news/2026/09/29/HL3_1937_ZoeoS5d7_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:DVTYbbX4d84Drn066njzp</id>
     <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
+    <updated>2026-09-30T13:58:09Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,70 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790711348/editorial/news/2026/09/29/HL3_2737_Flw8vL89_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:olxD5wu8sZNUxAw6lr3Sc</id>
     <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
+    <updated>2026-09-30T13:58:09Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Leo Black signs for Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/leo-black-signs-for-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790694527/editorial/news/2026/09/29/leo-black-signing_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:748TTO4KOOTM2vk5vQwjqj</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
-    <summary>Article / Cobham Next Gen / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Internationals: Estevao Willian features in Brazil comeback</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-estevao-willian-features-in-brazil-comeback"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790688034/GettyImages-2297697800_1_xrp0jd.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3AQ5uAULGxjJ0i5EcW6yab</id>
-    <published>2026-09-29T13:20:34Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Matchday Unseen | Arsenal 🎥</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/bts-arsenal-h-wsl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790705333/video/2026/09/29/16x9_MATCHDAY_UNSEEN_Chelsea_1-0_Arsenal_WSL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1iKF5N8h7UNJHYFlzulfdm</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Lucy Bronze excited for Lyon reunion as Chelsea prepare for another big test</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lucy-bronze-excited-for-lyon-reunion-as-chelsea-prepare-for-another-big"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790687532/GettyImages-2297429227_1_qitg21.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6teclio5gjUGAdvf10JYvY</id>
-    <published>2026-09-29T13:12:12Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>OL Lyonnes vs Chelsea Women: How to watch, kick-off time, live stream info </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ol-lyonnes-vs-chelsea-women-how-to-watch-kick-off-time-live-stream-info"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790523530/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/CFCW_AFCW_Sep_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6nj7OrrDKLUqZfuQrxTBnd</id>
-    <published>2026-09-27T15:38:50Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Training ahead of OL Lyonnes</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/training-ahead-of-ol-lyonnes-29-09-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790688519/video/2026/09/28/29/TRAINING_final.png"/>
-    <id>tag:chelseafc.com,2026:news:4emTfHwrnVOngJF8XxFiHQ</id>
-    <published>2026-09-28T00:00:00Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Starting this week – save 20% across Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/starting-this-week-save-20-across-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1783954901/editorial/venue/2026%20venues%20at%20Stamford%20Bridge/2026-27_Megastore_1.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7hFv6a5wH4bC2TSqn4a9vN</id>
-    <published>2026-07-13T15:01:41Z</published>
-    <updated>2026-09-30T07:22:36Z</updated>
-    <summary>Article / On sale / date-source:cloudinary-version</summary>
   </entry>
 </feed>
