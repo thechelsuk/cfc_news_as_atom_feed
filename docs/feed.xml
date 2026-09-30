@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-09-30T18:55:54Z</updated>
+  <updated>2026-09-30T22:48:34Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Sonia Bompastor explains McCabe and Girma absences and discusses Lyon return</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-explains-mccabe-and-girma-absences-and-discusses-lyon"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790798703/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/HL3_4384_DS8dP6ZH_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7itpV6a1CEtql4OKzhlhP</id>
+    <published>2026-09-30T20:05:03Z</published>
+    <updated>2026-09-30T22:48:34Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Lucy Bronze: We worked our socks off today!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lucy-bronze-we-worked-our-socks-off-today"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790803469/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/HL3_4599_DOOzulXj_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1OCIHgzfhNsiG74JDfT4O8</id>
+    <published>2026-09-30T21:24:29Z</published>
+    <updated>2026-09-30T22:48:34Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Match report: Lyon 0-0 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-lyon-0-0-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790802580/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/GettyImages-2297404519.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2C6lIFU2vBw4xT0ItSbEfz</id>
+    <published>2026-09-30T21:09:40Z</published>
+    <updated>2026-09-30T22:48:34Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Confirmed Chelsea Women line up vs Lyon</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-lyon"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790786785/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/CFCW_Lyon_Shirts_pic.jpg"/>
     <id>tag:chelseafc.com,2026:news:34KHhTyYaXZBfFk7Rf4MC1</id>
     <published>2026-09-30T16:46:25Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790778520/editorial/news/2026/09/30/kavuma-mcqueen-england.jpg"/>
     <id>tag:chelseafc.com,2026:news:3kjph86YSIwzrXyba2XFSa</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Article / Academy / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1735032384/editorial/news/2024/12/24/caicedo-goal-bournemouth-h.jpg"/>
     <id>tag:chelseafc.com,2026:news:7t5y3Zd5M8XWSQRKLYjbNT</id>
     <published>2024-12-24T00:00:00Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790765704/editorial/news/2026/09/30/GettyImages-2099890602-bompastor-carpenter.jpg"/>
     <id>tag:chelseafc.com,2026:news:5pZyrJVxqb9p7oSdPwDLil</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789730251/editorial/news/2026/09/18/Nelly_Las_Man_Utd_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:73x9UM5bMFk4cZkGir8rgR</id>
     <published>2026-09-18T00:00:00Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790761527/video/2026/09/30/16x9_WAC_PODCAST_S4_EP5_MILLIE_BRIGHT_LIVE.jpg"/>
     <id>tag:chelseafc.com,2026:news:7Jp2LDOYGNVdJFAu3xAJyY</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790696825/editorial/partnerships/Topps/Topps-Partner-Announcement_Web_2400_x_1170_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:1zGM7WaZIbtA2cKea0bR2D</id>
     <published>2026-09-29T15:47:05Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Article / Partner news / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790693037/editorial/partnerships/Topps/Topps-Partner-Announcement_Web_1920_x_1080.jpg"/>
     <id>tag:chelseafc.com,2026:news:5FBgjLtUL1dcMS7XMVSu3h</id>
     <published>2026-09-29T14:43:57Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Video / Video / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1778241816/editorial/news/2026/05/08/anfield-outside-view.jpg"/>
     <id>tag:chelseafc.com,2026:news:5LAmbdEXxtRGtQkdCqiklY</id>
     <published>2026-05-08T00:00:00Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
+    <updated>2026-09-30T22:48:34Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bompastor and Bronze Press Conference🎙️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-and-bronze-press-conference"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790718099/video/2026/09/29/Presser_final.png"/>
-    <id>tag:chelseafc.com,2026:news:14CJjU5tMZwXSZGfdFdYTa</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Internationals: Rogers helps England to victory as young Blue scores</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-rogers-helps-england-to-victory-as-young-blue-scores"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790716993/editorial/news/2026/09/29/morgan-rogers-england-czechia-september-2026_3.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4PRrdqRQ12m8TqrmSiLrQ1</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: Progress continues at Cobham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-progress-continues-at-cobham"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790700209/DSC_3326_1_vtyode.jpg"/>
-    <id>tag:chelseafc.com,2026:news:33174yFuDe3X6NedeTH39o</id>
-    <published>2026-09-29T16:43:29Z</published>
-    <updated>2026-09-30T18:55:54Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
