@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-01T19:53:55Z</updated>
+  <updated>2026-10-01T23:35:54Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Internationals: Neto's Portugal put four past Denmark</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-netos-portugal-put-four-past-denmark"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790893763/GettyImages-2297568369_2_qxmrdr.jpg"/>
+    <id>tag:chelseafc.com,2026:news:15Le0brzImhtkXtHyrPGvE</id>
+    <published>2026-10-01T22:29:23Z</published>
+    <updated>2026-10-01T23:35:54Z</updated>
+    <summary>Article / Internationals / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Gallery: Blues on international duty!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/gallery/gallery-blues-on-international-duty-011026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790854515/Neto%20features%20against%20Wales%20for%20Portugal.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4IWZ9ZKvndCA0eOrKTWNls</id>
+    <published>2026-10-01T11:35:15Z</published>
+    <updated>2026-10-01T23:35:54Z</updated>
+    <summary>Gallery / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Can't Tame Us: How King Promise and Chelsea turned a football tournament into a music video</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cant-tame-us-king-promise-chelsea-football-tournament-music-video"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790082141/editorial/news/2026/09/22/king-promise-1.jpg"/>
     <id>tag:chelseafc.com,2026:news:5nuM0RKG50BsoKatBpnyX1</id>
     <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Article / Club / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,17 +39,8 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790799456/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/GettyImages-2297943799.jpg"/>
     <id>tag:chelseafc.com,2026:news:4Wd3gBZpvN31ZegJQBCUeU</id>
     <published>2026-09-30T20:17:36Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Gallery: Blues on international duty!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/gallery/gallery-blues-on-international-duty-011026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790854515/Neto%20features%20against%20Wales%20for%20Portugal.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4IWZ9ZKvndCA0eOrKTWNls</id>
-    <published>2026-10-01T11:35:15Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
-    <summary>Gallery / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>Women’s Champions League ticket news: Hacken away</title>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1701944376/editorial/news/2023/12/07/Hacken_stadium_view_night.jpg"/>
     <id>tag:chelseafc.com,2026:news:5a6y5D0cKY9WsifxpL4XYJ</id>
     <published>2023-12-07T00:00:00Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790799710/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/GettyImages-2297392160.jpg"/>
     <id>tag:chelseafc.com,2026:news:70ZclnR26PVKeC0enoWr9B</id>
     <published>2026-09-30T20:21:50Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg"/>
     <id>tag:chelseafc.com,2026:news:2cJ6m7lmHJyZCKUls3I7Dz</id>
     <published>2025-10-27T15:51:21Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786552909/video/2026/08/12/coffee_club_cfc.jpg"/>
     <id>tag:chelseafc.com,2026:news:5jFbUv639LdMyDn5Ii0TSo</id>
     <published>2026-08-12T00:00:00Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790788434/editorial/news/2026/09/30/caicedo-joao-pedro-celebration.jpg"/>
     <id>tag:chelseafc.com,2026:news:bFWgqsB9SEXXK5UeNycrK</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790840577/editorial/news/2026/09/30/barco-argentina-bolivia.jpg"/>
     <id>tag:chelseafc.com,2026:news:26LeBe2U4vPKUYy6RFKqnh</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Article / Internationals / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1778241816/editorial/news/2026/05/08/anfield-outside-view.jpg"/>
     <id>tag:chelseafc.com,2026:news:5LAmbdEXxtRGtQkdCqiklY</id>
     <published>2026-05-08T00:00:00Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790809376/video/2026/09/30/3MINS_OL_Lyonnes_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:58rDXECmcJaC2CwjOHo7uX</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>UWCL Extended: OL Lyonnes 0-0 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-extended-ol-lyonnes-0-0-chelsea-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790809377/video/2026/09/30/EXT_OL_Lyonnes_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2bhXvskfnSPEftDH7BuRkp</id>
-    <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T19:53:55Z</updated>
+    <updated>2026-10-01T23:35:54Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
