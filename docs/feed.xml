@@ -4,16 +4,70 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-01T07:46:24Z</updated>
+  <updated>2026-10-01T14:48:22Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Melvine Malard on giving a lot for a good point</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/melvine-malard-on-giving-a-lot-for-a-good-point"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790799456/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/GettyImages-2297943799.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4Wd3gBZpvN31ZegJQBCUeU</id>
+    <published>2026-09-30T20:17:36Z</published>
+    <updated>2026-10-01T14:48:22Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Gallery: Blues on international duty!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/gallery/gallery-blues-on-international-duty-011026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790854515/Neto%20features%20against%20Wales%20for%20Portugal.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4IWZ9ZKvndCA0eOrKTWNls</id>
+    <published>2026-10-01T11:35:15Z</published>
+    <updated>2026-10-01T14:48:22Z</updated>
+    <summary>Gallery / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Match gallery: Point well made in France</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-gallery-point-well-made-in-france"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790799710/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/GettyImages-2297392160.jpg"/>
+    <id>tag:chelseafc.com,2026:news:70ZclnR26PVKeC0enoWr9B</id>
+    <published>2026-09-30T20:21:50Z</published>
+    <updated>2026-10-01T14:48:22Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>A taste of coffee culture ☕ </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfc-pre-season-tour-sydney-coffee-club-16x9-cfc"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786552909/video/2026/08/12/coffee_club_cfc.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5jFbUv639LdMyDn5Ii0TSo</id>
+    <published>2026-08-12T00:00:00Z</published>
+    <updated>2026-10-01T14:48:22Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea's Ultimate Goal of the Season: the quarter-final vote</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-ultimate-goal-of-the-season-quarter-final-vote"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790788434/editorial/news/2026/09/30/caicedo-joao-pedro-celebration.jpg"/>
+    <id>tag:chelseafc.com,2026:news:bFWgqsB9SEXXK5UeNycrK</id>
+    <published>2026-09-30T00:00:00Z</published>
+    <updated>2026-10-01T14:48:22Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Internationals: Blues duo feature in Argentina win</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-blues-duo-feature-in-argentina-win"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790840577/editorial/news/2026/09/30/barco-argentina-bolivia.jpg"/>
     <id>tag:chelseafc.com,2026:news:26LeBe2U4vPKUYy6RFKqnh</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
+    <updated>2026-10-01T14:48:22Z</updated>
     <summary>Article / Internationals / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Carabao Cup ticket news: Liverpool away - loyalty point update for members</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/carabao-cup-ticket-news-liverpool-away-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1778241816/editorial/news/2026/05/08/anfield-outside-view.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5LAmbdEXxtRGtQkdCqiklY</id>
+    <published>2026-05-08T00:00:00Z</published>
+    <updated>2026-10-01T14:48:22Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>UWCL Highlights: OL Lyonnes 0-0 Chelsea</title>
@@ -21,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790809376/video/2026/09/30/3MINS_OL_Lyonnes_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:58rDXECmcJaC2CwjOHo7uX</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
+    <updated>2026-10-01T14:48:22Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790809377/video/2026/09/30/EXT_OL_Lyonnes_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:2bhXvskfnSPEftDH7BuRkp</id>
     <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
+    <updated>2026-10-01T14:48:22Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,16 +93,16 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790798703/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/HL3_4384_DS8dP6ZH_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:7itpV6a1CEtql4OKzhlhP</id>
     <published>2026-09-30T20:05:03Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
+    <updated>2026-10-01T14:48:22Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
-    <title>Lucy Bronze: We worked our socks off today!</title>
+    <title>Lucy Bronze: We worked our socks off!</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lucy-bronze-we-worked-our-socks-off-today"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790803469/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/HL3_4599_DOOzulXj_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:1OCIHgzfhNsiG74JDfT4O8</id>
     <published>2026-09-30T21:24:29Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
+    <updated>2026-10-01T14:48:22Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,61 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790802580/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/GettyImages-2297404519.jpg"/>
     <id>tag:chelseafc.com,2026:news:2C6lIFU2vBw4xT0ItSbEfz</id>
     <published>2026-09-30T21:09:40Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
+    <updated>2026-10-01T14:48:22Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>UWCL Full Match: OL Lyonnes vs Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-full-match-ol-lyonnes-vs-chelsea-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790809376/video/2026/09/30/FULL_OL_Lyonnes_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1RqpnNIsG7Q7gkNK2lKFUL</id>
-    <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>'Not conceding goals is a great foundation'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-post-ol-lyonnes-0-0-chelsea-women-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790815950/video/2026/09/30/16x9_Bompastor_post-OL_Lyonnes_0-0_Chelsea_Women_League_Stage_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3qLqSDqZbU8mrxcNwmf4Bx</id>
-    <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>'Lyon is at the top level in Europe'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/buurman-post-ol-lyonnes-0-0-chelsea-women-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790815950/video/2026/09/30/16x9_Buurman_post-OL_Lyonnes_0-0_Chelsea_Women_League_Stage_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7zRAd8JlbZfZS9AsEaA6up</id>
-    <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Confirmed Chelsea Women line up vs Lyon</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-lyon"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790786785/editorial/women%27s-team/2026/Sept/Lyon%20%28a%29/CFCW_Lyon_Shirts_pic.jpg"/>
-    <id>tag:chelseafc.com,2026:news:34KHhTyYaXZBfFk7Rf4MC1</id>
-    <published>2026-09-30T16:46:25Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Internationals: Kavuma-McQueen nets winner</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-young-england-stars-triumph-chelsea-academy"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790778520/editorial/news/2026/09/30/kavuma-mcqueen-england.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3kjph86YSIwzrXyba2XFSa</id>
-    <published>2026-09-30T00:00:00Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
-    <summary>Article / Academy / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Ultimate Goal of the Season: Group D results</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ultimate-goal-of-the-season-group-d-results"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1735032384/editorial/news/2024/12/24/caicedo-goal-bournemouth-h.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7t5y3Zd5M8XWSQRKLYjbNT</id>
-    <published>2024-12-24T00:00:00Z</published>
-    <updated>2026-10-01T07:46:24Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
