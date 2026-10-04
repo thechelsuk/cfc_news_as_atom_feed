@@ -4,24 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-04T18:14:17Z</updated>
+  <updated>2026-10-04T21:31:24Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Internationals: Hato gets minutes in Netherlands win</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-hato-gets-minutes-in-netherlands-win"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791146898/editorial/news/2026/10/04/hato-netherlands-2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6Sk4M6pmRvmH5twRkxLLpr</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T21:31:24Z</updated>
+    <summary>Article / Internationals / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>WSL Highlights: West Ham Women 0-3 Chelsea Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-highlights-west-ham-women-0-3-chelsea-women-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791132737/video/2026/10/04/HLs_West_Ham_0-3_Chelsea_WSL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:MFWr0bytv2xIrGnSe7h4k</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T21:31:24Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Gallery: Chelsea see off Hammers with resounding win</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-chelsea-see-off-hammers-with-resounding-win"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791132344/editorial/women%27s-team/2026/October/West%20Ham%20%28a%29/HL4_6084_cdo56Lhz_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:brXPPwe8oxclXDQHgfw31</id>
     <published>2026-10-04T16:45:44Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
-    <title>Sonia Bompastor on finding a way to win and praise for Potter </title>
+    <title>Sonia Bompastor on finding a way to win and praise for Potter</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-on-finding-a-way-to-win-and-praise-for-potter"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791130469/editorial/women%27s-team/2026/October/West%20Ham%20%28a%29/GettyImages-2298521450.jpg"/>
     <id>tag:chelseafc.com,2026:news:6IdiuS6StgltasEWS6tXmV</id>
     <published>2026-10-04T16:14:29Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791133910/video/2026/10/04/16x9_Bompastor_post-West_Ham_0-3_Chelsea_WSL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:731o6jQybdre6i8DQMhlAi</id>
     <published>2026-10-04T00:00:00Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791123229/editorial/women%27s-team/2026/October/West%20Ham%20%28a%29/GettyImages-2298532569.jpg"/>
     <id>tag:chelseafc.com,2026:news:56fVu3unU6WZCvHwPjXHql</id>
     <published>2026-10-04T14:13:49Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +66,16 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791133912/video/2026/10/04/16x9_Carpenter_post-West_Ham_0-3_Chelsea_WSL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:29a8y0elQy9Px9GY9Iy0xL</id>
     <published>2026-10-04T00:00:00Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>WSL Full Match: West Ham Women 0-3 Chelsea Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-full-match-west-ham-women-0-3-chelsea-women-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791136920/video/2026/10/04/FULL_West_Ham_0-3_Chelsea_WSL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:67MN2g2xFU6JXbLzJV6GSs</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791115610/editorial/women%27s-team/2026/October/West%20Ham%20%28a%29/HL3_5930_9ljdmyGv_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:1uTSS5G1uZ5rtb1XqtfUXw</id>
     <published>2026-10-04T12:06:50Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790955288/editorial/news/2026/10/02/gullit-vialli-signing-june-1996.jpg"/>
     <id>tag:chelseafc.com,2026:news:3uJgr2CAqm4BaGRrolw1Mr</id>
     <published>2026-10-02T00:00:00Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791109208/editorial/news/2026/10/04/GettyImages-633777502.jpg"/>
     <id>tag:chelseafc.com,2026:news:7DT5VMyPnHaemdHdQjMD6n</id>
     <published>2026-10-04T00:00:00Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791101976/editorial/news/2026/10/04/martinez-argentina-burkina-faso-emiliano.jpg"/>
     <id>tag:chelseafc.com,2026:news:4AuQF8Av4QEJKW9LKaoNwW</id>
     <published>2026-10-04T00:00:00Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
+    <updated>2026-10-04T21:31:24Z</updated>
     <summary>Article / Internationals / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Matchday Unseen | OL Lyonnes 🎥</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/bts-ol-lyonnes-a-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791060277/video/2026/10/03/16x9_MATCHDAY_UNSEEN_OL_Lyonnes_0-0_Chelsea_Women_UWCL_2026-27_v3.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2oQkyFKbnxbLLiJ1huziix</id>
-    <published>2026-10-03T00:00:00Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea loan report: Walsh, Kavuma-McQueen and Harrison shine </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-loan-report-walsh-kavuma-mcqueen-and-harrison-shine"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790942809/editorial/news/2026/10/02/reggie-walsh-wigan.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6JXS14ZWj8JV7HXcHlUnse</id>
-    <published>2026-10-02T00:00:00Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Internationals: Rogers provides gloss on historic England win</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-rogers-provides-gloss-on-historic-england-win"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791050606/editorial/news/2026/10/03/morgan-rogers-england-croatia-september-2026_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6qTn3RAtXNv3yygHkfz8HA</id>
-    <published>2026-10-03T00:00:00Z</published>
-    <updated>2026-10-04T18:14:17Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
