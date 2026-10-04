@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-04T08:42:23Z</updated>
+  <updated>2026-10-04T14:23:08Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Confirmed Chelsea Women line up vs West Ham United</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-west-ham-united"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791115610/editorial/women%27s-team/2026/October/West%20Ham%20%28a%29/HL3_5930_9ljdmyGv_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1uTSS5G1uZ5rtb1XqtfUXw</id>
+    <published>2026-10-04T12:06:50Z</published>
+    <updated>2026-10-04T14:23:08Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>1996/97 remembered - part one: Chelsea’s seismic summer</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/1996-97-remembered-part-one-chelsea-seismic-summer-gullit-vialli"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790955288/editorial/news/2026/10/02/gullit-vialli-signing-june-1996.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3uJgr2CAqm4BaGRrolw1Mr</id>
+    <published>2026-10-02T00:00:00Z</published>
+    <updated>2026-10-04T14:23:08Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Ultimate Goal of the Season: Semi-final results</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ultimate-goal-of-the-season-semi-final-results"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791109208/editorial/news/2026/10/04/GettyImages-633777502.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7DT5VMyPnHaemdHdQjMD6n</id>
+    <published>2026-10-04T00:00:00Z</published>
+    <updated>2026-10-04T14:23:08Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Internationals: Martinez and Barco feature in Argentina rout</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-martinez-and-barco-feature-in-argentina-rout"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791101976/editorial/news/2026/10/04/martinez-argentina-burkina-faso-emiliano.jpg"/>
     <id>tag:chelseafc.com,2026:news:4AuQF8Av4QEJKW9LKaoNwW</id>
     <published>2026-10-04T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
+    <updated>2026-10-04T14:23:08Z</updated>
     <summary>Article / Internationals / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790942809/editorial/news/2026/10/02/reggie-walsh-wigan.jpg"/>
     <id>tag:chelseafc.com,2026:news:6JXS14ZWj8JV7HXcHlUnse</id>
     <published>2026-10-02T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
+    <updated>2026-10-04T14:23:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791050606/editorial/news/2026/10/03/morgan-rogers-england-croatia-september-2026_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:6qTn3RAtXNv3yygHkfz8HA</id>
     <published>2026-10-03T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
+    <updated>2026-10-04T14:23:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791042921/editorial/news/2026/10/03/Estevao-india-friendly-september-2026_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:4YcR2BHzYDIsKbGPN1BA1X</id>
     <published>2026-10-03T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
+    <updated>2026-10-04T14:23:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,8 +75,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790243679/video/2026/09/24/16x9_MORGAN_ROGERS_Ep_12_CFC_UNLOCKED.jpg"/>
     <id>tag:chelseafc.com,2026:news:22LOsnzmWOWkdAwZXMvgi</id>
     <published>2026-09-24T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
+    <updated>2026-10-04T14:23:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Save 20% across Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/starting-this-week-save-20-across-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1783954901/editorial/venue/2026%20venues%20at%20Stamford%20Bridge/2026-27_Megastore_1.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7hFv6a5wH4bC2TSqn4a9vN</id>
+    <published>2026-07-13T15:01:41Z</published>
+    <updated>2026-10-04T14:23:08Z</updated>
+    <summary>Article / On sale / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>King Promise | Spotted at the Bridge 🏟️</title>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790934315/video/2026/10/02/KNIG_PROMISE_V05_-_16x9.jpg"/>
     <id>tag:chelseafc.com,2026:news:3HQ96eggpAEUVOX7bQHt64</id>
     <published>2026-10-02T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
+    <updated>2026-10-04T14:23:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790955034/editorial/news/2026/10/02/hazard-ramires-celebration-2014.jpg"/>
     <id>tag:chelseafc.com,2026:news:5vuYAfFAywuzWeRknIRM2T</id>
     <published>2026-10-02T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
+    <updated>2026-10-04T14:23:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790976595/editorial/news/2026/10/02/lavia-belgium-turkey-september-2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:G9jBMOWnlI5YYTQ5FchWG</id>
     <published>2026-10-02T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
+    <updated>2026-10-04T14:23:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Book Premier League matches with Club Chelsea and meet a legend</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/book-premier-league-matches-with-club-chelsea-and-meet-a-legend"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790939724/editorial/venue/Hospo/Makelele_and_Hasselbaink_vs_Middlesbrough.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1OboryxDyxkGfL3LgeN3Ey</id>
-    <published>2026-10-02T11:15:24Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Key talking points from Sonia Bompastor's pre-West Ham press conference </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/key-talking-points-from-sonia-bompastors-pre-west-ham-press-conference"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790953115/editorial/news/2026/10/02/Bompastor_Sep_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3XxZSDpB0oUqUSGlD5B11R</id>
-    <published>2026-10-02T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Sonia Bompastor and Blues defender nominated for WSL awards </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-and-blues-defender-nominated-for-wsl-awards"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790953832/editorial/news/2026/10/02/GettyImages-2297415287.jpg"/>
-    <id>tag:chelseafc.com,2026:news:16e9C1NIQcIU2MfR5GyHNr</id>
-    <published>2026-10-02T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bompastor considers team selection against West Ham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-considers-team-selection-against-west-ham"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790083993/editorial/news/2026/09/22/bompastor-press-presser-sept-26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5YifSYtALOaVbieaFaxsiJ</id>
-    <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-10-04T08:42:23Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
 </feed>
