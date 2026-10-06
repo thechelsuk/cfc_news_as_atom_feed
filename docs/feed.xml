@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-06T07:59:54Z</updated>
+  <updated>2026-10-06T15:00:06Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Inside the life of Kadeisha Buchanan</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/inside-the-life-of-kadeisha-buchanan"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789738267/editorial/news/2026/09/18/Buchanan_RSO_Aug_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7oMJtLkPeGApXMnsEa47dx</id>
+    <published>2026-09-18T00:00:00Z</published>
+    <updated>2026-10-06T15:00:06Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Bookings now open for Museum &amp; Tours’ new VR adventure: Mission Into the Blue </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bookings-now-open-for-museum-and-tours-new-vr-adventure"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786550550/editorial/venue/Tours%20and%20Museum/VR%20Experience/VR_Experience_RYI_Web_Article_Header.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6epy1FuVftwoecpFq64O9U</id>
+    <published>2026-08-12T16:02:30Z</published>
+    <updated>2026-10-06T15:00:06Z</updated>
+    <summary>Article / Stadium Tours / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chelsea duo nominated for Golden Boy award</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-duo-nominated-for-golden-boy-award"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791283856/editorial/news/2026/10/06/GettyImages-2289698896.jpg"/>
+    <id>tag:chelseafc.com,2026:news:35V1tFilZOjgTLc7AeCrhA</id>
+    <published>2026-10-06T00:00:00Z</published>
+    <updated>2026-10-06T15:00:06Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Eden Hazard special voted Chelsea's Ultimate Goal of the Season</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/eden-hazard-special-voted-chelseas-ultimate-goal-of-the-season"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791215868/editorial/news/2026/10/05/hazard-2017-arsenal-celebration.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2VLKaewLLZwYQvdxUfGkho</id>
+    <published>2026-10-05T00:00:00Z</published>
+    <updated>2026-10-06T15:00:06Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Lavia claims assist but Belgium beaten by Lacroix's France</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lavia-claims-assist-but-belgium-beaten-by-lacroixs-france"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791235367/editorial/news/2026/09/05/Maxence_Lacroix_Chelsea_France.jpg"/>
     <id>tag:chelseafc.com,2026:news:CKczAti5sRIS0Gh7DPnbW</id>
     <published>2026-09-05T00:00:00Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
+    <updated>2026-10-06T15:00:06Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791214086/editorial/news/2026/10/05/GettyImages-2280118102.jpg"/>
     <id>tag:chelseafc.com,2026:news:4tAeOjehNtnU3DFOAMV0ca</id>
     <published>2026-10-05T00:00:00Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
+    <updated>2026-10-06T15:00:06Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791122841/editorial/women%27s-team/2026/October/West%20Ham%20%28a%29/HL4_4657_glLkZ06W_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:NErGAAchSpSmYTWKkhFDf</id>
     <published>2026-10-04T14:07:21Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
+    <updated>2026-10-06T15:00:06Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790948189/CL2_3478-3345426_3kEi8Np5_fotpg0.jpg"/>
     <id>tag:chelseafc.com,2026:news:1hNVT2Zsv9z0bzz4ijVKxD</id>
     <published>2026-10-02T13:36:29Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
+    <updated>2026-10-06T15:00:06Z</updated>
     <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791202619/editorial/news/2026/10/05/hazard-arsenal-2017-goal.jpg"/>
     <id>tag:chelseafc.com,2026:news:30BqR8Oa6lps0IMtfZLAW3</id>
     <published>2026-10-05T00:00:00Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
+    <updated>2026-10-06T15:00:06Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791215301/video/2026/10/05/Chelsea_vs_Arsenal_2014.png"/>
     <id>tag:chelseafc.com,2026:news:RIT2MDxCVHpXyvNsSjVD5</id>
     <published>2026-10-05T00:00:00Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
+    <updated>2026-10-06T15:00:06Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791199488/GettyImages-2240428426_2_jeypg4.jpg"/>
     <id>tag:chelseafc.com,2026:news:4JyNQc6tUCrHrTrc7Pzola</id>
     <published>2026-10-05T11:24:48Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
+    <updated>2026-10-06T15:00:06Z</updated>
     <summary>Article / Legends / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791195017/editorial/women%27s-team/2026/October/West%20Ham%20%28a%29/HL4_4225_3V3Lbqiz_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:4o74xtZND80kkgxma0pbY7</id>
     <published>2026-10-05T10:10:17Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
+    <updated>2026-10-06T15:00:06Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Diary: Premier League return takes centre stage</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-diary-premier-league-return-takes-centre-stage"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791196053/editorial/news/2026/10/05/CL2_1900-3376619_Ahahg9sy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1pwdReps2gunWAodDK6z4L</id>
-    <published>2026-10-05T00:00:00Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Midfielder voted as your Star of the Match against West Ham!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/midfielder-voted-as-your-star-of-the-match-against-west-ham"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791132336/editorial/women%27s-team/2026/October/West%20Ham%20%28a%29/GettyImages-2298539257.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1HwANFWxh4a93QeJxVnkRD</id>
-    <published>2026-10-04T16:45:36Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Ticket forwarding open for Bournemouth match</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ticket-forwarding-open-for-bournemouth-match"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg"/>
-    <id>tag:chelseafc.com,2026:news:AdikknlxUPjlna9bjWCeX</id>
-    <published>2025-10-27T15:51:21Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Internationals: Hato gets minutes in Netherlands win</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-hato-gets-minutes-in-netherlands-win"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791146898/editorial/news/2026/10/04/hato-netherlands-2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6Sk4M6pmRvmH5twRkxLLpr</id>
-    <published>2026-10-04T00:00:00Z</published>
-    <updated>2026-10-06T07:59:54Z</updated>
-    <summary>Article / Internationals / date-source:path-date</summary>
   </entry>
 </feed>
