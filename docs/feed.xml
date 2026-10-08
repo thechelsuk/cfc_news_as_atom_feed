@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-08T01:16:10Z</updated>
+  <updated>2026-10-08T07:29:15Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Pedro’s best goals and Chelsea highlights</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pedros-best-goals-and-chelsea-highlights"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1755614457/editorial/news/2025/08/19/pedro-chelsea-celebration-2015.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6q6CiN9VLfTW9CCFGd6s7j</id>
+    <published>2025-08-19T00:00:00Z</published>
+    <updated>2026-10-08T07:29:15Z</updated>
+    <summary>Article / History / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Classic Match: Chelsea 2-0 Bournemouth</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-classic-match-chelsea-2-0-bournemouth-premier-league-2018-19"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791382761/video/2026/10/07/chelsea_vs_bournemouth.png"/>
     <id>tag:chelseafc.com,2026:news:7bgQq3Ygm7EelHmUPWFvpZ</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791381357/editorial/news/2026/10/07/Colwill_DAZ_4039.jpg"/>
     <id>tag:chelseafc.com,2026:news:6CGXxGciMRYZMiZn8tEeax</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791371976/video/2026/10/07/GOTM_OPTION_2.png"/>
     <id>tag:chelseafc.com,2026:news:BOv3Mi22LxOvelW5Jysho</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791372122/editorial/news/2026/10/07/GettyImages-2295386252.jpg"/>
     <id>tag:chelseafc.com,2026:news:5MpNzMDQciqcdlpoNmgJAY</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791371152/editorial/news/2026/10/07/06174_CCS2627_WA_I-am-Estevao_Announcement_Artwork_App_Article-Header_1920x1080_V4.jpg"/>
     <id>tag:chelseafc.com,2026:news:4eTYiNROqppfJvJM5LLanP</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791328681/video/2026/10/07/Screenshot_2026-10-07_at_00.17.39.png"/>
     <id>tag:chelseafc.com,2026:news:24FyL2XLliI4FbD3ejHdJ</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790531901/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/DAR_9579.jpg"/>
     <id>tag:chelseafc.com,2026:news:2BBbhxXy4C4t4tr5vDK9Qp</id>
     <published>2026-09-27T17:58:21Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791361393/editorial/news/2026/10/07/Lexi_Potter_England_Sep_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:3eqAmNHNEnpgMj2ppFZ3Wj</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791363441/editorial/news/2026/10/07/GettyImages-2298967458.jpg"/>
     <id>tag:chelseafc.com,2026:news:72opSgKXBWZ6Al9Ea34kAT</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1542195263/editorial/blogs-and-columns/2017-18/Oscar_GettyImages-611398314.jpg"/>
     <id>tag:chelseafc.com,2026:news:1CP72W7NQUVYIOnbHfoYen</id>
     <published>2018-11-14T11:34:23Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Article / Legends / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
     <id>tag:chelseafc.com,2026:news:6UfHOJ5qBdAcBnZ7ID1Ype</id>
     <published>2022-01-20T14:45:09Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
+    <updated>2026-10-08T07:29:15Z</updated>
     <summary>Article / Travel news / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Women's Super League ticket news: Charlton away</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/womens-super-league-ticket-news-charlton-away"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788781115/editorial/news/2026/09/07/The_Valley_Charlton.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3YrvosH7qnKefUqi7Wu5e0</id>
-    <published>2026-09-07T00:00:00Z</published>
-    <updated>2026-10-08T01:16:10Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
 </feed>
