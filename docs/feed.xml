@@ -4,16 +4,70 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-09T13:36:54Z</updated>
+  <updated>2026-10-09T18:58:27Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Alonso on Acheampong's 'step forward' and Estevao's importance</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-acheampongs-step-forward-and-estevaos-importance"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3ELTasMtHImo6jpOrrFRZA</id>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-10-09T18:58:27Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>London's Finest vs The Cherries 🍒</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/londons-finest-vs-the-cherries-h-epl-2026-27-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791564115/video/2026/10/09/Screenshot_2026-10-09_at_17.41.29.png"/>
+    <id>tag:chelseafc.com,2026:news:EMuLVJTUVRhuA6U7ZwZGn</id>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-10-09T18:58:27Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>FPL 2026/27: Chelsea Gameweek six</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/fpl-2026-27-chelsea-gameweek-six"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791539681/GettyImages-2296030908_klv1mv.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7nPkAOI7VUXjxYdiHEi6tm</id>
+    <published>2026-10-09T09:54:41Z</published>
+    <updated>2026-10-09T18:58:27Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Training gallery: Final preparations for Bournemouth</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-final-preparations-for-bournemouth"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791561785/DAR_3924_1_ctysbr.jpg"/>
+    <id>tag:chelseafc.com,2026:news:YtRbVFVjOxH5eEQAUr4FQ</id>
+    <published>2026-10-09T16:03:05Z</published>
+    <updated>2026-10-09T18:58:27Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Alonso ready for ‘intense’ and ‘demanding’ Bournemouth challenge</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-ready-for-intense-and-demanding-bournemouth-challenge"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791556274/editorial/news/2026/10/09/DSC_8497.jpg"/>
+    <id>tag:chelseafc.com,2026:news:71EYmMVXCnM0IcBsxDV2fB</id>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-10-09T18:58:27Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Xabi Alonso confirms Chelsea team news for Bournemouth</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-confirms-chelsea-team-news-for-bournemouth"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791546523/editorial/news/2026/10/09/Xabi_Alonso_Chelsea_press_conference_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:4HjyCauWsSpqmn1PGlNuvh</id>
     <published>2026-10-09T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
+    <updated>2026-10-09T18:58:27Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Premier League ticket news: Leeds at home</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-ticket-news-leeds-at-home-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788992093/editorial/match-reports/2026-27/Leeds%20%28H%29%20-%20Carabao%20Cup/GettyImages-2294388983.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6MurerTDnoobwE5CZfnsbu</id>
+    <published>2026-09-09T22:14:53Z</published>
+    <updated>2026-10-09T18:58:27Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>Alonso Press Conference 🎙️</title>
@@ -21,8 +75,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791552169/video/2026/10/09/16x9_Alonso_pre-Bournemouth_h__EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:7p1mQ2B0E5zSZnbzHFDzbS</id>
     <published>2026-10-09T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
+    <updated>2026-10-09T18:58:27Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Sport’s global leaders converge on Chelsea FC</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sports-global-leaders-converge-on-chelsea-fc"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791549978/editorial/venue/events/Leaders/Leaders_Week_2026_-_networking.jpg"/>
+    <id>tag:chelseafc.com,2026:news:dEu8rXMHuwqGEWCaay1xR</id>
+    <published>2026-10-09T12:46:18Z</published>
+    <updated>2026-10-09T18:58:27Z</updated>
+    <summary>Article / Special Event / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>Chelsea Under-18s vs Manchester United: How to watch it live</title>
@@ -30,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791277121/U18-celebrate-vs-bournemouth.jpg"/>
     <id>tag:chelseafc.com,2026:news:6vGlC6hcVPPUuVZ7hP0qMI</id>
     <published>2026-10-06T08:58:41Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
+    <updated>2026-10-09T18:58:27Z</updated>
     <summary>Article / U18s / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791539527/editorial/news/2026/10/09/malundama-contract-1.jpg"/>
     <id>tag:chelseafc.com,2026:news:23116eV7dnQ7mt87fdqKgB</id>
     <published>2026-10-09T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
+    <updated>2026-10-09T18:58:27Z</updated>
     <summary>Article / Academy / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,70 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791536081/editorial/news/2026/10/09/cover_website_bournemouth_oct_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:L7BiLZNETWmLwpKN9opPO</id>
     <published>2026-10-09T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea vs Bournemouth: Key statistics and facts</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-bournemouth-key-statistics-and-facts"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791470834/editorial/news/2026/10/08/GettyImages-2295294805.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1mGv41BaAXk5Jq3ZSs31PX</id>
-    <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bournemouth game travel warning - Fulham Broadway closed; District Line disruption</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bournemouth-game-travel-warning-fulham-broadway-closed-district-line"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6UfHOJ5qBdAcBnZ7ID1Ype</id>
-    <published>2022-01-20T14:45:09Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
-    <summary>Article / Travel news / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Official Supporters Clubs in Ghana come together for a special King Promise event</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/supporters-clubs-in-ghana-come-together-for-a-special-king-promise-event"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791469010/editorial/supporter%20liaison/Supporters%20Clubs/King_Promise_-_Supporters_Clubs.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3VAPlX1YuGscJ8MUH6Ef3S</id>
-    <published>2026-10-08T14:16:50Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
-    <summary>Article / Fans / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: Blues reunited at Cobham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-blues-reunited-at-cobham"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791468556/editorial/news/2026/10/08/Estevao_DTW_3515.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7wDP09nwZxlMlRBjg9PXKr</id>
-    <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea vs Bournemouth preview: TV channel, kick-off time and how to watch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-bournemouth-preview-tv-channel-kick-off-time-and-how-to-watch"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791456605/editorial/news/2026/10/08/cole-palmer-kluivert-bournemouth-2025.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4eFAwmLF3FesqSFSxl6gFY</id>
-    <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Analysis: How Bompastor's resilient Blues are working for each other</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/analysis-how-bompastors-resilient-blues-are-working-for-each-other"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791464752/editorial/news/2026/10/08/CFCW_Arsenal_Sep_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3aA7waPqN5uZOzFAg5ufFv</id>
-    <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Pep Chavarria: It’s been an incredible start</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pep-chavarria-its-been-an-incredible-start"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791466135/editorial/news/2026/10/08/GettyImages-2291885086.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3EQ28EFX2aGayIkenKGo9g</id>
-    <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T13:36:54Z</updated>
+    <updated>2026-10-09T18:58:27Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
