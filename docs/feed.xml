@@ -4,16 +4,79 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-09T06:27:16Z</updated>
+  <updated>2026-10-09T13:36:54Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Xabi Alonso confirms Chelsea team news for Bournemouth</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-confirms-chelsea-team-news-for-bournemouth"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791546523/editorial/news/2026/10/09/Xabi_Alonso_Chelsea_press_conference_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4HjyCauWsSpqmn1PGlNuvh</id>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-10-09T13:36:54Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Alonso Press Conference 🎙️</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/alonso-press-conference-09-10-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791552169/video/2026/10/09/16x9_Alonso_pre-Bournemouth_h__EPL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7p1mQ2B0E5zSZnbzHFDzbS</id>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-10-09T13:36:54Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Under-18s vs Manchester United: How to watch it live</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-under-18s-vs-manchester-united-how-to-watch-it-live"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791277121/U18-celebrate-vs-bournemouth.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6vGlC6hcVPPUuVZ7hP0qMI</id>
+    <published>2026-10-06T08:58:41Z</published>
+    <updated>2026-10-09T13:36:54Z</updated>
+    <summary>Article / U18s / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Jayden Malundama signs professional contract</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/jayden-malundama-signs-professional-contract"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791539527/editorial/news/2026/10/09/malundama-contract-1.jpg"/>
+    <id>tag:chelseafc.com,2026:news:23116eV7dnQ7mt87fdqKgB</id>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-10-09T13:36:54Z</updated>
+    <summary>Article / Academy / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Levi Colwill on his ‘new chapter’ and how the tough times help</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/levi-colwill-on-his-new-chapter-and-how-the-tough-times-help"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791536081/editorial/news/2026/10/09/cover_website_bournemouth_oct_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:L7BiLZNETWmLwpKN9opPO</id>
+    <published>2026-10-09T00:00:00Z</published>
+    <updated>2026-10-09T13:36:54Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Chelsea vs Bournemouth: Key statistics and facts</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-bournemouth-key-statistics-and-facts"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791470834/editorial/news/2026/10/08/GettyImages-2295294805.jpg"/>
     <id>tag:chelseafc.com,2026:news:1mGv41BaAXk5Jq3ZSs31PX</id>
     <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
+    <updated>2026-10-09T13:36:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Bournemouth game travel warning - Fulham Broadway closed; District Line disruption</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bournemouth-game-travel-warning-fulham-broadway-closed-district-line"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6UfHOJ5qBdAcBnZ7ID1Ype</id>
+    <published>2022-01-20T14:45:09Z</published>
+    <updated>2026-10-09T13:36:54Z</updated>
+    <summary>Article / Travel news / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Official Supporters Clubs in Ghana come together for a special King Promise event</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/supporters-clubs-in-ghana-come-together-for-a-special-king-promise-event"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791469010/editorial/supporter%20liaison/Supporters%20Clubs/King_Promise_-_Supporters_Clubs.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3VAPlX1YuGscJ8MUH6Ef3S</id>
+    <published>2026-10-08T14:16:50Z</published>
+    <updated>2026-10-09T13:36:54Z</updated>
+    <summary>Article / Fans / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>Training gallery: Blues reunited at Cobham</title>
@@ -21,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791468556/editorial/news/2026/10/08/Estevao_DTW_3515.jpg"/>
     <id>tag:chelseafc.com,2026:news:7wDP09nwZxlMlRBjg9PXKr</id>
     <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
+    <updated>2026-10-09T13:36:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791456605/editorial/news/2026/10/08/cole-palmer-kluivert-bournemouth-2025.jpg"/>
     <id>tag:chelseafc.com,2026:news:4eFAwmLF3FesqSFSxl6gFY</id>
     <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
+    <updated>2026-10-09T13:36:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791464752/editorial/news/2026/10/08/CFCW_Arsenal_Sep_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:3aA7waPqN5uZOzFAg5ufFv</id>
     <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
+    <updated>2026-10-09T13:36:54Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,70 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791466135/editorial/news/2026/10/08/GettyImages-2291885086.jpg"/>
     <id>tag:chelseafc.com,2026:news:3EQ28EFX2aGayIkenKGo9g</id>
     <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
+    <updated>2026-10-09T13:36:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Goal of the Month winner for September revealed!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-goal-of-the-month-winner-for-september-revealed"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791462991/editorial/news/2026/10/08/GettyImages-2293818416.jpg"/>
-    <id>tag:chelseafc.com,2026:news:61MEwG0zZgwdS53nnIiJ7p</id>
-    <published>2026-10-08T00:00:00Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Game On: Your chance to win Chelsea prizes</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/game-on-your-chance-to-win-chelsea-prizes"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1787149992/editorial/Competitions/Play_Predictor_2026_article_header.png"/>
-    <id>tag:chelseafc.com,2026:news:44j9KRhcr3C1nQpq8HiPel</id>
-    <published>2026-08-19T14:33:12Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
-    <summary>Article / App news / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Lucy Bronze withdraws from England camp with minor injury</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lucy-bronze-withdraws-from-england-camp-with-minor-injury"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1750687939/editorial/news/2025/06/23/Lucy_Bronze_England_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4t5tUh5MC9syHG5RDFSpyp</id>
-    <published>2025-06-23T00:00:00Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Hazard added to Chelsea FC Legends squad vs Tottenham as tickets go on general sale</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/hazard-added-to-chelsea-fc-legends-squad-vs-tottenham-ticket-general-sale"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791448632/editorial/Foundation/Legends%20game/Legends_Match_2027_Player-Announcement_Hazard.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3JFaALpXi2UKUn52KHnfDq</id>
-    <published>2026-10-08T08:37:12Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
-    <summary>Article / Legends / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Chelsea FC announces new global partnership with GAC  </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-fc-announces-new-global-partnership-with-gac"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791447908/editorial/partnerships/GAC/GAC-PARTNERSHIP-ANNOUNCEMENT_AUTOMOTIVE-PARTNER_V1_2880_x_1620.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4ViX2ZRxvvz9lZo8KI41Qe</id>
-    <published>2026-10-08T08:25:08Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>The Pride of London Collection: Inspired by our fans</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/the-pride-of-london-collection-inspired-by-our-fans"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791300982/editorial/kit%20launches%202026-27/Pride%20of%20London%20Collection/Pride_of_London_Collection_3_-_header_clean.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5ZV8VjomZqc6YK1UuD5El6</id>
-    <published>2026-10-06T15:36:22Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
-    <summary>Article / On sale / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Ellie Carpenter wins 2026 Australian PFA Women's Footballer of the Year</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ellie-carpenter-wins-2026-australian-pfa-womens-footballer-of-the-year"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791385906/editorial/news/2026/10/07/carpenter-chelsea-2627.jpg"/>
-    <id>tag:chelseafc.com,2026:news:0CyUDd4AWIypdjM89aCeN</id>
-    <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-09T06:27:16Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
 </feed>
