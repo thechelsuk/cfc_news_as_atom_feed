@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-10T18:52:58Z</updated>
+  <updated>2026-10-10T22:05:37Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Baltimore and Malard make mark in dominant France win</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/baltimore-and-malard-make-mark-in-dominant-france-win"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg"/>
+    <id>tag:chelseafc.com,2026:news:DyyWRhSvHDdGKJ9HuKEAy</id>
+    <published>2026-10-10T00:00:00Z</published>
+    <updated>2026-10-10T22:05:37Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Match gallery: Blues rack up the goals against Bournemouth</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-gallery-blues-rack-up-the-goals-against-bournemouth"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7CgoCT2EcDQmIWDkrykcI2</id>
+    <published>2026-10-10T20:09:35Z</published>
+    <updated>2026-10-10T22:05:37Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Henderson on his dream home debut and free-kick inspiration</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/henderson-on-his-dream-home-debut-and-free-kick-inspiration"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg"/>
     <id>tag:chelseafc.com,2026:news:3ZETEu0YGnVAKFKQliaFkM</id>
     <published>2026-10-10T18:31:15Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791654214/video/2026/10/10/HIGHLIGHTS-bournemouth.png"/>
     <id>tag:chelseafc.com,2026:news:2zUonyAKYmHP6iZxNdmKPt</id>
     <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg"/>
     <id>tag:chelseafc.com,2026:news:4l465T9bLi2HyNSBOoYqIS</id>
     <published>2026-10-10T18:03:08Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg"/>
     <id>tag:chelseafc.com,2026:news:3u3aQxcDp6LVYb0IjFTgB5</id>
     <published>2026-10-10T16:56:07Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791656059/video/2026/10/10/REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:1iWntHoFT0stkdNWKk4SNp</id>
     <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791655623/video/2026/10/10/REACTIONS-bournemouth.png"/>
     <id>tag:chelseafc.com,2026:news:6cctIdLaUxhHt8cnraACPI</id>
     <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg"/>
     <id>tag:chelseafc.com,2026:news:5ZXSgkSMUo0ABjiWnnIi5h</id>
     <published>2026-10-10T15:41:41Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg"/>
     <id>tag:chelseafc.com,2026:news:P3Barou6YFYP9afKTqcqv</id>
     <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg"/>
     <id>tag:chelseafc.com,2026:news:6ViuCkA5k5tur0GBLEp4HG</id>
     <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791639750/editorial/news/2026/10/10/CL2_4415-3387488_NOakcHbx.jpg"/>
     <id>tag:chelseafc.com,2026:news:72ZfanrEsGSP0CIcKfhijb</id>
     <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
+    <updated>2026-10-10T22:05:37Z</updated>
     <summary>Article / U18s / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Cole Palmer signs new Chelsea contract!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cole-palmer-signs-new-chelsea-contract-2034"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg"/>
-    <id>tag:chelseafc.com,2026:news:ntKrwesjWcGkswLaon8Gq</id>
-    <published>2026-10-10T08:23:13Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Cole Palmer | Exclusive Interview 🎙️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/cole-palmer-or-exclusive-interview-16x9"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791625910/video/2026/10/10/CP_CONTRACT_IV_1.1.jpg"/>
-    <id>tag:chelseafc.com,2026:news:54QJVojoR9ZPbSPpGksSvm</id>
-    <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-10T18:52:58Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
