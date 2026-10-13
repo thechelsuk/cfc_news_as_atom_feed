@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-13T03:46:15Z</updated>
+  <updated>2026-10-13T11:10:15Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Inside the life of Wieke Kaptein</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/inside-the-life-of-wieke-kaptein"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791285381/editorial/news/2026/10/06/Kaptein_Sep_26_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6Mu0C6jJAZdX0GkTK2arTx</id>
+    <published>2026-10-06T00:00:00Z</published>
+    <updated>2026-10-13T11:10:15Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Morgan Rogers on starting fast and which Chelsea player is a 'machine'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/morgan-rogers-on-starting-fast-and-which-chelsea-player-is-a-machine"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791819191/editorial/news/2026/10/12/GettyImages-2299540086.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1BTMLP3XGmcZyZGPwbqz9l</id>
+    <published>2026-10-12T00:00:00Z</published>
+    <updated>2026-10-13T11:10:15Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Azpilicueta added to Chelsea Foundation Gala Dinner at Mansion House</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/azpilicueta-chelsea-foundation-gala-dinner-at-mansion-house"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788348251/editorial/Foundation/Foundation_gala_dinner_header.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1Bf7GXkTu2hXpuXNTmsbMe</id>
+    <published>2026-09-02T11:24:11Z</published>
+    <updated>2026-10-13T11:10:15Z</updated>
+    <summary>Article / Foundation / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Joao Pedro on benefits of the break, bonds and ‘brilliant’ Jordan Henderson</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/joao-pedro-on-benefits-of-the-break-bonds-and-brilliant-jordan-henderson"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791813059/editorial/news/2026/10/12/GettyImages-2299545698.jpg"/>
     <id>tag:chelseafc.com,2026:news:1EbuopNkPIoXeGHH5gjBiG</id>
     <published>2026-10-12T00:00:00Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791809273/editorial/news/2026/10/12/GettyImages-2299670185.jpg"/>
     <id>tag:chelseafc.com,2026:news:7L9DbFzKxuqJrTWG2tasUZ</id>
     <published>2026-10-12T00:00:00Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791808159/editorial/news/2026/10/12/chelsea-huddle-stamford-bridge-october-2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:4poWrZOrl2VQFoifnZ1KEc</id>
     <published>2026-10-12T00:00:00Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791810396/editorial/Academy/Under-21/TD1_3914_0YbyMxAQ_nRbwFV6j.jpg"/>
     <id>tag:chelseafc.com,2026:news:5MOyeN6VNQ2ErNRu46QrEo</id>
     <published>2026-10-12T13:06:36Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790848952/editorial/historical/Black%20history/tunnel_-_walk_out_-_May_2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:1mokwnylf7Lua1LFQzJsz0</id>
     <published>2026-10-01T10:02:32Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Article / History / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791798027/editorial/news/2026/10/12/caicedo-bournemouth-h-2.jpg"/>
     <id>tag:chelseafc.com,2026:news:7aJywzdFVgfgmC7EVNUdiH</id>
     <published>2026-10-12T00:00:00Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791299595/editorial/Stamford%20Bridge%20general%20shots/Matthew_Harding_Lower_turnstiles.jpg"/>
     <id>tag:chelseafc.com,2026:news:6dzbF70lSn5vMwFo4HuuWR</id>
     <published>2026-10-06T15:13:15Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791639418/editorial/news/2026/10/10/Andrew_Pennie_Chelsea_under-18s.jpg"/>
     <id>tag:chelseafc.com,2026:news:30lB9H5ZFcKRVfT6usBLMQ</id>
     <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Article / U18s / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791809140/video/2026/10/12/261011_BOURNEMOUTH_PALMER_FOCUS_16X9.jpg"/>
     <id>tag:chelseafc.com,2026:news:7LbFQ0DwOK7UOUoLfAH8jF</id>
     <published>2026-10-12T00:00:00Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
+    <updated>2026-10-13T11:10:15Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>What a performance, Jordan! </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/jordan-henderson-potm-bournemouth-16x9"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791809288/video/2026/10/12/GettyImages-2299541410.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5184Yq8su2kyj3vmHB30KL</id>
-    <published>2026-10-12T00:00:00Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Analysis: Chelsea's fast starts and clinical finishing</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/analysis-chelseas-fast-starts-and-clinical-finishing"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791754229/editorial/news/2026/10/11/GettyImages-2299530153.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6MRjBU6WmjKcP3kmQeL30M</id>
-    <published>2026-10-11T00:00:00Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Di Matteo personalised print on offer</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/di-matteo-personalised-print-on-offer"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1520000339/editorial/news/2018/2/di-matteo-79024985.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4y08h8rfgrGb3ntvuOLcOe</id>
-    <published>2018-03-02T14:18:59Z</published>
-    <updated>2026-10-13T03:46:15Z</updated>
-    <summary>Article / On sale / date-source:cloudinary-version</summary>
   </entry>
 </feed>
