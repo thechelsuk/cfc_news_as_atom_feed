@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-14T06:36:20Z</updated>
+  <updated>2026-10-14T12:19:33Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Lexi Potter: My journey to Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lexi-potter-my-journey-to-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1772552952/editorial/news/2026/03/03/Potter_Man_City_Jan_26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3fYSYHqOCZpIPicjOaZY4P</id>
+    <published>2026-03-03T00:00:00Z</published>
+    <updated>2026-10-14T12:19:33Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea’s 10 oldest Premier League scorers</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/antiques-collection-chelseas-10-oldest-premier-league-scorers"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791969804/editorial/news/2026/10/14/henderson-bournemouth-shot.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2vdx7ZOdvePO6cH5hqIwPG</id>
+    <published>2026-10-14T00:00:00Z</published>
+    <updated>2026-10-14T12:19:33Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>OTD: John Terry goes in goal!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/otd-john-terry-goes-in-goal"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1760432268/editorial/news/2025/10/14/john-terry-reading-a.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2YgEfaqfhhZFgHTttU9QTP</id>
+    <published>2025-10-14T00:00:00Z</published>
+    <updated>2026-10-14T12:19:33Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Moises Caicedo interview: I want to keep improving at ‘my home’ Chelsea</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/moises-caicedo-interview-i-want-to-keep-improving-at-my-home-chelsea"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791895448/editorial/news/2026/10/13/moises-caicedo-walkout-2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:5YdfMTzAEJhzH5K9n7O5J3</id>
     <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
+    <updated>2026-10-14T12:19:33Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,8 +48,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791923943/editorial/news/2026/10/13/lexi-potter-walsh-england.jpg"/>
     <id>tag:chelseafc.com,2026:news:4xDId6AjUPWhXPJziEnspx</id>
     <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
+    <updated>2026-10-14T12:19:33Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>I Am Estevao – Coming soon!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/i-am-estevao-coming-soon"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791371152/editorial/news/2026/10/07/06174_CCS2627_WA_I-am-Estevao_Announcement_Artwork_App_Article-Header_1920x1080_V4.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4eTYiNROqppfJvJM5LLanP</id>
+    <published>2026-10-07T00:00:00Z</published>
+    <updated>2026-10-14T12:19:33Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>EFL Trophy Highlights: Reading 0-2 Cobham Next Gen</title>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791924097/video/2026/10/13/HIGHLIGHTS_CNG_REA.jpg"/>
     <id>tag:chelseafc.com,2026:news:3NjViufxrbbjXbidoAEKPA</id>
     <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
+    <updated>2026-10-14T12:19:33Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791918276/editorial/Academy/CNG%20vs%20Reading/CL1_8875-3420515_tdX7aGtA.jpg"/>
     <id>tag:chelseafc.com,2026:news:74CjbN37sYChH83LMkoHup</id>
     <published>2026-10-13T19:04:36Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
+    <updated>2026-10-14T12:19:33Z</updated>
     <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791912135/DAR_7866_1_ehqxyp.jpg"/>
     <id>tag:chelseafc.com,2026:news:3yF6POKwYG1Z1BN39guJHx</id>
     <published>2026-10-13T17:22:15Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
+    <updated>2026-10-14T12:19:33Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791901433/editorial/Academy/IMPORTED-CL2_3827-3420120_gMnoNyoz.jpg"/>
     <id>tag:chelseafc.com,2026:news:L4ZflbocFBPRfL492RhYy</id>
     <published>2026-10-13T14:23:53Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
+    <updated>2026-10-14T12:19:33Z</updated>
     <summary>Article / U18s / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791881847/editorial/news/2026/10/10/Jordan_Henderson_Chelsea_celebration_vs_Bournemouth.jpg"/>
     <id>tag:chelseafc.com,2026:news:2TkIJAkPygM0WmwG0hyq2H</id>
     <published>2026-10-10T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
+    <updated>2026-10-14T12:19:33Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791285381/editorial/news/2026/10/06/Kaptein_Sep_26_2.jpg"/>
     <id>tag:chelseafc.com,2026:news:6Mu0C6jJAZdX0GkTK2arTx</id>
     <published>2026-10-06T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
+    <updated>2026-10-14T12:19:33Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>EFL Trophy Full Match: Reading vs Cobham Next Gen</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/full-match-reading-0-2-cobham-next-gen-13-10-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791924096/video/2026/10/13/FULL_MATCH_CNG_REA.jpg"/>
-    <id>tag:chelseafc.com,2026:news:50dKwWpjESUxRSGYvuV8u0</id>
-    <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>U18 Highlights: Reading U18 0-3 Chelsea U18</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/u18-highlights-reading-u18-0-3-chelsea-u18-13-10-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791909820/video/2026/10/13/HIGHLIGHTS_U18.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6o73586rVZ6AlxFJzrS6Bg</id>
-    <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Academy Full Match: Reading U18 0-3 Chelsea U18</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/academy-full-match-reading-u18-0-3-chelsea-u18-13-10-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791909819/video/2026/10/13/FULL_MATCH_U18.jpg"/>
-    <id>tag:chelseafc.com,2026:news:K6EaFDqKGrGUlWhwRtnQd</id>
-    <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Morgan Rogers on starting fast and which Chelsea player is a 'machine'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/morgan-rogers-on-starting-fast-and-which-chelsea-player-is-a-machine"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791819191/editorial/news/2026/10/12/GettyImages-2299540086.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1BTMLP3XGmcZyZGPwbqz9l</id>
-    <published>2026-10-12T00:00:00Z</published>
-    <updated>2026-10-14T06:36:20Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
