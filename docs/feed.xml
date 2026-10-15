@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-15T01:43:25Z</updated>
+  <updated>2026-10-15T06:29:16Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
     <title>Training gallery: Building on Bournemouth</title>
@@ -12,7 +12,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791986247/editorial/news/2026/10/14/Lacroix_DTW_7340.jpg"/>
     <id>tag:chelseafc.com,2026:news:41jN16RoueR9hEnE0YBZau</id>
     <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +21,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791977957/editorial/news/2026/10/14/McCabe_Ireland_Oct_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:76sTNUXpr6poBckEcomVwN</id>
     <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791983498/editorial/news/2026/10/14/palestra-lacroix-bournemouth.jpg"/>
     <id>tag:chelseafc.com,2026:news:6IJZuweUxY62HuUxOTpcZr</id>
     <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +39,16 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1781743437/video/2026/06/17/16x9_CLASSIC_Everton_3-6_Chelsea_EPL_2013-14.jpg"/>
     <id>tag:chelseafc.com,2026:news:5gBDsBYzLnVVOhmf7LKKBn</id>
     <published>2026-06-17T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Cole Palmer | All The Goals</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cole-palmer-or-all-the-goals-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791815987/video/2026/10/12/16x9_COLE_PALMER_ALL_THE_GOALS_CFC.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3jaQyajv7Z3xKbtiU1RnZp</id>
+    <published>2026-10-12T00:00:00Z</published>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1772552952/editorial/news/2026/03/03/Potter_Man_City_Jan_26.jpg"/>
     <id>tag:chelseafc.com,2026:news:3fYSYHqOCZpIPicjOaZY4P</id>
     <published>2026-03-03T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791969804/editorial/news/2026/10/14/henderson-bournemouth-shot.jpg"/>
     <id>tag:chelseafc.com,2026:news:2vdx7ZOdvePO6cH5hqIwPG</id>
     <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1760432268/editorial/news/2025/10/14/john-terry-reading-a.jpg"/>
     <id>tag:chelseafc.com,2026:news:2YgEfaqfhhZFgHTttU9QTP</id>
     <published>2025-10-14T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791895448/editorial/news/2026/10/13/moises-caicedo-walkout-2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:5YdfMTzAEJhzH5K9n7O5J3</id>
     <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791923943/editorial/news/2026/10/13/lexi-potter-walsh-england.jpg"/>
     <id>tag:chelseafc.com,2026:news:4xDId6AjUPWhXPJziEnspx</id>
     <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791371152/editorial/news/2026/10/07/06174_CCS2627_WA_I-am-Estevao_Announcement_Artwork_App_Article-Header_1920x1080_V4.jpg"/>
     <id>tag:chelseafc.com,2026:news:4eTYiNROqppfJvJM5LLanP</id>
     <published>2026-10-07T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791924097/video/2026/10/13/HIGHLIGHTS_CNG_REA.jpg"/>
     <id>tag:chelseafc.com,2026:news:3NjViufxrbbjXbidoAEKPA</id>
     <published>2026-10-13T00:00:00Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
+    <updated>2026-10-15T06:29:16Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>EFL Trophy report: Reading 0-2 Cobham Next Gen</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/efl-trophy-report-reading-0-2-cobham-next-gen"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791918276/editorial/Academy/CNG%20vs%20Reading/CL1_8875-3420515_tdX7aGtA.jpg"/>
-    <id>tag:chelseafc.com,2026:news:74CjbN37sYChH83LMkoHup</id>
-    <published>2026-10-13T19:04:36Z</published>
-    <updated>2026-10-15T01:43:25Z</updated>
-    <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
   </entry>
 </feed>
