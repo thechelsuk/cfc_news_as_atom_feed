@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-15T11:57:55Z</updated>
+  <updated>2026-10-15T16:33:44Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Training gallery: Building momentum for Merseyside</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-building-momentum-for-merseyside"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792081052/editorial/news/2026/10/15/DAR_9015.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3bqMcGQSBblD49UhwWu1AF</id>
+    <published>2026-10-15T00:00:00Z</published>
+    <updated>2026-10-15T16:33:44Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Women vs Tottenham: How to watch, kick-off time, live stream info</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-vs-tottenham-how-to-watch-kick-off-time-live-stream-info"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792053095/editorial/news/2026/10/15/GettyImages-2298548629.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4xnVjfZ4sWr2vtPnJlXAht</id>
+    <published>2026-10-15T00:00:00Z</published>
+    <updated>2026-10-15T16:33:44Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Make this October half-term one to remember at Stamford Bridge where kids go half-price</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/make-this-october-half-term-one-to-remember-at-stamford-bridge"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792054576/editorial/venue/Tours%20and%20Museum/Tours_stock_2.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4NXnh1zHlZXbxHBRuuOycO</id>
+    <published>2026-10-15T08:56:16Z</published>
+    <updated>2026-10-15T16:33:44Z</updated>
+    <summary>Article / Stadium Tours / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>I Am Estevao – Out now!</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/i-am-estevao-out-now"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792056563/editorial/news/2026/10/15/estevao-top-image-doc.jpg"/>
     <id>tag:chelseafc.com,2026:news:7m6GmWVPcPnkGtc13K5BcR</id>
     <published>2026-10-15T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
+    <updated>2026-10-15T16:33:44Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,25 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792056298/video/2026/10/15/261014_IAMESTEVAO_FINAL_MASTER.jpg"/>
     <id>tag:chelseafc.com,2026:news:9PSVlkxjeJ6soCXsezuqg</id>
     <published>2026-10-15T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
+    <updated>2026-10-15T16:33:44Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>The ultimate London Derby Bundle now available</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/the-ultimate-london-derby-bundle-now-available"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792073311/editorial/match-reports/2026-27/Arsenal%20away/Joao_Pedro_-_Arsenal_away_-_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5yOLGnXwKYxs3b6BfeR4hW</id>
+    <published>2026-10-15T14:08:31Z</published>
+    <updated>2026-10-15T16:33:44Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Cole Palmer | All The Goals</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cole-palmer-or-all-the-goals-16x9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791815987/video/2026/10/12/16x9_COLE_PALMER_ALL_THE_GOALS_CFC.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3jaQyajv7Z3xKbtiU1RnZp</id>
+    <published>2026-10-12T00:00:00Z</published>
+    <updated>2026-10-15T16:33:44Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791991596/editorial/news/2026/10/14/GettyImages-2299960771.jpg"/>
     <id>tag:chelseafc.com,2026:news:6NQUSIgrXRaLKlIbEo58wS</id>
     <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
+    <updated>2026-10-15T16:33:44Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792056257/editorial/supporter%20liaison/Supporters%20Clubs/Denver_fan_event_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:2RsQfgyAJAXm5kfHsOvQBl</id>
     <published>2026-10-15T09:24:17Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
+    <updated>2026-10-15T16:33:44Z</updated>
     <summary>Article / Fans / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791978928/editorial/news/2026/10/14/GettyImages-2296056800.jpg"/>
     <id>tag:chelseafc.com,2026:news:HhyPribqHJ1vZwzJGdoF5</id>
     <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
+    <updated>2026-10-15T16:33:44Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791980936/editorial/Academy/CL2_8016-3268594_Ib2240gh.jpg"/>
     <id>tag:chelseafc.com,2026:news:HOu0lYTVP2bcZ9ItNLxb0</id>
     <published>2026-10-14T12:28:56Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
+    <updated>2026-10-15T16:33:44Z</updated>
     <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1760519100/editorial/news/2025/10/15/GettyImages-55928605.jpg"/>
     <id>tag:chelseafc.com,2026:news:sZSD5T1J90AIeXgf2rSTz</id>
     <published>2025-10-15T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
+    <updated>2026-10-15T16:33:44Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: Building on Bournemouth</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-building-on-bournemouth"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791986247/editorial/news/2026/10/14/Lacroix_DTW_7340.jpg"/>
-    <id>tag:chelseafc.com,2026:news:41jN16RoueR9hEnE0YBZau</id>
-    <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Katie McCabe on why her move to Chelsea has been a 'breath of fresh air' </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/katie-mccabe-on-why-her-move-to-chelsea-has-been-a-breath-of-fresh-air"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791977957/editorial/news/2026/10/14/McCabe_Ireland_Oct_26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:76sTNUXpr6poBckEcomVwN</id>
-    <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Everton vs Chelsea preview: TV channel, kick-off time and how to watch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/everton-vs-chelsea-preview-tv-channel-kick-off-time-and-how-to-watch-141026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791983498/editorial/news/2026/10/14/palestra-lacroix-bournemouth.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6IJZuweUxY62HuUxOTpcZr</id>
-    <published>2026-10-14T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Classic Match: Everton 3-6 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-full-match-everton-vs-chelsea-or-premier-league-2014-15"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1781743437/video/2026/06/17/16x9_CLASSIC_Everton_3-6_Chelsea_EPL_2013-14.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5gBDsBYzLnVVOhmf7LKKBn</id>
-    <published>2026-06-17T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Cole Palmer | All The Goals</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/cole-palmer-or-all-the-goals-16x9"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1791815987/video/2026/10/12/16x9_COLE_PALMER_ALL_THE_GOALS_CFC.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3jaQyajv7Z3xKbtiU1RnZp</id>
-    <published>2026-10-12T00:00:00Z</published>
-    <updated>2026-10-15T11:57:55Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
