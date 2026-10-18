@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-18T09:47:44Z</updated>
+  <updated>2026-10-18T13:37:02Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Match report: Chelsea Women 6-2 Tottenham</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-women-6-2-tottenham"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792325410/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/GettyImages-2300791863_1.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6k9cgGI5Kwjsgvtqurs9P6</id>
+    <published>2026-10-18T12:10:10Z</published>
+    <updated>2026-10-18T13:37:02Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Confirmed Chelsea Women line up vs Tottenham</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-tottenham-wsl"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792316751/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/CC_51236_1.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1CoFP4oq3ngxuRWKGu1sUo</id>
+    <published>2026-10-18T09:45:51Z</published>
+    <updated>2026-10-18T13:37:02Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Hato on Cobham work paying off with ‘solid’ clean sheet</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/hato-on-cobham-work-paying-off-with-solid-clean-sheet"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792323390/editorial/news/2026/10/18/GettyImages-2300633233.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2suaXJvLaUUAPx3ry5IWz5</id>
+    <published>2026-10-18T00:00:00Z</published>
+    <updated>2026-10-18T13:37:02Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Injury update: Emiliano Martinez</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/injury-update-emiliano-martinez"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792315921/editorial/news/2026/10/18/GettyImages-2300635345.jpg"/>
     <id>tag:chelseafc.com,2026:news:4hjBcEfe4Co41gyHRQEhwo</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792254585/editorial/match-reports/2026-27/Everton%20%28A%29/neto-celeb-everton-a.jpg"/>
     <id>tag:chelseafc.com,2026:news:5LeZDOOEHabbDHDsQJWJWE</id>
     <published>2026-10-17T16:29:45Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792259920/editorial/match-reports/2026-27/Everton%20%28A%29/Pedro_Neto_goal_Chelsea_celebrate.jpg"/>
     <id>tag:chelseafc.com,2026:news:2EzA2uy2vsFQHlVU40u9rG</id>
     <published>2026-10-17T17:58:40Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792256459/video/2026/10/17/FULL_Everton_vs_Chelsea_EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:1qQsHD2MwqREtT8sckpVCk</id>
     <published>2026-10-17T00:00:00Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792256018/video/2026/10/17/EXT_Everton_0-2_Chelsea_EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:1YD3SjazFHq5Et5n3AuuVm</id>
     <published>2026-10-17T00:00:00Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792265431/editorial/match-reports/2026-27/Everton%20%28A%29/Pedro_Neto_celebration_vs_Everton.jpg"/>
     <id>tag:chelseafc.com,2026:news:2ED8Xega7Q0Qn9D3MRJxtW</id>
     <published>2026-10-17T19:30:31Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792249888/video/2026/10/17/2MINS_Everton_0-2_Chelsea_EPL_2026-27_v2.jpg"/>
     <id>tag:chelseafc.com,2026:news:58DRAilPydCRh1SmIaABZ</id>
     <published>2026-10-17T00:00:00Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792252232/video/2026/10/17/16x9_Alonso_post-Everton_0-2_Chelsea_EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:2RSwii3CxXNLYS93NfPIeF</id>
     <published>2026-10-17T00:00:00Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792253162/video/2026/10/17/16x9_Henderson_post-Everton_0-2_Chelsea_EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:4wBTjShN85mhDW9wupVH6y</id>
     <published>2026-10-17T00:00:00Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
+    <updated>2026-10-18T13:37:02Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Match gallery: Impressive Blues end Everton's unbeaten start</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-gallery-impressive-blues-end-evertons-unbeaten-start"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792246732/editorial/match-reports/2026-27/Everton%20%28A%29/Chelsea_applaud_fans_after_Everton.jpg"/>
-    <id>tag:chelseafc.com,2026:news:35F3vK3GSQfSMRZ4wRn0Pd</id>
-    <published>2026-10-17T14:18:52Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Alonso issues Emiliano Martinez update </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-issues-emiliano-martinez-update"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792248327/editorial/match-reports/2026-27/Everton%20%28A%29/martinez-everton-a.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4rf5Yn4bvDBICBtOLTHghK</id>
-    <published>2026-10-17T14:45:27Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso reflects on a ‘serious, solid, very good’ away win</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-reflects-on-a-serious-solid-very-good-away-win"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792247341/editorial/match-reports/2026-27/Everton%20%28A%29/alonso-everton-a.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6XJNheDxLtPOGVQNRokL97</id>
-    <published>2026-10-17T14:29:01Z</published>
-    <updated>2026-10-18T09:47:44Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
