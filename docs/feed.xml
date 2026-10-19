@@ -4,16 +4,61 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-19T06:42:55Z</updated>
+  <updated>2026-10-19T13:59:03Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Gallery: Blues romp to 6-2 win over Tottenham!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-blues-romp-to-6-2-win-over-tottenham"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792399591/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/CC_54608.jpg"/>
+    <id>tag:chelseafc.com,2026:news:01kv5H9rWGmzYzhFVz2V1j</id>
+    <published>2026-10-19T08:46:31Z</published>
+    <updated>2026-10-19T13:59:03Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Forward voted as your Star of the Match against Tottenham!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/forward-voted-as-your-star-of-the-match-against-tottenham"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792398452/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/GettyImages-2300839417.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4EAwXnvIMGoLJ8YfPrNEFg</id>
+    <published>2026-10-19T08:27:32Z</published>
+    <updated>2026-10-19T13:59:03Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Diary: London derbies take centre stage</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-diary-london-derbies-take-centre-stage"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792352029/editorial/news/2026/10/18/GettyImages-2300648927.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3l3AWaa7aJjJatQtvAK91Q</id>
+    <published>2026-10-18T00:00:00Z</published>
+    <updated>2026-10-19T13:59:03Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Henderson: It is a privilege and honour to play in this team</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/henderson-it-is-a-privilege-and-honour-to-play-in-this-team"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792347127/editorial/news/2026/10/18/LS1_5779-3428426_Dr7Eb9B9.jpg"/>
     <id>tag:chelseafc.com,2026:news:18a2jkITMoTRrj7xz4x57S</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
+    <updated>2026-10-19T13:59:03Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>OTD: Zhirkov's stunner silences Spartak! 🤫</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/zhirkovs-stunner-silences-spartak-19-10-2025"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1760752144/video/2025/10/17/16x9_Zhirkov_goal_vs_Spartak_Moscow.jpg"/>
+    <id>tag:chelseafc.com,2026:news:70DHTe37FKzWvxR4ad5AXu</id>
+    <published>2025-10-17T00:00:00Z</published>
+    <updated>2026-10-19T13:59:03Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Tottenham game travel warning - Fulham Broadway closed; District Line disruption</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/tottenham-game-travel-warning-fulham-broadway-closed"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
+    <id>tag:chelseafc.com,2026:news:30uhb1B2QBOiOQzuabvei6</id>
+    <published>2022-01-20T14:45:09Z</published>
+    <updated>2026-10-19T13:59:03Z</updated>
+    <summary>Article / Travel news / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>WSL Highlights: Chelsea Women 6-2 Spurs Women</title>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792332171/video/2026/10/18/HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:4wbA6rijdBoKqiRP6ACAgE</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
+    <updated>2026-10-19T13:59:03Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792332171/video/2026/10/18/FULL_MATCH.png"/>
     <id>tag:chelseafc.com,2026:news:5C45LI0Dh7XTVW9jTts7hU</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
+    <updated>2026-10-19T13:59:03Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792347126/editorial/news/2026/10/18/DAZ_0371-3428847_dnksSihg.jpg"/>
     <id>tag:chelseafc.com,2026:news:7f7nDEmdqK68V0UDyP8Vyf</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
+    <updated>2026-10-19T13:59:03Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792336137/video/2026/10/18/REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:8DmvuvJ5RU1Dhhmmiy1M2</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
+    <updated>2026-10-19T13:59:03Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792338117/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/CC_55873.jpg"/>
     <id>tag:chelseafc.com,2026:news:74ceIQ9g2CFNJM3xh7eSdY</id>
     <published>2026-10-18T15:41:57Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
+    <updated>2026-10-19T13:59:03Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792336137/video/2026/10/18/REACTIONS_1.png"/>
     <id>tag:chelseafc.com,2026:news:3UDq8jBJ6HTOO4FfNdC7f1</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
+    <updated>2026-10-19T13:59:03Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bompastor gives Girma update and praises 'unbelievable' Chelsea fans</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-gives-girma-update-and-praises-unbelievable-chelsea-fans"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792332901/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/CC_62436.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5ejjlyxL65XL5YbKFJuc9I</id>
-    <published>2026-10-18T14:15:01Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Match report: Chelsea Women 6-2 Tottenham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-women-6-2-tottenham"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792325410/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/GettyImages-2300791863_1.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6k9cgGI5Kwjsgvtqurs9P6</id>
-    <published>2026-10-18T12:10:10Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Confirmed Chelsea Women line up vs Tottenham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-tottenham-wsl"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792316751/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/CC_51236_1.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1CoFP4oq3ngxuRWKGu1sUo</id>
-    <published>2026-10-18T09:45:51Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Hato on Cobham work paying off with ‘solid’ clean sheet</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/hato-on-cobham-work-paying-off-with-solid-clean-sheet"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792323390/editorial/news/2026/10/18/GettyImages-2300633233.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2suaXJvLaUUAPx3ry5IWz5</id>
-    <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Injury update: Emiliano Martinez</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/injury-update-emiliano-martinez"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792315921/editorial/news/2026/10/18/GettyImages-2300635345.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4hjBcEfe4Co41gyHRQEhwo</id>
-    <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T06:42:55Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
