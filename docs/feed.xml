@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-19T01:30:46Z</updated>
+  <updated>2026-10-19T06:42:55Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Henderson: It is a privilege and honour to play in this team</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/henderson-it-is-a-privilege-and-honour-to-play-in-this-team"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792347127/editorial/news/2026/10/18/LS1_5779-3428426_Dr7Eb9B9.jpg"/>
+    <id>tag:chelseafc.com,2026:news:18a2jkITMoTRrj7xz4x57S</id>
+    <published>2026-10-18T00:00:00Z</published>
+    <updated>2026-10-19T06:42:55Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>WSL Highlights: Chelsea Women 6-2 Spurs Women</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-highlights-chelsea-women-6-2-spurs-women-2026-27"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792332171/video/2026/10/18/HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:4wbA6rijdBoKqiRP6ACAgE</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792332171/video/2026/10/18/FULL_MATCH.png"/>
     <id>tag:chelseafc.com,2026:news:5C45LI0Dh7XTVW9jTts7hU</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792347126/editorial/news/2026/10/18/DAZ_0371-3428847_dnksSihg.jpg"/>
     <id>tag:chelseafc.com,2026:news:7f7nDEmdqK68V0UDyP8Vyf</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792336137/video/2026/10/18/REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:8DmvuvJ5RU1Dhhmmiy1M2</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792338117/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/CC_55873.jpg"/>
     <id>tag:chelseafc.com,2026:news:74ceIQ9g2CFNJM3xh7eSdY</id>
     <published>2026-10-18T15:41:57Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792336137/video/2026/10/18/REACTIONS_1.png"/>
     <id>tag:chelseafc.com,2026:news:3UDq8jBJ6HTOO4FfNdC7f1</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792332901/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/CC_62436.jpg"/>
     <id>tag:chelseafc.com,2026:news:5ejjlyxL65XL5YbKFJuc9I</id>
     <published>2026-10-18T14:15:01Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792325410/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/GettyImages-2300791863_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:6k9cgGI5Kwjsgvtqurs9P6</id>
     <published>2026-10-18T12:10:10Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792316751/editorial/women%27s-team/2026/October/Tottenham%20%28h%29/CC_51236_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:1CoFP4oq3ngxuRWKGu1sUo</id>
     <published>2026-10-18T09:45:51Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792323390/editorial/news/2026/10/18/GettyImages-2300633233.jpg"/>
     <id>tag:chelseafc.com,2026:news:2suaXJvLaUUAPx3ry5IWz5</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792315921/editorial/news/2026/10/18/GettyImages-2300635345.jpg"/>
     <id>tag:chelseafc.com,2026:news:4hjBcEfe4Co41gyHRQEhwo</id>
     <published>2026-10-18T00:00:00Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
+    <updated>2026-10-19T06:42:55Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso outlines Neto’s ‘great qualities’ and why Blues trio pleased him so much</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-outlines-netos-great-qualities-and-why-blues-trio-pleased-him-so"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792254585/editorial/match-reports/2026-27/Everton%20%28A%29/neto-celeb-everton-a.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5LeZDOOEHabbDHDsQJWJWE</id>
-    <published>2026-10-17T16:29:45Z</published>
-    <updated>2026-10-19T01:30:46Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
