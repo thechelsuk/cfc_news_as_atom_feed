@@ -4,15 +4,42 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-23T17:23:51Z</updated>
+  <updated>2026-10-23T20:32:52Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Chelsea Football Club announces multi-year sleeve partnership with Sokin</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-football-club-announces-multi-year-sleeve-partnership-with-sokin"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792770902/editorial/partnerships/Sokin/Sokin_Sleeve_announcement_header.png"/>
+    <id>tag:chelseafc.com,2026:news:URth3vJoKXirMSKt4MdxY</id>
+    <published>2026-10-23T15:55:02Z</published>
+    <updated>2026-10-23T20:32:52Z</updated>
+    <summary>Article / Partner news / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Look who’s joined us on the sleeve 👀🔵 </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/chelsea-fc-and-sokin-sleeve-announcement"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792778988/video/2026/10/23/Sokin_Sleeve_KV3.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2kYpFXs9FWryObz4QBneCT</id>
+    <published>2026-10-23T00:00:00Z</published>
+    <updated>2026-10-23T20:32:52Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Alonso targeting a ‘complete’ performance to continue good run</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-targeting-a-complete-performance-to-continue-good-run"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792759482/editorial/news/2026/10/23/alonso-training-stock-1.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3j4L468viirDHFIEWH7hMM</id>
+    <published>2026-10-23T00:00:00Z</published>
+    <updated>2026-10-23T20:32:52Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Ticketing update</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ticketing-update"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792754453/editorial/Stamford%20Bridge%20general%20shots/Fans_arriving_outside_Stamford_Bridge_-_August_2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:369X44vB2e1auIy80k1r9h</id>
     <published>2026-10-23T11:20:53Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Article / Tickets / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792770934/editorial/news/2026/10/23/DTW_5161.jpg"/>
     <id>tag:chelseafc.com,2026:news:5mG9SqAFQmNlGjIOMFmHCA</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792762212/editorial/news/2026/10/23/penders-training-22-oct-26.jpg"/>
     <id>tag:chelseafc.com,2026:news:1Acx8nTPuxBif7QyExp92o</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792759481/editorial/news/2026/10/23/alonso-training-october-26.jpg"/>
     <id>tag:chelseafc.com,2026:news:6nYzBdSaddiixrCE8iyvRZ</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1788529315/editorial/Stamford%20Bridge%20general%20shots/East_Stand_view_-_August_2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:4tw8us676Im51tOdcdF5Te</id>
     <published>2026-09-04T13:41:55Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792762567/video/2026/10/23/16x9_Alonso_pre-Tottenham_h__EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:47QHi8YwptQfTYHZikeqhJ</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792673988/editorial/news/2026/10/22/Lexi_Potter.jpg"/>
     <id>tag:chelseafc.com,2026:news:GOpjoaiXWWBazU8TcBFAX</id>
     <published>2026-10-22T00:00:00Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792749852/editorial/Academy/IMG_0112.jpg"/>
     <id>tag:chelseafc.com,2026:news:1estoPh2HXHi5wdvTa5xDT</id>
     <published>2026-10-23T10:04:12Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Article / Academy / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790073514/editorial/partnerships/PIAFF/CFCW_Piaff_launch.png"/>
     <id>tag:chelseafc.com,2026:news:5fGMu0ub80UwtCB5KPC7TN</id>
     <published>2026-09-22T10:38:34Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
+    <updated>2026-10-23T20:32:52Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>FPL 2026/27: Chelsea Gameweek eight</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/fpl-2026-27-chelsea-gameweek-eight"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792753111/GettyImages-2300883644_1_fqjt5y.jpg"/>
-    <id>tag:chelseafc.com,2026:news:ajuXi9E7xxTgAvng8BEk9</id>
-    <published>2026-10-23T10:58:31Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Morgan Rogers on bringing creativity, a ‘different’ front three and ageless Henderson</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/morgan-rogers-on-bringing-creativity-a-different-front-three-and-ageless"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792749571/editorial/news/2026/10/23/rogers-palmer-everton-away-celebration.jpg"/>
-    <id>tag:chelseafc.com,2026:news:36vaoFJ7NfFSy1WpnYWrzx</id>
-    <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Classic Match: Chelsea 2-2 Tottenham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-full-match-chelsea-vs-tottenham-or-premier-league-2015-16"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1781752128/video/2026/06/17/16x9_CLASSIC_Chelsea_2-2_Tottenham_EPL_2015-16.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5WiebquAelM154q1lVn8Fi</id>
-    <published>2026-06-17T00:00:00Z</published>
-    <updated>2026-10-23T17:23:51Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
