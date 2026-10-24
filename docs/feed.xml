@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-24T06:31:56Z</updated>
+  <updated>2026-10-24T11:30:11Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Alonso: We knew Lacroix's impact would be instant</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-we-knew-lacroixs-impact-would-be-instant"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792774430/editorial/news/2026/10/23/GettyImages-2299960327.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1nKv80RUVZcECbGDe4h6S3</id>
+    <published>2026-10-23T00:00:00Z</published>
+    <updated>2026-10-24T11:30:11Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>From Where I Sit: The Harding family 💙</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/from-where-i-sit-the-harding-family-oct-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792762233/video/2026/10/23/261016_HARDING_FROM_WHERE_I_SIT_V5.jpg"/>
+    <id>tag:chelseafc.com,2026:news:HMifCZsvRLYsWeTXw6Mrz</id>
+    <published>2026-10-23T00:00:00Z</published>
+    <updated>2026-10-24T11:30:11Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Alonso on harnessing passion and energy of ‘electric’ derby atmosphere</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-harnessing-passion-and-energy-of-electric-derby-atmosphere"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792767318/editorial/news/2026/10/23/GettyImages-2292208284.jpg"/>
     <id>tag:chelseafc.com,2026:news:5mt8OiWFJVw3Gzl90PfYaq</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
+    <updated>2026-10-24T11:30:11Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,8 +39,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792760270/editorial/news/2026/10/23/GettyImages-2300814222.jpg"/>
     <id>tag:chelseafc.com,2026:news:5My9Fs2qLJVPhfaIfByFS6</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
+    <updated>2026-10-24T11:30:11Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Loan switch for Shaun Wade</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/loan-switch-for-shaun-wade"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792774610/editorial/news/2026/10/23/shaun-wade-chelsea-2627.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5sdvfaMSe9q6zoyAYzgQns</id>
+    <published>2026-10-23T00:00:00Z</published>
+    <updated>2026-10-24T11:30:11Z</updated>
+    <summary>Article / Academy / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Lacroix shares his journey from village life to the bright lights of the Bridge</title>
@@ -30,8 +57,26 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792775438/editorial/news/2026/10/23/cover_website_tottenham_4.jpg"/>
     <id>tag:chelseafc.com,2026:news:5atX9oTrrHYlzUOkAN0B6Z</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
+    <updated>2026-10-24T11:30:11Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Tottenham game travel warning - Fulham Broadway closed; District Line disruption</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/tottenham-game-travel-warning-fulham-broadway-closed"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1642689909/site-sections/landing-pages/2021/Fulham_Broadway.jpg"/>
+    <id>tag:chelseafc.com,2026:news:30uhb1B2QBOiOQzuabvei6</id>
+    <published>2022-01-20T14:45:09Z</published>
+    <updated>2026-10-24T11:30:11Z</updated>
+    <summary>Article / Travel news / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Update for fans attending match versus Tottenham</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/update-for-fans-attending-match-versus-tottenham"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1782221712/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_aerial_with_fans_2025-26.jpg"/>
+    <id>tag:chelseafc.com,2026:news:26ucEpXQ8hkpZU0IthAX1d</id>
+    <published>2026-06-23T13:35:12Z</published>
+    <updated>2026-10-24T11:30:11Z</updated>
+    <summary>Article / Fans / date-source:cloudinary-version</summary>
   </entry>
   <entry>
     <title>Every duel matters 🔵⚪️</title>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792797289/video/2026/10/23/Screenshot_2026-10-24_at_00.14.39.png"/>
     <id>tag:chelseafc.com,2026:news:44OZeVvDspipDq31dE0QXk</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
+    <updated>2026-10-24T11:30:11Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792770902/editorial/partnerships/Sokin/Sokin_Sleeve_announcement_header.png"/>
     <id>tag:chelseafc.com,2026:news:URth3vJoKXirMSKt4MdxY</id>
     <published>2026-10-23T15:55:02Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
+    <updated>2026-10-24T11:30:11Z</updated>
     <summary>Article / Partner news / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792778988/video/2026/10/23/Sokin_Sleeve_KV3.jpg"/>
     <id>tag:chelseafc.com,2026:news:2kYpFXs9FWryObz4QBneCT</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
+    <updated>2026-10-24T11:30:11Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792759482/editorial/news/2026/10/23/alonso-training-stock-1.jpg"/>
     <id>tag:chelseafc.com,2026:news:3j4L468viirDHFIEWH7hMM</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Ticketing update</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ticketing-update"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792754453/editorial/Stamford%20Bridge%20general%20shots/Fans_arriving_outside_Stamford_Bridge_-_August_2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:369X44vB2e1auIy80k1r9h</id>
-    <published>2026-10-23T11:20:53Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
-    <summary>Article / Tickets / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: All set for Spurs!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-all-set-for-spurs"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792770934/editorial/news/2026/10/23/DTW_5161.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5mG9SqAFQmNlGjIOMFmHCA</id>
-    <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Cobham Unseen: pre-Tottenham (h) 💪</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/cobham-unseen-pre-tottenham-h-premier-league-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792792137/video/2026/10/23/261023_LF_V3_16x9.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4nlFR1OtrpWRmqFVxmHDC4</id>
-    <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso says Mike Penders is ready to show his qualities</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-says-mike-penders-is-ready-to-show-his-qualities"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792762212/editorial/news/2026/10/23/penders-training-22-oct-26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1Acx8nTPuxBif7QyExp92o</id>
-    <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso confirms Chelsea team news for Tottenham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-confirms-chelsea-team-news-for-tottenham"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792759481/editorial/news/2026/10/23/alonso-training-october-26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6nYzBdSaddiixrCE8iyvRZ</id>
-    <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T06:31:56Z</updated>
+    <updated>2026-10-24T11:30:11Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
