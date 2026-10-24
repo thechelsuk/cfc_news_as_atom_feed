@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-24T17:38:57Z</updated>
+  <updated>2026-10-24T19:47:08Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Match report: Chelsea 0-2 Tottenham Hotspur</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-0-2-tottenham-hotspur"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792866424/editorial/match-reports/2026-27/Tottenham%20%28H%29/Chelsea_players_vs_Spurs.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2NEyBdPhp8Hew5BCCRTqDR</id>
+    <published>2026-10-24T18:27:04Z</published>
+    <updated>2026-10-24T19:47:08Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Cesar Azpilicueta joins Chelsea Legends squad taking on Tottenham</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cesar-azpilicueta-chelsea-fc-legends-squad-vs-tottenham-legends"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792752527/editorial/Foundation/Legends%20game/2027_Legends_Match_Azpilicueta_announcement_clean.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Dfybo3po1nFwNjqmIusVu</id>
     <published>2026-10-23T10:48:47Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Article / Legends / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792857500/editorial/match-reports/2026-27/Tottenham%20%28H%29/Xabi_Alonso_Chelsea_Tottenham.jpg"/>
     <id>tag:chelseafc.com,2026:news:4Pj9mplZi10I5QDpW5symw</id>
     <published>2026-10-24T15:58:20Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792856217/editorial/news/2026/10/24/GettyImages-2301297338.jpg"/>
     <id>tag:chelseafc.com,2026:news:a5Ufc0A8tL02L2SO5Ap22</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792854755/editorial/match-reports/2026-27/Tottenham%20%28H%29/Chelsea_shirts_pre-Tottenham.jpg"/>
     <id>tag:chelseafc.com,2026:news:3ZovnkYiuYShGeZfBi9tTi</id>
     <published>2026-10-24T15:12:35Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792851416/editorial/news/2026/10/23/CL2_3589-3387440_4Iip0TEZ.jpg"/>
     <id>tag:chelseafc.com,2026:news:7I1D5gFdOe4g5WYQSzUi6M</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Article / U18s / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792857848/video/2026/10/24/FULL_MATCH_IPS.jpg"/>
     <id>tag:chelseafc.com,2026:news:1BdBZDr1Uzzbu7zsARmq6x</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792857848/video/2026/10/24/HIGHLIGHTS_IPS.jpg"/>
     <id>tag:chelseafc.com,2026:news:7EYSxzHvHfWrjmx4OeOkDL</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792860037/video/2026/10/24/HIGHLIGHTS_CNG_LIV.jpg"/>
     <id>tag:chelseafc.com,2026:news:28HhSWIy6rJcaKtpjhGMvT</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792860037/video/2026/10/24/FULL_MATCH_CNG_LIV.jpg"/>
     <id>tag:chelseafc.com,2026:news:6H3k2EKbX9ahzdgaxsqBZF</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792774430/editorial/news/2026/10/23/GettyImages-2299960327.jpg"/>
     <id>tag:chelseafc.com,2026:news:1nKv80RUVZcECbGDe4h6S3</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792762233/video/2026/10/23/261016_HARDING_FROM_WHERE_I_SIT_V5.jpg"/>
     <id>tag:chelseafc.com,2026:news:HMifCZsvRLYsWeTXw6Mrz</id>
     <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
+    <updated>2026-10-24T19:47:08Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso on harnessing passion and energy of ‘electric’ derby atmosphere</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-on-harnessing-passion-and-energy-of-electric-derby-atmosphere"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792767318/editorial/news/2026/10/23/GettyImages-2292208284.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5mt8OiWFJVw3Gzl90PfYaq</id>
-    <published>2026-10-23T00:00:00Z</published>
-    <updated>2026-10-24T17:38:57Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
