@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-25T09:20:13Z</updated>
+  <updated>2026-10-25T13:46:13Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Lacroix: ‘We must show the reaction of a competitor’</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lacroix-we-must-show-the-reaction-of-a-competitor"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792929744/editorial/news/2026/10/25/lacroix-tottenham-home.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4HpMs5KGdQiqK2zzFiBHkr</id>
+    <published>2026-10-25T00:00:00Z</published>
+    <updated>2026-10-25T13:46:13Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Confirmed Chelsea Women line up vs Crystal Palace </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-crystal-palace-wsl"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792922657/editorial/women%27s-team/2026/October/Crystal%20Palace%20%28a%29/HL3_2599_UvHj4AzW_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6Yn5N8pPuswW7iQderR7S4</id>
+    <published>2026-10-25T10:04:17Z</published>
+    <updated>2026-10-25T13:46:13Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Caicedo: 'Everybody knows what we need to improve'</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/caicedo-everybody-knows-what-we-need-to-improve"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792882757/editorial/news/2026/10/24/Moises_Caicedo_vs_Tottenham.jpg"/>
     <id>tag:chelseafc.com,2026:news:6sEGw9FTM68ixS5iMXnDAC</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792863478/editorial/match-reports/2026-27/Tottenham%20%28H%29/Mike_Penders_vs_Spurs.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Pc7hLWEYj9ogfHFlDQlCE</id>
     <published>2026-10-24T17:37:58Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792874296/video/2026/10/24/FULL_MATCH.png"/>
     <id>tag:chelseafc.com,2026:news:6Xo1UW0Ap8C6WnEdVWI1V</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792874290/video/2026/10/24/EXTENDED.png"/>
     <id>tag:chelseafc.com,2026:news:77RRw9tbPzQoy8Q2kDhSf5</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792848281/editorial/Academy/Under-21/R6AD7453.jpg"/>
     <id>tag:chelseafc.com,2026:news:7a8gyTAMloqKk4wyMmTRmH</id>
     <published>2026-10-24T13:24:41Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792873923/editorial/news/2026/10/24/Xabi_Alonso_Chelsea.jpg"/>
     <id>tag:chelseafc.com,2026:news:1G6Jr49eOec53ohgNfo5Lt</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792874290/video/2026/10/24/HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:2WYGCeGMgYPA05OAlzU5jY</id>
     <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792866424/editorial/match-reports/2026-27/Tottenham%20%28H%29/Chelsea_players_vs_Spurs.jpg"/>
     <id>tag:chelseafc.com,2026:news:2NEyBdPhp8Hew5BCCRTqDR</id>
     <published>2026-10-24T18:27:04Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792752527/editorial/Foundation/Legends%20game/2027_Legends_Match_Azpilicueta_announcement_clean.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Dfybo3po1nFwNjqmIusVu</id>
     <published>2026-10-23T10:48:47Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Article / Legends / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792857500/editorial/match-reports/2026-27/Tottenham%20%28H%29/Xabi_Alonso_Chelsea_Tottenham.jpg"/>
     <id>tag:chelseafc.com,2026:news:4Pj9mplZi10I5QDpW5symw</id>
     <published>2026-10-24T15:58:20Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Gallery: Blues arrive for London derby with Spurs</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-blues-arrive-for-london-derby-with-spurs"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792856217/editorial/news/2026/10/24/GettyImages-2301297338.jpg"/>
-    <id>tag:chelseafc.com,2026:news:a5Ufc0A8tL02L2SO5Ap22</id>
-    <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Confirmed Chelsea line up vs Tottenham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-tottenham-oct-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792854755/editorial/match-reports/2026-27/Tottenham%20%28H%29/Chelsea_shirts_pre-Tottenham.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3ZovnkYiuYShGeZfBi9tTi</id>
-    <published>2026-10-24T15:12:35Z</published>
-    <updated>2026-10-25T09:20:13Z</updated>
+    <updated>2026-10-25T13:46:13Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
