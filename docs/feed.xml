@@ -4,15 +4,69 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-26T10:33:41Z</updated>
+  <updated>2026-10-26T16:56:38Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Training gallery: Attention turns to Liverpool</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-attention-turns-to-liverpool"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793031643/DTW_7167_iarz1w.jpg"/>
+    <id>tag:chelseafc.com,2026:news:OvGD1pzSuODIeLFohyhkS</id>
+    <published>2026-10-26T16:20:43Z</published>
+    <updated>2026-10-26T16:56:38Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chizaram Ezenwata signs new deal</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chizaram-ezenwata-signs-new-deal"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793017100/editorial/Academy/main.jpg"/>
+    <id>tag:chelseafc.com,2026:news:ZFUEdBlAzIlyYDfvLyce3</id>
+    <published>2026-10-26T12:18:20Z</published>
+    <updated>2026-10-26T16:56:38Z</updated>
+    <summary>Article / Academy / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Bronze on Baltimore’s ‘magic’ and team desire proving decisive</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bronze-on-baltimores-magic-and-team-desire-proving-decisive"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793021638/editorial/news/2026/10/26/GettyImages-2302053467.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4TEWyRXOiusAlNQTBtvKai</id>
+    <published>2026-10-26T00:00:00Z</published>
+    <updated>2026-10-26T16:56:38Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Liverpool vs Chelsea preview: TV channel, kick-off time and how to watch</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/liverpool-vs-chelsea-preview-tv-channel-kick-off-time-and-how-to-watch"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793011186/editorial/news/2026/10/26/estevao-willian-carabao-cup.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2IYPkLKq5fsvJw6sUvj0Cp</id>
+    <published>2026-10-26T00:00:00Z</published>
+    <updated>2026-10-26T16:56:38Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Gallery: Malard inspires comeback win at Palace</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-malard-inspires-comeback-win-at-palace"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793017109/editorial/news/2026/10/26/malard-palacea.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6awIFkedV3UiIVgZmi1dme</id>
+    <published>2026-10-26T00:00:00Z</published>
+    <updated>2026-10-26T16:56:38Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>OTD: Christian Pulisic's epic hat-trick!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/_-burnley-2-4-chelsea---premier-league-highlights--q0c3vvate68oa6uwufmr-vx%E2%80%A6"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1584536072/video/2020/03/17/Pulisic_Burnley.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5p9yXSodDUgW20MvqcSkWy</id>
+    <published>2020-03-17T00:00:00Z</published>
+    <updated>2026-10-26T16:56:38Z</updated>
+    <summary>Video / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Goalscoring hero voted Star of the Match against Palace!</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/goalscoring-hero-voted-star-of-the-match-against-palace"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793006948/editorial/news/2026/10/26/malard-bompastor-palace-a.jpg"/>
     <id>tag:chelseafc.com,2026:news:7fqXJu2oAG5tsYa8SOcN13</id>
     <published>2026-10-26T00:00:00Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
+    <updated>2026-10-26T16:56:38Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792943421/editorial/news/2026/10/25/stamford-bridge-view-inside.jpg"/>
     <id>tag:chelseafc.com,2026:news:2eFOopEiHBoJYu2buo7rmZ</id>
     <published>2026-10-25T00:00:00Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
+    <updated>2026-10-26T16:56:38Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792943510/video/2026/10/25/HLs_Crystal_Palace_1-3_Chelsea_WSL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:4AnTud3MfMTLjosQxhg1ti</id>
     <published>2026-10-25T00:00:00Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
+    <updated>2026-10-26T16:56:38Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792945506/video/2026/10/25/FULL_Crystal_Palace_vs_Chelsea_WSL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:5h1Xz2zxAArOTVKdsfP65D</id>
     <published>2026-10-25T00:00:00Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
+    <updated>2026-10-26T16:56:38Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792944123/editorial/women%27s-team/2026/October/Crystal%20Palace%20%28a%29/HL2_8987_DDNvO1cB_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:18ZzEubfPI0oyuN2Ye8aO9</id>
     <published>2026-10-25T16:02:03Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
+    <updated>2026-10-26T16:56:38Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,61 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792928445/editorial/women%27s-team/2026/October/Crystal%20Palace%20%28a%29/2301901033.jpg"/>
     <id>tag:chelseafc.com,2026:news:4QTptJSm7b1zyMzRjoExy2</id>
     <published>2026-10-25T11:40:45Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
+    <updated>2026-10-26T16:56:38Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>'Wind is the worst opponent in football'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/sonia-bompastor-post-crystal-palace-1-3-chelsea-premier-league-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792942841/video/2026/10/25/16x9_Bompastor_post-Crystal_Palace_1-3_Chelsea_WSL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2zfDYMSf8JbgCIAnmWmdLZ</id>
-    <published>2026-10-25T00:00:00Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>'We're in a good place'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/lexi-potter-post-crystal-palace-1-3-chelsea-premier-league-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792942842/video/2026/10/25/16x9_Potter_post-Crystal_Palace_1-3_Chelsea_WSL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3GsReRfCGaid1WQMiOGMzp</id>
-    <published>2026-10-25T00:00:00Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Match report: Crystal Palace 1-3 Chelsea Women </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-crystal-palace-1-3-chelsea-women"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792935528/editorial/women%27s-team/2026/October/Crystal%20Palace%20%28a%29/HL2_8855_5ZIF2YPs_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:x16Swdschx1hitWXpOsrw</id>
-    <published>2026-10-25T13:38:48Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Lacroix: ‘We must show the reaction of a competitor’</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/lacroix-we-must-show-the-reaction-of-a-competitor"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792929744/editorial/news/2026/10/25/lacroix-tottenham-home.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4HpMs5KGdQiqK2zzFiBHkr</id>
-    <published>2026-10-25T00:00:00Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Confirmed Chelsea Women line up vs Crystal Palace </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-crystal-palace-wsl"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792922657/editorial/women%27s-team/2026/October/Crystal%20Palace%20%28a%29/HL3_2599_UvHj4AzW_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6Yn5N8pPuswW7iQderR7S4</id>
-    <published>2026-10-25T10:04:17Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Caicedo: 'Everybody knows what we need to improve'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/caicedo-everybody-knows-what-we-need-to-improve"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792882757/editorial/news/2026/10/24/Moises_Caicedo_vs_Tottenham.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6sEGw9FTM68ixS5iMXnDAC</id>
-    <published>2026-10-24T00:00:00Z</published>
-    <updated>2026-10-26T10:33:41Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
