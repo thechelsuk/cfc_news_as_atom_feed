@@ -4,15 +4,78 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-28T17:17:21Z</updated>
+  <updated>2026-10-28T21:42:54Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>'We had a really solid performance'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-post-roma-league-phase-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793221357/video/2026/10/28/REACTIONS.png"/>
+    <id>tag:chelseafc.com,2026:news:2QPstZrPH0bfjpZ68Ls4if</id>
+    <published>2026-10-28T00:00:00Z</published>
+    <updated>2026-10-28T21:42:54Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'I'm really happy about the clean sheet'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/buchanan-post-roma-league-phase-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793221356/video/2026/10/28/REACTIONS_1.png"/>
+    <id>tag:chelseafc.com,2026:news:4JDh10PtGLMf55LjVXFHSH</id>
+    <published>2026-10-28T00:00:00Z</published>
+    <updated>2026-10-28T21:42:54Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Sonia Bompastor updates on Lexi Potter injury and reflects on Roma </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-updates-on-lexi-potter-injury-and-reflects-on-roma"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793212457/editorial/women%27s-team/2026/October/Roma%20%28h%29/GettyImages-2302415864.jpg"/>
+    <id>tag:chelseafc.com,2026:news:ywQIdDrTkIqEsPMqYduCa</id>
+    <published>2026-10-28T18:34:17Z</published>
+    <updated>2026-10-28T21:42:54Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>UEFA Youth League report: Cobham Next Gen 2-2 Flora Tallinn</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/uefa-youth-league-report-cobham-next-gen-2-2-flora-tallinn"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793211111/editorial/Academy/20261028_UEFA_YL_Flora_Chelsea_JM_094.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4FQH97K0hw701Fjpwb3roR</id>
+    <published>2026-10-28T18:11:51Z</published>
+    <updated>2026-10-28T21:42:54Z</updated>
+    <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Match report: Chelsea Women 2-0 Roma</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-women-2-0-roma"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793214813/editorial/women%27s-team/2026/October/Roma%20%28h%29/GettyImages-2302419469.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1RNTFjLeEiIjUOgqtPcR8V</id>
+    <published>2026-10-28T19:13:33Z</published>
+    <updated>2026-10-28T21:42:54Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Alonso: It’s make or break</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-its-make-or-break"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793215971/editorial/match-reports/2026-27/Liverpool%20Carabao%20Cup/GettyImages-2302418156.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3AqM472Vlo3E3AUf3X7zSe</id>
+    <published>2026-10-28T19:32:51Z</published>
+    <updated>2026-10-28T21:42:54Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Confirmed Chelsea line up vs Liverpool</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-liverpool-carabao-cup"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793212343/editorial/match-reports/2026-27/Liverpool%20Carabao%20Cup/liverpool-dressing-room-a.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5GYCjNNJjOlp4X9jciw6Pm</id>
+    <published>2026-10-28T18:32:23Z</published>
+    <updated>2026-10-28T21:42:54Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Confirmed Chelsea Women line up vs Roma </title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-roma"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793203882/editorial/women%27s-team/2026/October/Roma%20%28h%29/HL3_1319_lzOE4gCD_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:5cWboz6stYWJ2yTNz2Brir</id>
     <published>2026-10-28T16:11:22Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
+    <updated>2026-10-28T21:42:54Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793120247/editorial/news/2026/10/27/welbeck-training-liverpool-carabao-16x9.jpg"/>
     <id>tag:chelseafc.com,2026:news:1M0MMwissW9sXKDOCCCNE1</id>
     <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
+    <updated>2026-10-28T21:42:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793126392/editorial/news/2026/10/27/GettyImages-2267413140.jpg"/>
     <id>tag:chelseafc.com,2026:news:2JhohjNIIr6cOgifVUqPlW</id>
     <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
+    <updated>2026-10-28T21:42:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793101583/editorial/news/2026/10/27/alonso-pre-liverpool-16x9.jpg"/>
     <id>tag:chelseafc.com,2026:news:kAXGKMkaaoCzgVqwa8QqG</id>
     <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
+    <updated>2026-10-28T21:42:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,70 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793108111/editorial/news/2026/10/27/GettyImages-2301483881.jpg"/>
     <id>tag:chelseafc.com,2026:news:2ilrPDN1QXvXxQhnNlbpae</id>
     <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>A cup rivalry for the ages continues 🏆</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/hype-pre-liverpool-a-league-cup-4th-round-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793150920/video/2026/10/27/Screenshot_2026-10-28_at_01.25.20.png"/>
-    <id>tag:chelseafc.com,2026:news:2TO9cn6ivU4WSU7G72riun</id>
-    <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Classic Match: Liverpool 1-2 Chelsea | League Cup</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/classic-match-liverpool-1-2-chelsea-or-league-cup-2018-19"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793149779/video/2026/10/27/FULL_CLASSIC_MATCH_Liverpool_1-2_Chelsea_League_Cup_2018-19.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5zjV9S3qafuKW4b7nTA8JP</id>
-    <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso outlines qualities 'reference' Danny Welbeck brings to Blues attack</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-outlines-qualities-reference-danny-welbeck-brings-to-blues"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793116145/editorial/news/2026/10/27/alonso-welbeck-oct26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7j3MBh6avfvwKIerMEWtQ</id>
-    <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Why Giulia Dragoni 'couldn't even dream' of representing Chelsea against former club Roma</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/why-giulia-dragoni-couldnt-dream-representing-chelsea-vs-roma"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793095075/editorial/news/2026/10/27/Dragoni_2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4aHYAvyJnMvIJNKEQq7j4p</id>
-    <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Erin Cuthbert on why she doesn't expect to walk straight back into the Chelsea team</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/erin-cuthbert-on-why-she-doesnt-expect-to-walk-straight-back-into-the"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793120240/editorial/news/2026/10/27/HL3_1257_yioe0M62_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5BD6T6TOX3Lna2fncgRoBy</id>
-    <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Key talking points from Sonia Bompastor and Erin Cuthbert's pre-Roma press conference </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/key-talking-points-from-sonia-bompastor-and-erin-cuthberts-pre-roma-press"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793116655/editorial/news/2026/10/27/HL3_0941_21jvUnR2_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5qHRDBIZ9uH6O8Jm86FRB8</id>
-    <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: Last push before Liverpool</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-last-push-before-liverpool"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793118900/editorial/news/2026/10/27/Estevao_DTW_8653.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3KHL7Wav82Y9eIev5xiy5F</id>
-    <published>2026-10-27T00:00:00Z</published>
-    <updated>2026-10-28T17:17:21Z</updated>
+    <updated>2026-10-28T21:42:54Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
