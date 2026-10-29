@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-29T01:15:04Z</updated>
+  <updated>2026-10-29T07:10:28Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Morgan Rogers on courage, pride and the ‘worst way to lose'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/morgan-rogers-on-courage-pride-and-the-worst-way-to-lose"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793232120/editorial/match-reports/2026-27/Liverpool%20Carabao%20Cup/rogers-clapping-fans-liverpool-away.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3pbVtFutdQEwGR6aQ1uoIZ</id>
+    <published>2026-10-29T00:02:00Z</published>
+    <updated>2026-10-29T07:10:28Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Highlights: Liverpool 1-1 Chelsea (6-5 pens)</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/efl-cup-highlights-liverpool-1-1-chelsea-6-5-pens-carabao-cup-4th-round"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793227113/video/2026/10/28/2MINS_Liverpool_1_6_-1_5_Chelsea_4th_Round_Carabao_Cup_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:17oixhfbxzO0Ly6SjRFeQc</id>
+    <published>2026-10-28T00:00:00Z</published>
+    <updated>2026-10-29T07:10:28Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Extended: Liverpool 1-1 Chelsea (6-5 pens)</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/efl-cup-extended-liverpool-1-1-chelsea-6-5-pens-carabao-cup-4th-round-26-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793229085/video/2026/10/28/EXT_Liverpool_1_6_-1_5_Chelsea_4th_Round_Carabao_Cup_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6CmbWes9kwPlAih8Aob9mp</id>
+    <published>2026-10-28T00:00:00Z</published>
+    <updated>2026-10-29T07:10:28Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'It's a bitter way to leave the competition'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/16x9-alonso-post-liverpool-1-6-1-5-chelsea-carabao-cup-4th-round-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793230636/video/2026/10/28/16x9_Alonso_post-Liverpool_1_6_-1_5_Chelsea_4th_Round_Carabao_Cup_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1Lfa2WvG89MxedP3WGDjLK</id>
+    <published>2026-10-28T00:00:00Z</published>
+    <updated>2026-10-29T07:10:28Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Alonso: We played with courage</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-we-played-with-courage"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793227026/editorial/match-reports/2026-27/Liverpool%20Carabao%20Cup/GettyImages-2301936416.jpg"/>
     <id>tag:chelseafc.com,2026:news:7EZ9f29h3Fe3jI8gCVUVGE</id>
     <published>2026-10-28T22:37:06Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
+    <updated>2026-10-29T07:10:28Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793226459/video/2026/10/28/HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:1G79RbjHot3hBrbiFrFytJ</id>
     <published>2026-10-28T00:00:00Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
+    <updated>2026-10-29T07:10:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,17 +66,8 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793228782/editorial/match-reports/2026-27/Liverpool%20Carabao%20Cup/GettyImages-2302432772.jpg"/>
     <id>tag:chelseafc.com,2026:news:1LTLAJ7EGRVyHXdFgiClFJ</id>
     <published>2026-10-28T23:06:22Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
+    <updated>2026-10-29T07:10:28Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>'It's a bitter way to leave the competition'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/16x9-alonso-post-liverpool-1-6-1-5-chelsea-carabao-cup-4th-round-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793230636/video/2026/10/28/16x9_Alonso_post-Liverpool_1_6_-1_5_Chelsea_4th_Round_Carabao_Cup_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1Lfa2WvG89MxedP3WGDjLK</id>
-    <published>2026-10-28T00:00:00Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
     <title>UWCL Extended: Chelsea 2-0 Roma</title>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793226458/video/2026/10/28/EXTENDED.png"/>
     <id>tag:chelseafc.com,2026:news:5lPBr45NKdC2W3yALKgC2O</id>
     <published>2026-10-28T00:00:00Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
+    <updated>2026-10-29T07:10:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793225145/editorial/match-reports/2026-27/Liverpool%20Carabao%20Cup/GettyImages-2302430570.jpg"/>
     <id>tag:chelseafc.com,2026:news:49fArWqtRpBqwoHUwL611e</id>
     <published>2026-10-28T22:05:45Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
+    <updated>2026-10-29T07:10:28Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793221357/video/2026/10/28/REACTIONS.png"/>
     <id>tag:chelseafc.com,2026:news:2QPstZrPH0bfjpZ68Ls4if</id>
     <published>2026-10-28T00:00:00Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
+    <updated>2026-10-29T07:10:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793221356/video/2026/10/28/REACTIONS_1.png"/>
     <id>tag:chelseafc.com,2026:news:4JDh10PtGLMf55LjVXFHSH</id>
     <published>2026-10-28T00:00:00Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
+    <updated>2026-10-29T07:10:28Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793212457/editorial/women%27s-team/2026/October/Roma%20%28h%29/GettyImages-2302415864.jpg"/>
     <id>tag:chelseafc.com,2026:news:ywQIdDrTkIqEsPMqYduCa</id>
     <published>2026-10-28T18:34:17Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>UWCL Full match: Chelsea vs Roma</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-full-match-chelsea-vs-roma-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793226458/video/2026/10/28/FULL_MATCH.png"/>
-    <id>tag:chelseafc.com,2026:news:6igVdnxxmKsRgci68fkFTt</id>
-    <published>2026-10-28T00:00:00Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>UEFA Youth League report: Cobham Next Gen 2-2 Flora Tallinn</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/uefa-youth-league-report-cobham-next-gen-2-2-flora-tallinn"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793211111/editorial/Academy/20261028_UEFA_YL_Flora_Chelsea_JM_094.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4FQH97K0hw701Fjpwb3roR</id>
-    <published>2026-10-28T18:11:51Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
-    <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Match report: Chelsea Women 2-0 Roma</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-women-2-0-roma"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793214813/editorial/women%27s-team/2026/October/Roma%20%28h%29/GettyImages-2302419469.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1RNTFjLeEiIjUOgqtPcR8V</id>
-    <published>2026-10-28T19:13:33Z</published>
-    <updated>2026-10-29T01:15:04Z</updated>
+    <updated>2026-10-29T07:10:28Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
