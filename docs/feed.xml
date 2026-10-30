@@ -4,15 +4,69 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-30T02:53:52Z</updated>
+  <updated>2026-10-30T09:20:17Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Unveiled today: Chelsea FC Collection by ART OF</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/unveiled-today-chelsea-fc-collection-by-art-of"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793285682/editorial/kit%20launches%202026-27/ART%20OF/ART_OF_LOGO_stadium.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5RKqLphMkUUmOsE3mGjIy2</id>
+    <published>2026-10-29T14:54:42Z</published>
+    <updated>2026-10-30T09:20:17Z</updated>
+    <summary>Article / On sale / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chelsea Under-18 vs West Ham United: How to watch it live</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-under-18-vs-west-ham-united-how-to-watch-it-live"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1786458464/editorial/Academy/Under-21/CL2_2657-3268682_u7y2EWGo.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1ljAFCjUTzeBEs0C5lBriF</id>
+    <published>2026-08-11T14:27:44Z</published>
+    <updated>2026-10-30T09:20:17Z</updated>
+    <summary>Article / U18s / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Chelsea vs Manchester United: Key statistics and facts</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-manchester-united-key-statistics-and-facts-26-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793280806/editorial/news/2026/10/29/GettyImages-2301791947.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3PtliEbnQARm6oY21cKk0j</id>
+    <published>2026-10-29T00:00:00Z</published>
+    <updated>2026-10-30T09:20:17Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Remembrance at Chelsea – Saturday’s support for poppy appeal, wartime heritage event and pre-match commemoration</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/remembrance-at-chelsea-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793272286/editorial/miscellaneous/remembrance/Remembrance_-_Stamford_Bridge_-_2025_-_wreath_laying.jpg"/>
+    <id>tag:chelseafc.com,2026:news:57xTeZwQqnuspvngzllkS6</id>
+    <published>2026-10-29T11:11:26Z</published>
+    <updated>2026-10-30T09:20:17Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>FPL 2026/27: Chelsea Gameweek 9</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/fpl-2026-27-chelsea-gameweek-9"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793287309/GettyImages-2302427880_ydb93x.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2vMcMiVdXWmczMyusOxI9s</id>
+    <published>2026-10-29T15:21:49Z</published>
+    <updated>2026-10-30T09:20:17Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>OTD: Costa stuns Southampton in 2016!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/vintage--costa-stuns-southampton-in-2016--f0zwdkzze6z5_snugzqfumrcy49lpx9-"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1538745017/video/2018/10/GettyImages-619278044.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7kDNnWIHKpLObVylezTtdH</id>
+    <published>2018-10-05T13:10:17Z</published>
+    <updated>2026-10-30T09:20:17Z</updated>
+    <summary>Video / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Training gallery: Recover, refresh and reset</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-recover-refresh-and-reset"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793295473/editorial/news/2026/10/29/Palmer_DTW_2014.jpg"/>
     <id>tag:chelseafc.com,2026:news:2a5P3r1L3Z6Df6t3uvWfG5</id>
     <published>2026-10-29T00:00:00Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
+    <updated>2026-10-30T09:20:17Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793291892/editorial/women%27s-team/2026/October/Roma%20%28h%29/HL3_2754_O91ImZGf_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:29YYvw6wscm88iyJX0dL8c</id>
     <published>2026-10-29T16:38:12Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
+    <updated>2026-10-30T09:20:17Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793289309/editorial/Foundation/Legends%20game/2027_Legends_Match_Makelele.jpg"/>
     <id>tag:chelseafc.com,2026:news:3fJJDrDZn8fdK3HmCFnaaS</id>
     <published>2026-10-29T15:55:09Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
+    <updated>2026-10-30T09:20:17Z</updated>
     <summary>Article / Legends / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -39,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793277377/editorial/news/2026/10/29/2026-cfcw-chelsea-women-stamford-bridge-view.jpg"/>
     <id>tag:chelseafc.com,2026:news:3tQ0zfKln3b4CH2r0MIlYE</id>
     <published>2026-10-29T00:00:00Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
+    <updated>2026-10-30T09:20:17Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793280198/editorial/venue/Hospo/Club_Chelsea_Man_United_game_Halloween_promo.jpg"/>
     <id>tag:chelseafc.com,2026:news:7BdO1hOZkEPQ2JeQ58Dgs5</id>
     <published>2026-10-29T13:23:18Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
+    <updated>2026-10-30T09:20:17Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,61 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793280087/editorial/women%27s-team/2026/October/Roma%20%28h%29/GettyImages-2302424144_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:5jG2aM4bWE5sUGVCt30Hjj</id>
     <published>2026-10-29T13:21:27Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
+    <updated>2026-10-30T09:20:17Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>UEFA Youth League gallery: All square against Flora Tallinn</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/uefa-youth-league-gallery-all-square-against-flora-tallinn"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793211116/editorial/Academy/20261028_UEFA_YL_Flora_Chelsea_JM_074.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1NqqqHkDBc26438hzF5QqD</id>
-    <published>2026-10-28T18:11:56Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
-    <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Cuthbert on breaking stubborn opponents and feeling fresh</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cuthbert-on-breaking-stubborn-opponents-and-feeling-fresh"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793277508/editorial/news/2026/10/29/GettyImages-2302418402.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1CPyIy7swiIkf52S3PQynZ</id>
-    <published>2026-10-29T00:00:00Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea vs Manchester United preview: TV channel, kick-off time and how to watch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-manchester-united-preview-tv-channel-kick-off-time-26-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793273674/editorial/news/2026/10/29/GettyImages-2301801287.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4FCQHIIGKeBWJYSRj1Gtsj</id>
-    <published>2026-10-29T00:00:00Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Romeo Lavia: We all fought for each other</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/romeo-lavia-we-all-fought-for-each-other"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793270911/editorial/news/2026/10/29/lavia-liverpool-away.jpg"/>
-    <id>tag:chelseafc.com,2026:news:46tOpeUBBF2vc6RxuJtcN6</id>
-    <published>2026-10-29T00:00:00Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Sonia Bompastor: 'I haven't seen a lot of players like Bronze!'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-i-havent-seen-a-lot-of-players-like-bronze"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793210448/editorial/women%27s-team/2026/October/Roma%20%28h%29/GettyImages-2302411679.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6IK1W2P1CFw3KDuW0QBDqh</id>
-    <published>2026-10-28T18:00:48Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>OTD: Frank Lampard's chip vs Hull 🔥</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/otd-lampards-chip-vs-hull"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1761578977/video/2025/10/27/lampard_chip_v_hull.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2dna9xyzag53ctS64N6tsg</id>
-    <published>2025-10-27T00:00:00Z</published>
-    <updated>2026-10-30T02:53:52Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
