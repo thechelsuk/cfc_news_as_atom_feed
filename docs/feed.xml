@@ -4,15 +4,60 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-10-30T16:01:19Z</updated>
+  <updated>2026-10-30T20:40:44Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Chelsea vs Man United | Ready for a thriller 🎃</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/hype-pre-manchester-united-h-premier-league-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793383243/video/2026/10/30/Screenshot_2026-10-30_at_17.59.32.png"/>
+    <id>tag:chelseafc.com,2026:news:5Z4tX3n8xBvATJQP1yPi8Y</id>
+    <published>2026-10-30T00:00:00Z</published>
+    <updated>2026-10-30T20:40:44Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Xabi Alonso: ‘I want to see the good version of us’</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-i-want-to-see-the-good-version-of-us"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793362304/editorial/news/2026/10/30/alonso-training-291026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3lzatUv9tHgNY0EoeKG8Ve</id>
+    <published>2026-10-30T00:00:00Z</published>
+    <updated>2026-10-30T20:40:44Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Training gallery: All together for United</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-all-together-for-united"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793380606/editorial/news/2026/10/30/Caicedo_DTW_2646.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1TimRpfcjnd6bBNQmmQIPg</id>
+    <published>2026-10-30T00:00:00Z</published>
+    <updated>2026-10-30T20:40:44Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Key talking points from Sonia Bompastor's pre-Charlton press conference </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/key-talking-points-from-sonia-bompastors-pre-charlton-press-conference"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793379912/editorial/news/2026/10/30/HL3_1255_OF5PTKHw.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4924ZennGDLeQzOMxv5hsr</id>
+    <published>2026-10-30T00:00:00Z</published>
+    <updated>2026-10-30T20:40:44Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Bompastor Press Conference 🎙️</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-press-conference-30-10-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793376452/video/2026/10/30/PRESS_CONFERENCE_SONIA_FINAL.png"/>
+    <id>tag:chelseafc.com,2026:news:DPDYrt2PPKZhQPrTwmNRJ</id>
+    <published>2026-10-30T00:00:00Z</published>
+    <updated>2026-10-30T20:40:44Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Bompastor updates on Lexi Potter ahead of Charlton</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-updates-on-lexi-potter-ahead-of-charlton"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793375804/editorial/news/2026/10/30/potter-roma-home-lexi.jpg"/>
     <id>tag:chelseafc.com,2026:news:3qbQhbPv8ajZD0vru7SXiF</id>
     <published>2026-10-30T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
+    <updated>2026-10-30T20:40:44Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793365670/editorial/news/2026/10/30/Chelsea_app_campaign_social_post_1920_x_1080_px.png"/>
     <id>tag:chelseafc.com,2026:news:7gQMZPNK3EhrK3LO2qvfbl</id>
     <published>2026-10-30T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
+    <updated>2026-10-30T20:40:44Z</updated>
     <summary>Article / Club / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793371391/editorial/news/2026/10/30/fofana-stock-2627.jpg"/>
     <id>tag:chelseafc.com,2026:news:11idVo6LZte9Rj29XbUmSK</id>
     <published>2026-10-30T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
+    <updated>2026-10-30T20:40:44Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg"/>
     <id>tag:chelseafc.com,2026:news:1txhV97atXIELUPtQ04M66</id>
     <published>2026-09-21T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
+    <updated>2026-10-30T20:40:44Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg"/>
     <id>tag:chelseafc.com,2026:news:6f6a1VHxSC7f25JqBrjLjE</id>
     <published>2026-10-30T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
+    <updated>2026-10-30T20:40:44Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793374932/video/2026/10/30/16x9_Alonso_pre-Man_Utd_h__EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:2Jjk3Zd9sIDbewY7oAA2uW</id>
     <published>2026-10-30T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
+    <updated>2026-10-30T20:40:44Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793361809/editorial/Academy/38acb92c-43ca-46e9-9615-839bc7e2cf28.jpg"/>
     <id>tag:chelseafc.com,2026:news:Gmlufzt55t7MJtjDXzcPn</id>
     <published>2026-10-30T12:03:29Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
+    <updated>2026-10-30T20:40:44Z</updated>
     <summary>Article / Academy / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Levi Colwill: We’re learning with every day and every game</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/levi-colwill-were-learning-with-every-day-and-every-game"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793358448/editorial/news/2026/10/30/GettyImages-2301889526.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1Fflg4YFeomGmK1GgFtQQS</id>
-    <published>2026-10-30T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Last chance to be there for Chelsea versus Manchester United</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/last-chance-to-be-there-for-chelsea-versus-manchester-united"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793361568/editorial/venue/Hospo/Club_Chelsea_promo_-_Manchester_United_home.jpg"/>
-    <id>tag:chelseafc.com,2026:news:0bMa2ZOWl293ePl2i15lE</id>
-    <published>2026-10-30T11:59:28Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
-    <summary>Article / Club Chelsea / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Charlton vs Chelsea Women: How to watch, kick-off time, live stream info </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/charlton-vs-chelsea-women-how-to-watch-kick-off-time-live-stream-info"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793214332/editorial/women%27s-team/2026/October/Roma%20%28h%29/HL2_9603_hej0Fj6p_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4cS8p4hjjfEYF2jEQgvccm</id>
-    <published>2026-10-28T19:05:32Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>All you need to know: Chelsea vs Manchester United</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/all-you-need-to-know-chelsea-vs-manchester-united"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793287513/editorial/news/2026/10/29/stamford-bridge-inside-view-2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5IsRoz2sDvL8G6lu4x2STK</id>
-    <published>2026-10-29T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>How do you juggle a World Cup with exams?! | S4 Ep 7</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/wac-s4-ep7-nelly-lola-30-10-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793362515/video/2026/10/30/WEARE_CHELSEA_UPDATED_FINAL.png"/>
-    <id>tag:chelseafc.com,2026:news:2EtD8PpugEA4k095AuwoID</id>
-    <published>2026-10-30T00:00:00Z</published>
-    <updated>2026-10-30T16:01:19Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
