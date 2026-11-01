@@ -4,15 +4,60 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-01T08:12:15Z</updated>
+  <updated>2026-11-01T15:10:05Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Confirmed Chelsea Women line up vs Charlton Athletic</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-charlton-athletic"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793539029/editorial/news/2026/11/01/HL3_5120_BS3BG5c5_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4djuZaRQ9Ysu8aWaOzIm2z</id>
+    <published>2026-11-01T00:00:00Z</published>
+    <updated>2026-11-01T15:10:05Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>CFC Unlocked | Morgan Rogers 🔓</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cfc-unlocked-or-episode-twelve-or-morgan-rogers"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790243679/video/2026/09/24/16x9_MORGAN_ROGERS_Ep_12_CFC_UNLOCKED.jpg"/>
+    <id>tag:chelseafc.com,2026:news:22LOsnzmWOWkdAwZXMvgi</id>
+    <published>2026-09-24T00:00:00Z</published>
+    <updated>2026-11-01T15:10:05Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>The Haunted Cottage</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/261027-haunted-house-v5.2-1"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793525229/editorial/news/2026/11/01/Screenshot_2026-11-01_092343.png"/>
+    <id>tag:chelseafc.com,2026:news:3MyxNSV4FvG5PlGDdzlaK9</id>
+    <published>2026-11-01T00:00:00Z</published>
+    <updated>2026-11-01T15:10:05Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>What a performance from Romeo!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/lavia-potm-vs-man-united-4x5-31-10-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793534416/video/2026/11/01/GettyImages-2302951944.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1PIm4YKeWXCvaMQ4V5fK8J</id>
+    <published>2026-11-01T00:00:00Z</published>
+    <updated>2026-11-01T15:10:05Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>What a performance from Romeo! </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/lavia-potm-vs-man-united-16x9-31-10-26"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793534416/video/2026/11/01/GettyImages-2302951944.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7o6cJyJdPaqf2XWDHXI8rP</id>
+    <published>2026-11-01T00:00:00Z</published>
+    <updated>2026-11-01T15:10:05Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Xabi Alonso reflects on a 'very important' clean sheet and stable Mike Penders</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-reflects-on-a-very-important-clean-sheet-and-stable-mike"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg"/>
     <id>tag:chelseafc.com,2026:news:3s0OfbBgwui0egMr5wfO86</id>
     <published>2026-10-31T21:23:45Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
+    <updated>2026-11-01T15:10:05Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg"/>
     <id>tag:chelseafc.com,2026:news:6WSKVrfW2uw5S6DvaEpfLk</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
+    <updated>2026-11-01T15:10:05Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793459200/video/2026/10/31/EXT_Chelsea_2-0_Man_Utd_EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:7Aj7v9nqcR5dXA9bPVvWBd</id>
     <published>2026-10-31T00:00:00Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
+    <updated>2026-11-01T15:10:05Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793459200/video/2026/10/31/FULL_Chelsea_2-0_Man_Utd_EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:1lXHWgKhh0C64bFYZaHcTD</id>
     <published>2026-10-31T00:00:00Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
+    <updated>2026-11-01T15:10:05Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg"/>
     <id>tag:chelseafc.com,2026:news:2MRLeecPiUQ8wHt342DyjT</id>
     <published>2026-10-31T15:44:06Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
+    <updated>2026-11-01T15:10:05Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg"/>
     <id>tag:chelseafc.com,2026:news:6a81vdiGXT2Qpy9laOJ9BV</id>
     <published>2026-10-31T00:00:00Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
+    <updated>2026-11-01T15:10:05Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg"/>
     <id>tag:chelseafc.com,2026:news:3sUUjVqut1CC6RufxDBPrc</id>
     <published>2026-10-31T00:00:00Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
+    <updated>2026-11-01T15:10:05Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>PL Highlights: Chelsea 2-0 Man Utd</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-highlights-chelsea-2-0-manchester-united-or-premier-league-or-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793459200/video/2026/10/31/2MINS_Chelsea_2-0_Man_Utd_EPL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1GvR465oLi3tUMBRbjx5w9</id>
-    <published>2026-10-31T00:00:00Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>'We reacted at half-time'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/xabi-alonso-post-chelsea-2-0-man-utd-or-premier-league-or-2026-27-1"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793466872/video/2026/10/31/16x9_Alonso_post-Chelsea_2-0_Man_Utd_EPL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3TRGPdVqEKaal7cVHFd6bt</id>
-    <published>2026-10-31T00:00:00Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>'The team spirit was immense'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/romeo-lavia-post-chelsea-2-0-man-utd-or-premier-league-or-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793466872/video/2026/10/31/16x9_Lavia_post-Chelsea_2-0_Man_Utd_EPL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7MhXgx7zqd8YH2nEqU96tX</id>
-    <published>2026-10-31T00:00:00Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso reveals half-time instruction that helped Blues defeat Man United</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-reveals-half-time-instruction-that-helped-blues-defeat-man"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7xw8pQKPAOdo9Re6Jarnox</id>
-    <published>2026-10-31T15:46:08Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Match report: Chelsea 2-0 Manchester United</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-2-0-manchester-united"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1MH4gdQn9PNicBonBT3uXd</id>
-    <published>2026-10-31T14:44:26Z</published>
-    <updated>2026-11-01T08:12:15Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
