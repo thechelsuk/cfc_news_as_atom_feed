@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-01T19:38:03Z</updated>
+  <updated>2026-11-01T23:03:35Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>WSL Highlights: Charlton Athletic 0-6 Chelsea </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-highlights-charlton-athletic-women-0-6-chelsea-women-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793552956/video/2026/11/01/wsl_highlights_vs_charlton_thumbnail.png"/>
+    <id>tag:chelseafc.com,2026:news:1kiKecceBjaqpv3kM1aVXk</id>
+    <published>2026-11-01T00:00:00Z</published>
+    <updated>2026-11-01T23:03:35Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>'We need to keep winning'</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-post-charlton-athletic-women-0-6-chelsea-premier-league-2026-27"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793555061/video/2026/11/01/reaction_vs_charlton_sb_thumbnail.png"/>
     <id>tag:chelseafc.com,2026:news:2xmapAghWBzPdXrpIjER6i</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,25 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793555049/video/2026/11/01/reaction_vs_charlton_nb_thumbnail.png"/>
     <id>tag:chelseafc.com,2026:news:5gPW9fcPNukCY4UulLYKQR</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Walsh excited by Chelsea's free-flowing attack after Charlton victory</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/walsh-excited-by-chelseas-free-flowing-attack-after-charlton-victory"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793562895/editorial/news/2026/11/01/keira-walsh-charlton-november-2026_1.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4ZpoIvSWXS5rpfpeQ6RpVC</id>
+    <published>2026-11-01T00:00:00Z</published>
+    <updated>2026-11-01T23:03:35Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>WSL Full Match: Charlton Athletic Women vs Chelsea Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-full-match-charlton-athletic-women-vs-chelsea-women-or-womens-super"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793553062/video/2026/11/01/full_match_v_charlton_women_thumbnail.png"/>
+    <id>tag:chelseafc.com,2026:news:4K7NGjewzA3BgTEorwBqsy</id>
+    <published>2026-11-01T00:00:00Z</published>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793553225/video/2026/11/01/GettyImages-2302845333.jpg"/>
     <id>tag:chelseafc.com,2026:news:9SjPvazH25Eydnd2J5xgG</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793553229/editorial/news/2026/11/01/lauren-james-charlton-november-2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:1y8SIg9uAp7gNjZnPqypli</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793554786/editorial/news/2026/11/01/mike-penders-man-united-november-2026_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:3BNOlToO4WdGyfbkpHorCU</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793549852/editorial/news/2026/11/01/chelsea-charlton-athletic-november-2026-nathalie-bjorn.jpg"/>
     <id>tag:chelseafc.com,2026:news:63wzEnZWAhgR8k0YZGt5cA</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793545504/editorial/news/2026/11/01/CL1_9261-3462436_VgQDivw6.jpg"/>
     <id>tag:chelseafc.com,2026:news:2UxtcyOgr5XhNk3EY2kwMv</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793539029/editorial/news/2026/11/01/HL3_5120_BS3BG5c5_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:4djuZaRQ9Ysu8aWaOzIm2z</id>
     <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,34 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790243679/video/2026/09/24/16x9_MORGAN_ROGERS_Ep_12_CFC_UNLOCKED.jpg"/>
     <id>tag:chelseafc.com,2026:news:22LOsnzmWOWkdAwZXMvgi</id>
     <published>2026-09-24T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
+    <updated>2026-11-01T23:03:35Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>The Haunted Cottage</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/261027-haunted-house-v5.2-1"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793525229/editorial/news/2026/11/01/Screenshot_2026-11-01_092343.png"/>
-    <id>tag:chelseafc.com,2026:news:3MyxNSV4FvG5PlGDdzlaK9</id>
-    <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>What a performance from Romeo! </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/lavia-potm-vs-man-united-16x9-31-10-26"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793534416/video/2026/11/01/GettyImages-2302951944.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7o6cJyJdPaqf2XWDHXI8rP</id>
-    <published>2026-11-01T00:00:00Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso reflects on a 'very important' clean sheet and stable Mike Penders</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-reflects-on-a-very-important-clean-sheet-and-stable-mike"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3s0OfbBgwui0egMr5wfO86</id>
-    <published>2026-10-31T21:23:45Z</published>
-    <updated>2026-11-01T19:38:03Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
