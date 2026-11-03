@@ -4,15 +4,33 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-03T16:34:12Z</updated>
+  <updated>2026-11-03T21:56:39Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Training gallery: The work starts again at Cobham</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-the-work-starts-again-at-cobham"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793725280/DTW_5733_1_jd8zwo.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1bt7kjJN9Q55HCMsjas2lX</id>
+    <published>2026-11-03T17:01:20Z</published>
+    <updated>2026-11-03T21:56:39Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Not On Our Pitch: Chelsea FC Women and Flo show period shame the Pink Card</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/not-on-our-pitch-chelsea-fc-women-and-flo-show-period-shame-the-pink-card"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793701379/editorial/partnerships/Here%20we%20Flo/Flo_-_not_on_our_pitch_campaign.png"/>
+    <id>tag:chelseafc.com,2026:news:2IXJQBxxXq3TdLC7i42wWo</id>
+    <published>2026-11-03T10:22:59Z</published>
+    <updated>2026-11-03T21:56:39Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Giulia Dragoni: 'I want young Italian girls to dream of playing for Chelsea'</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/giulia-dragoni-i-want-young-italian-girls-to-dream-of-playing-for-chelsea"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793717683/editorial/news/2026/11/03/dragoni-celebrations-first-goal.jpg"/>
     <id>tag:chelseafc.com,2026:news:6uRGaNACY6gjTXiQmF0Rgs</id>
     <published>2026-11-03T00:00:00Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793706874/editorial/news/2026/11/03/henderson-joao-pedro-rogers-celebration.jpg"/>
     <id>tag:chelseafc.com,2026:news:ZwVsAwO6gHk0mVgniYnDk</id>
     <published>2026-11-03T00:00:00Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793713932/video/2026/11/03/261103_GOTM_MEN_16X9_v2.jpg"/>
     <id>tag:chelseafc.com,2026:news:3Ir9bDanRs2vs6iayUjrQX</id>
     <published>2026-11-03T00:00:00Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793703328/editorial/news/2026/11/03/palmer-penalty-man-utd-oct-26.jpg"/>
     <id>tag:chelseafc.com,2026:news:7wybxE77OyGFNFiS6pdlav</id>
     <published>2026-11-03T00:00:00Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793632853/editorial/Academy/TD2_6785_op6OlcUf_MVEHEiUx.jpg"/>
     <id>tag:chelseafc.com,2026:news:57XLVfy60R6zx2FMUDn8Ti</id>
     <published>2026-11-02T15:20:53Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793104446/editorial/merchandise/USA%20online%20store/USA_online_store_launch_-_clean.png"/>
     <id>tag:chelseafc.com,2026:news:3BsLRtALZS7uxvdfJA9XkU</id>
     <published>2026-10-27T12:34:06Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / On sale / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793623243/editorial/news/2026/11/02/GettyImages-2302843467.jpg"/>
     <id>tag:chelseafc.com,2026:news:6kd1tLPlwrJ8fZUFwQM2Vk</id>
     <published>2026-11-02T00:00:00Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793614066/editorial/news/2026/11/02/DTW_4521-3462444_qencu6sd.jpg"/>
     <id>tag:chelseafc.com,2026:news:xJcYsl0RoOeG9i2v2QvBE</id>
     <published>2026-11-02T00:00:00Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793638450/editorial/women%27s-team/2026/November/Charlton%20%28a%29/HL4_2708_klzBeu9h.jpg"/>
     <id>tag:chelseafc.com,2026:news:4aSVBJvxl2WZGEDVVsF2uG</id>
     <published>2026-11-02T16:54:10Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793632353/editorial/women%27s-team/2026/November/Charlton%20%28a%29/HL4_1441_3Ash3bpL_copy_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:32Sp4OgbKmLdITTYMQtAJd</id>
     <published>2026-11-02T15:12:33Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Ellie Carpenter feeling good and taking positives from Charlton win</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ellie-carpenter-feeling-good-and-taking-positives-from-charlton-win"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793617073/editorial/women%27s-team/2026/November/Charlton%20%28a%29/HL4_1687_FFW6tIAU_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6NaeM5g3JdSLYLhj12bElX</id>
-    <published>2026-11-02T10:57:53Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Sonia Bompastor on why every tiny detail matters for Chelsea this season</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-on-why-every-tiny-detail-matters-for-chelsea-this-season"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793615459/editorial/women%27s-team/2026/November/Charlton%20%28a%29/GettyImages-2302992325.jpg"/>
-    <id>tag:chelseafc.com,2026:news:KdK32MXsNbF3st6P0r6ZH</id>
-    <published>2026-11-02T10:30:59Z</published>
-    <updated>2026-11-03T16:34:12Z</updated>
+    <updated>2026-11-03T21:56:39Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
 </feed>
