@@ -4,15 +4,24 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-06T17:27:54Z</updated>
+  <updated>2026-11-06T22:15:17Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Key talking points from Sonia Bompastor's pre-Everton press conference </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/key-talking-points-from-sonia-bompastors-pre-everton-press-conference-wsl"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793976974/editorial/news/2026/11/06/HAT15245_BzpFctlx.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4raKUjLeXLyVw8Szcn1krP</id>
+    <published>2026-11-06T00:00:00Z</published>
+    <updated>2026-11-06T22:15:17Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Training gallery: Working towards Wearside</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-working-towards-wearside"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793985388/editorial/news/2026/11/06/Palmer_DAR_8086.jpg"/>
     <id>tag:chelseafc.com,2026:news:5OH8wrShaDJzoTPIpbOGyu</id>
     <published>2026-11-06T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793978581/editorial/news/2026/11/06/GettyImages-2303021285.jpg"/>
     <id>tag:chelseafc.com,2026:news:79rkDaKaDqAHAxad1SCJNK</id>
     <published>2026-11-06T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793977881/editorial/news/2026/11/06/HL2_9955_xGI0RAHE.jpg"/>
     <id>tag:chelseafc.com,2026:news:6j0srXoBQVtITBtgghs6f5</id>
     <published>2026-11-06T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793969441/editorial/news/2026/11/06/Chelsea_press_conference_Xabi_Alonso.jpg"/>
     <id>tag:chelseafc.com,2026:news:59QCKxgPULl8uNoRbcF4nf</id>
     <published>2026-11-06T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793975856/video/2026/11/06/16x9_Alonso_pre-Sunderland_a__EPL_2026-27.jpg"/>
     <id>tag:chelseafc.com,2026:news:6DQpzc5PXQu8IN2YQmts1y</id>
     <published>2026-11-06T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,8 +66,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1759142375/editorial/Stamford%20Bridge%20general%20shots/stamford_Bridge_view_-_night_-_pitch_level.jpg"/>
     <id>tag:chelseafc.com,2026:news:3tIGvY6bkJQCTuoHqLDuTl</id>
     <published>2025-09-29T10:39:35Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>PGA Division 1 report: Chelsea Women Under-18s 4-0 Sunderland</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/pga-division-1-report-chelsea-women-under-18s-4-0-sunderland"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793984670/editorial/news/2026/11/06/HAT25896_7jgapd5b.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7f7MPU6PtJhX7PTeVPuS7N</id>
+    <published>2026-11-06T00:00:00Z</published>
+    <updated>2026-11-06T22:15:17Z</updated>
+    <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Bompastor and Blues quartet nominated for WSL awards </title>
@@ -66,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792588259/editorial/news/2026/10/21/hamano-celebration.jpg"/>
     <id>tag:chelseafc.com,2026:news:11zIHyOWf8oEmEvHxuyHis</id>
     <published>2026-10-21T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1790716992/editorial/news/2026/09/29/morgan-rogers-england-czechia-september-2026_1.jpg"/>
     <id>tag:chelseafc.com,2026:news:cokl6xe1wW32mQraIJfSO</id>
     <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -84,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793967459/GettyImages-2301974104_1_nmjkse.jpg"/>
     <id>tag:chelseafc.com,2026:news:21A9HpiNW5tliHwq67B6CI</id>
     <published>2026-11-06T12:17:39Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Men's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -93,25 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793960417/editorial/miscellaneous/remembrance/poppies_-_big_screen_-_2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:6FbG1vspf6QNUCxHGV2g2Y</id>
     <published>2026-11-06T10:20:17Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
+    <updated>2026-11-06T22:15:17Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Sunderland vs Chelsea: Key statistics and facts</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sunderland-vs-chelsea-key-statistics-and-facts-26-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793885470/editorial/news/2026/11/05/GettyImages-2303009623.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6kCxYoWd8Pf8xkKg77fVCX</id>
-    <published>2026-11-05T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>OTD: Robben cracker vs Everton | 6 November 2004</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/otd-robben-cracker-vs-everton-or-6-november-2004"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1762341282/video/2025/11/05/robben_v_everton_2004.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2UUjXkwoEG8OJTCY12jiH0</id>
-    <published>2025-11-05T00:00:00Z</published>
-    <updated>2026-11-06T17:27:54Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
