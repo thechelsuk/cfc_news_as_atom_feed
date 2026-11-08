@@ -4,16 +4,52 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-08T01:54:14Z</updated>
+  <updated>2026-11-08T08:25:24Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Why Xabi Alonso wants 'busy weeks' in his Chelsea future</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/why-xabi-alonso-wants-busy-weeks-in-his-chelsea-future"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794085149/editorial/news/2026/11/07/xabi-alonso-training-november-2026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:283ovULGarDtU7RCdm8won</id>
+    <published>2026-11-07T00:00:00Z</published>
+    <updated>2026-11-08T08:25:24Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Opposition scout – Sunderland</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/opposition-scout-sunderland-november-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794085822/editorial/news/2026/11/07/GettyImages-2303796052.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4PTRHZedtJI8VHHYUnSeqv</id>
+    <published>2026-11-07T00:00:00Z</published>
+    <updated>2026-11-08T08:25:24Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>WSL Highlights: Chelsea 1-1 Everton</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-highlights-chelsea-women-1-1-everton-women-2026-27"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794063561/video/2026/11/07/highlights_cfcw_vs_efcw_2627.png"/>
     <id>tag:chelseafc.com,2026:news:7jkegyNuhi2QNryEY9cevP</id>
     <published>2026-11-07T00:00:00Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
+    <updated>2026-11-08T08:25:24Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>OTD: Gianfranco Zola joins Chelsea - watch all his goals!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/otd-gianfranco-zola-joins-chelsea-watch-all-his-goals"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1531918959/editorial/news/2018/7/zola-gullit-1254309.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7pi4EtzbrAn7GCwhCFWf9d</id>
+    <published>2018-07-18T13:02:39Z</published>
+    <updated>2026-11-08T08:25:24Z</updated>
+    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Gianfranco Zola’s greatest moments in Blue</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-legends-gianfranco-zolas-greatest-moments-in-blue"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1743177698/editorial/news/2025/03/28/zola-2002-free-kick.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4EMrD1C95apL30Q97N5iVQ</id>
+    <published>2025-03-28T00:00:00Z</published>
+    <updated>2026-11-08T08:25:24Z</updated>
+    <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
     <title>Full Match: Chelsea U18s vs Charlton U18s</title>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794060861/video/2026/11/07/FULL_MATCH_CHA_U18.jpg"/>
     <id>tag:chelseafc.com,2026:news:3n7v2QNkiT40T3fK5qTkYh</id>
     <published>2026-11-07T00:00:00Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
+    <updated>2026-11-08T08:25:24Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1761230328/editorial/news/2025/10/23/terry-cech-drogba-sunderland-title-trophy-win-2015.jpg"/>
     <id>tag:chelseafc.com,2026:news:7vdNlWP8qNGisiV1oXNmhV</id>
     <published>2025-10-23T00:00:00Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
+    <updated>2026-11-08T08:25:24Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794064448/editorial/women%27s-team/2026/November/Everton%20%28h%29/HAT16620_CrvKAi6S_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:6fhMUzI3c1A3A47dftY3bM</id>
     <published>2026-11-07T15:14:08Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
+    <updated>2026-11-08T08:25:24Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794069521/video/2026/11/07/bompastor_reaction_to_everton_women.png"/>
     <id>tag:chelseafc.com,2026:news:1jGXq2oQcrAAdf2a23hrWH</id>
     <published>2026-11-07T00:00:00Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
+    <updated>2026-11-08T08:25:24Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794069519/video/2026/11/07/cuthberteaction_to_everton_women.png"/>
     <id>tag:chelseafc.com,2026:news:6DeGuX5NZ5HpkOCgLBuS6T</id>
     <published>2026-11-07T00:00:00Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
+    <updated>2026-11-08T08:25:24Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794042772/editorial/Academy/CL2_8686-3473294_cTPAyuQA.jpg"/>
     <id>tag:chelseafc.com,2026:news:1BJphHOvs3PO0fTlxgzSzA</id>
     <published>2026-11-07T09:12:52Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
+    <updated>2026-11-08T08:25:24Z</updated>
     <summary>Article / Cobham Next Gen / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793985539/editorial/news/2026/11/06/lavia-training-november-2026.jpg"/>
     <id>tag:chelseafc.com,2026:news:2MUMjfeCxyCtEGruzMuVLD</id>
     <published>2026-11-06T00:00:00Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Frustrated Bompastor: 'We were not clinical or ruthless enough'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/frustrated-bompastor-we-were-not-clinical-or-ruthless-enough"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794064448/editorial/women%27s-team/2026/November/Everton%20%28h%29/HAT18972_yCgSAuKy_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5myFTuaF9PRSMK0dkOhpIN</id>
-    <published>2026-11-07T15:14:08Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Match report: Chelsea Women 1-1 Everton</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-women-1-1-everton"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794060369/editorial/women%27s-team/2026/November/Everton%20%28h%29/2303967529.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5EcEbngG3hp5EuOyNjPRyN</id>
-    <published>2026-11-07T14:06:09Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>U18 Premier League Cup report: Chelsea Under-18s 3-1 Charlton Under-18s</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/u18-premier-league-cup-report-chelsea-under-18s-3-1-charlton-under-18s"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794053274/editorial/Academy/R1AD8453.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3E6njW4Ljj5iwqEurIFxo1</id>
-    <published>2026-11-07T12:07:54Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
-    <summary>Article / U18s / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Penders on learning quickly, that Mbeumo save and dreaming big</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/mike-penders-on-learning-plenty-that-save-from-mbeumo-dreaming-big-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793969258/editorial/news/2026/11/06/penders-celebration-man-utd-home.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6D6AhBLTXAF7CDTy6gsw9j</id>
-    <published>2026-11-06T00:00:00Z</published>
-    <updated>2026-11-08T01:54:14Z</updated>
+    <updated>2026-11-08T08:25:24Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
 </feed>
