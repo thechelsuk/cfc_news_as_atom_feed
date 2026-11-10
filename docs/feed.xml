@@ -4,15 +4,60 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-10T18:34:49Z</updated>
+  <updated>2026-11-10T23:41:01Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>UWCL Highlights: BK Hacken Women 0-0 Chelsea Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-highlights-bk-hacken-women-0-0-chelsea-women-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794351931/video/2026/11/10/3MINS_Hacken_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5XTQCXJcJ99XU8zahqsOeq</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T23:41:01Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'We were not clinical and ruthless'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-post-bk-hacken-0-0-chelsea-women-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794348523/video/2026/11/10/16x9_Bompastor_post-Hacken_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6u8UXBBUM2QZjTDPcm02LM</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T23:41:01Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'Hacken put their bodies on the line'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/nathalie-bjorn-post-bk-hacken-0-0-chelsea-women-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794348584/video/2026/11/10/16x9_Bjorn_post-Hacken_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:fppxOLTs8k76y9Hn0HGeQ</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T23:41:01Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Sonia Bompastor: 'We need to refocus and move on'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-we-need-to-refocus-and-move-on"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794341327/editorial/women%27s-team/2026/November/Hacken%20%28a%29/GettyImages-2304465671.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1mdky7fi1EYXiAbTKLWxuW</id>
+    <published>2026-11-10T20:08:47Z</published>
+    <updated>2026-11-10T23:41:01Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>Match report: Hacken 0-0 Chelsea </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-hacken-0-0-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794339843/editorial/women%27s-team/2026/November/Hacken%20%28a%29/GettyImages-2304486842.jpg"/>
+    <id>tag:chelseafc.com,2026:news:0mNqs6VHIunxjNKFzMLRg</id>
+    <published>2026-11-10T19:44:03Z</published>
+    <updated>2026-11-10T23:41:01Z</updated>
+    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
+  </entry>
   <entry>
     <title>Cahill to take on Tottenham again in Legends match</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gary-cahill-chelsea-legends-vs-tottenham-legends"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794305917/editorial/Foundation/Legends%20game/Legends_Match_2027_Cahill-Announcement_Web_Home_Hero.jpg"/>
     <id>tag:chelseafc.com,2026:news:75kr0yVDJoA3BDOmJhImev</id>
     <published>2026-11-10T10:18:37Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
+    <updated>2026-11-10T23:41:01Z</updated>
     <summary>Article / Legends / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794324982/editorial/women%27s-team/2026/November/Hacken%20%28a%29/HL3_2621_KGlM0xnK_copy.jpg"/>
     <id>tag:chelseafc.com,2026:news:2CvtZYOR0WCHsMwGmyYrTP</id>
     <published>2026-11-10T15:36:22Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
+    <updated>2026-11-10T23:41:01Z</updated>
     <summary>Article / Women's Team / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1775559728/video/2026/04/07/cahill_iv.jpg"/>
     <id>tag:chelseafc.com,2026:news:xK2ccKyS2imZK2UfqVJja</id>
     <published>2026-04-07T00:00:00Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
+    <updated>2026-11-10T23:41:01Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794312115/editorial/news/2026/11/10/Alonso_DAZ_7014.jpg"/>
     <id>tag:chelseafc.com,2026:news:75TK95OxrKW8mP3CECtbg4</id>
     <published>2026-11-10T00:00:00Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
+    <updated>2026-11-10T23:41:01Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1520000339/editorial/news/2018/2/di-matteo-79024985.jpg"/>
     <id>tag:chelseafc.com,2026:news:8hhl9qdGKupu3ZkgHgOy2</id>
     <published>2018-03-02T14:18:59Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
+    <updated>2026-11-10T23:41:01Z</updated>
     <summary>Article / On sale / date-source:cloudinary-version</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794305567/editorial/news/2026/11/10/romeo-lavia-non-kit.jpg"/>
     <id>tag:chelseafc.com,2026:news:6FtByfjno0Tun0d8nvHNam</id>
     <published>2026-11-10T00:00:00Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
+    <updated>2026-11-10T23:41:01Z</updated>
     <summary>Article / Men's Team / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1793962706/editorial/news/2026/11/06/HL4_0062_c6xxEkdw.jpg"/>
     <id>tag:chelseafc.com,2026:news:20jiuJJ9Zyg4pOOV592spI</id>
     <published>2026-11-06T00:00:00Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>OTD: Pedro Neto scores his first league goal for Chelsea!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/otd-pedro-neto-scored-his-first-pl-goal-for-chelsea-10-11-25"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1762775885/video/2025/11/10/pedro_neto_goal_otd.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6doOsEC90KUq65hlZ9XeK9</id>
-    <published>2025-11-10T00:00:00Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Three Women’s Super League matches at the Bridge in 2027 now on sale</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/three-womens-super-league-matches-at-the-bridge-in-2027-to-go-on-sale"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794224673/editorial/tickets%20and%20memberships/CFCW/CFCW_team_walk-out_Nov_2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:UzeVIfFQSKHZfNv96zKw0</id>
-    <published>2026-11-09T11:44:33Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>UNCUT TRAINING ahead of Hacken 💫</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/uncut-training-clip-ahead-of-hacken-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794296884/video/2026/11/10/16x9_TRAINING_pre-Hacken_a__League_Stage_UWCL_2026-27.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4HPllmEMLFhzHqaOdoCS70</id>
-    <published>2026-11-10T00:00:00Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bompastor on latest team news and needing to be at our best against Hacken</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-on-latest-team-news-and-needing-to-be-at-our-best-against-hacken"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794256834/editorial/news/2026/11/09/HL3_4553_VRfZjCf9.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5HxU4AZXUqmpj7tjy0lIn</id>
-    <published>2026-11-09T00:00:00Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea Women travelling squad confirmed for Hacken</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-women-travelling-squad-confirmed-for-hacken"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794237216/editorial/news/2026/11/09/HL3_1309_DFL92CM4_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:28pG29RsS6ZJLQoAbq6YaV</id>
-    <published>2026-11-09T00:00:00Z</published>
-    <updated>2026-11-10T18:34:49Z</updated>
+    <updated>2026-11-10T23:41:01Z</updated>
     <summary>Article / Women's Team / date-source:path-date</summary>
   </entry>
 </feed>
