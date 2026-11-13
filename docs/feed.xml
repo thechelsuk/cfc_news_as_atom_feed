@@ -1,117 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chelsea FC - Latest News</title>
-  <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
+  <title>Chelsea FC - Latest News (moved)</title>
+  <link rel="alternate" href="https://thechelsuk.github.io/uk.thechels.cfcnews/"/>
   <link rel="self" href="https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-13T17:35:47Z</updated>
-  <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <updated>2026-11-13T21:37:54Z</updated>
+  <subtitle>This feed has moved and is no longer updated. Subscribe to https://thechelsuk.github.io/uk.thechels.cfcnews/feed.xml instead.</subtitle>
   <entry>
-    <title>Key talking points from Sonia Bompastor's pre-Man City press conference</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/key-talking-points-from-sonia-bompastors-pre-man-city-press-conference"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794585056/editorial/news/2026/11/13/bompastor-press-conference-november-2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4PRfJlyaPb714TdWzJQub7</id>
-    <published>2026-11-13T00:00:00Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Sonia Bompastor named WSL Manager of the Month</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-named-wsl-manager-of-the-month"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794587997/editorial/news/2026/11/13/Sonia_Bompastor_Manager_of_the_Month.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6U6NglSAKoyi5ZgDq1psko</id>
-    <published>2026-11-13T00:00:00Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Bompastor updates on James and Girma availability ahead of Man City</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-updates-on-james-and-girma-availability-ahead-of-man-city"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794584086/editorial/news/2026/11/13/GettyImages-2303044705.jpg"/>
-    <id>tag:chelseafc.com,2026:news:79H6abGJoTJ73MppjU9HVD</id>
-    <published>2026-11-13T00:00:00Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Favourite late winners: The quarter-final results!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/favourite-late-winners-the-quarter-final-results"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1759603045/editorial/match-reports/2025-26/Liverpool%20%28H%29/Estevao_Willian_scores_vs_Liverpool.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4ajUstqsFsVMsN8bQmbCFD</id>
-    <published>2025-10-04T18:37:25Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Mike Penders save voted Premier League’s best</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/mike-penders-save-voted-premier-leagues-best"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794506854/editorial/news/2026/11/12/GettyImages-2303009588.jpg"/>
-    <id>tag:chelseafc.com,2026:news:KHK3rJp8Bf5G23bChLTF2</id>
-    <published>2026-11-12T00:00:00Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Premier League ticket news: Manchester City away</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-city-away-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1765533979/editorial/stadium-views/other-clubs/Etihad_Stadium_aerial_view_November_2025.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5gyF9OJ24XpJ1jCTLiGOh</id>
-    <published>2025-12-12T10:06:19Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Men's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Temporary disruption to club email services  </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/temporary-disruption-to-club-email-services"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1694533863/editorial/news/2023/09/12/badge_-_top_of_West_Stand_outside_-_Stamford_Bridge_stadium.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4HURr2bHzjgueVZYa4AQb3</id>
-    <published>2023-09-12T00:00:00Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Club / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Cuthbert on heavyweight Man City clash and 'pivotal' fans' support </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cuthbert-on-heavyweight-man-city-clash-and-pivotal-fans-support"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794562076/editorial/news/2026/11/13/cuthbert-everton-november-26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2dmXhfnNUxzhMVdMorbktJ</id>
-    <published>2026-11-13T00:00:00Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Women's Team / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Classic Match: Fulham 1-4 Chelsea </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-classic-match-fulham-1-4-chelsea-premier-league-2004-05"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794569785/video/2026/11/13/fulham_vs_chelsea_2004.png"/>
-    <id>tag:chelseafc.com,2026:news:2CWi7gC99fdxSU0IWU8v3b</id>
-    <published>2026-11-13T00:00:00Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Chelsea’s first-ever central London pop-up store opens for Christmas season </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelseas-first-ever-central-london-pop-up-store-opens-for-christmas-season"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794554114/editorial/merchandise/Christmas%202026/pop-up_shop_front_1.jpg"/>
-    <id>tag:chelseafc.com,2026:news:uAcmTtAjadFvJwqrgZynz</id>
-    <published>2026-11-13T07:15:14Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / On sale / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Free tickets available for Chelsea Women Academy match at Kingsmeadow vs Birmingham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/free-tickets-available-for-chelsea-women-academy-match-nov-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1792419162/editorial/tickets%20and%20memberships/CFCW/Jaymya_Putnam_-_Womens_U18_match_vs_Arsenal_-_Kingsmeadow.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4whj5mzvuVwkO9bCTMKdhP</id>
-    <published>2026-10-19T14:12:42Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Women's Team / date-source:cloudinary-version</summary>
-  </entry>
-  <entry>
-    <title>Once a Blue: Ron Harris </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/once-a-blue-ron-harris"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1674222389/editorial/news/2023/01/20/Ron_Harris_1966.jpg"/>
-    <id>tag:chelseafc.com,2026:news:35ImRRtwh89WsWsFBS0CYU</id>
-    <published>2023-01-20T00:00:00Z</published>
-    <updated>2026-11-13T17:35:47Z</updated>
-    <summary>Article / Men's Team / date-source:path-date</summary>
+    <title>This feed has moved: subscribe to https://thechelsuk.github.io/uk.thechels.cfcnews/feed.xml</title>
+    <link rel="alternate" href="https://thechelsuk.github.io/uk.thechels.cfcnews/feed.xml"/>
+    <id>tag:thechels.uk,2026-11-13:cfc-feed-moved</id>
+    <published>2026-11-13T21:37:54Z</published>
+    <updated>2026-11-13T21:37:54Z</updated>
+    <summary>This feed has stopped updating. The Chelsea FC news feed now lives at https://thechelsuk.github.io/uk.thechels.cfcnews/feed.xml. Add that address to your feed reader and remove this one. There's also a quick-loading page with the same headlines at https://thechelsuk.github.io/uk.thechels.cfcnews/</summary>
   </entry>
 </feed>

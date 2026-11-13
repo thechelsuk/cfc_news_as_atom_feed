@@ -1,3 +1,15 @@
+# Chelsea FC Atom Feed (moved)
+
+**This feed has moved.** Subscribe to
+<https://thechelsuk.github.io/uk.thechels.cfcnews/feed.xml> instead. The new home is the
+[uk.thechels.cfcnews](https://github.com/thechelsuk/uk.thechels.cfcnews) repo, which also has a quick-loading page of
+the same headlines.
+
+This repo no longer polls Chelsea. Its `docs/feed.xml` holds a single entry pointing to the new feed, so existing
+subscribers see where to go.
+
+---
+
 # Chelsea FC Atom Feed
 
 This is an unofficial Atom feed for Chelsea FC's "Latest News" page, built by polling
